@@ -3,6 +3,8 @@ Acá es donde vas a organizar todo
 
 ## Making Sense
 
+#
+
 + My Thoughts 
 	+ [[Social]]
 	+ [[Existencial]]

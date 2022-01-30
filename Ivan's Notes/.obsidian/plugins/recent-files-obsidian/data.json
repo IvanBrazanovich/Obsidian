@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "001 Context",
-      "path": "001 Context.md"
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
+      "basename": "Miedo",
+      "path": "Miedo.md"
     },
     {
       "basename": "Weekly Template",
@@ -17,10 +21,6 @@
       "path": "Journal/Daily/2022-01-30.md"
     },
     {
-      "basename": "Miedo",
-      "path": "Miedo.md"
-    },
-    {
       "basename": "2022-01-29",
       "path": "Journal/Daily/2022-01-29.md"
     },
@@ -31,10 +31,6 @@
     {
       "basename": "Daily Template",
       "path": "Templates/Daily Template.md"
-    },
-    {
-      "basename": "000 Home",
-      "path": "000 Home.md"
     },
     {
       "basename": "Javascript",

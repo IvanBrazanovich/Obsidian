@@ -54,5 +54,5 @@ Como ya hablamos antes, el mundo es increíblemente impredecible. A la hora de i
 
 [[Everything has a price]]
 
-
+[[El juego es individual]]
 

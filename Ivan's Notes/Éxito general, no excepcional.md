@@ -1,0 +1,3 @@
+Si eliges a una persona áltamente exitosa y copias lo que hace, es altamente probable que no tengas los mismos resultados. Es semejante ver a alguien con 105 años que fumó toda su vida, no significa que fumar no sea malo, si ves en las estadísticas generales, fumar te mata muy muy rápido. 
+
+Es tentador ver un resultado y querer copiarlo. Pero no es buena idea. Lo que si es buena idea es comparar cientos y miles de resultados positivos y extraer los denominadores comunes, lo que te daría estadísticamente una mayor probabilidad de tener éxito.
