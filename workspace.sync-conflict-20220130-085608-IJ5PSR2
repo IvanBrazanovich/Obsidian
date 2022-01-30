@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "39d2cbd2a501afea",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a152fb5585e87c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b38d4e5e08b4e0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "932216a8da806cab",
+        "type": "tabs",
+        "dimension": 73.5009671179884,
+        "children": [
+          {
+            "id": "c1a6f8f047003722",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d090e7c4cb65c91a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e924f8b74ddf504b",
+        "type": "tabs",
+        "dimension": 26.4990328820116,
+        "children": [
+          {
+            "id": "b48d250dcce1e9d8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5961bd8b2529b481",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f54259d56814a8a",
+        "type": "tabs",
+        "dimension": 64.15458937198068,
+        "children": [
+          {
+            "id": "660fc608308e1700",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a0361cfc5cf67528",
+        "type": "tabs",
+        "dimension": 35.84541062801932,
+        "children": [
+          {
+            "id": "278e540a3fe3fab9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.0001220703125,
+    "collapsed": true
+  },
+  "active": "22a152fb5585e87c",
+  "lastOpenFiles": [
+    "000 Home.md",
+    "Templates/Non-Fiction Book.md",
+    "Standard.md",
+    "Journal/Daily/2022-01-30.md",
+    "Miedo.md",
+    "Confianza.md",
+    "Focus.md",
+    "Criptomonedas.md",
+    "It's hard to plan long term.md",
+    "The Psychology of Money.md"
+  ]
+}

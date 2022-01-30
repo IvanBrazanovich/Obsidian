@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "171628a1fcaf03bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5a861cce391073c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Como utilizar Obsidian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ff3446672a2797f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5fa91df37967f549",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "dbf1693142462985",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "73ae40e77b8726dc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2a6ad982731128d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Como utilizar Obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "a5a861cce391073c",
+  "lastOpenFiles": [
+    "Como utilizar Obsidian.md",
+    "Ok anasheee.md"
+  ]
+}

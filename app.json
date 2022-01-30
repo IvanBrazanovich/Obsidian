@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "attachmentFolderPath": "Attatchments",
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-419",
+    "en-US",
+    "es"
+  ]
+}
