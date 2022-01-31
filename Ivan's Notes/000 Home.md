@@ -30,4 +30,12 @@ Acá es donde vas a organizar todo
 
 
 + Questions 
-	+ 
+
+
+
+
+
+
+# Tags 
+#CoreBelief #ToDevelop #Pregunta #Religión
+#Psychology 
