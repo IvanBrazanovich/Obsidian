@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Journal/Daily/2022-01-30.md",
             "mode": "source",
             "source": false
           }
@@ -19,16 +19,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7b38d4e5e08b4e0a",
+    "id": "aaf0b7b8942e0ac0",
     "type": "split",
     "children": [
       {
-        "id": "932216a8da806cab",
+        "id": "80f950b85ed8f7a5",
         "type": "tabs",
-        "dimension": 73.5009671179884,
+        "dimension": 75.05567928730513,
         "children": [
           {
-            "id": "c1a6f8f047003722",
+            "id": "04412687d8b01efc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "d090e7c4cb65c91a",
+            "id": "646e027e79db3319",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -53,12 +53,12 @@
         ]
       },
       {
-        "id": "e924f8b74ddf504b",
+        "id": "fa13118977cb2178",
         "type": "tabs",
-        "dimension": 26.4990328820116,
+        "dimension": 24.94432071269488,
         "children": [
           {
-            "id": "b48d250dcce1e9d8",
+            "id": "c68e1612f6eff5e9",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -69,27 +69,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "5961bd8b2529b481",
+    "id": "c77c37c32321bd6a",
     "type": "split",
     "children": [
       {
-        "id": "7f54259d56814a8a",
+        "id": "b0457f60463c777a",
         "type": "tabs",
         "children": [
           {
-            "id": "660fc608308e1700",
+            "id": "6fcbc768c82c28f6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Journal/Daily/2022-01-30.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -99,11 +100,11 @@
         ]
       },
       {
-        "id": "20aaefadf143af7a",
+        "id": "1a2b460b3032b7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d683aa7a4ff743d1",
+            "id": "ffd966baba32c3b1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -114,20 +115,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
+    "width": 300,
     "collapsed": true
   },
   "active": "e4183fb2cfbd47fe",
   "lastOpenFiles": [
+    "Journal/Daily/2022-01-30.md",
+    "Pessimism vs optimism.md",
+    "The Psychology of Money.md",
+    "Templates/Non-Fiction Book.md",
+    "Attatchments/Pasted image 20220109152032.png",
+    "Books.md",
     "000 Home.md",
     "001 Context.md",
     "Miedo.md",
-    "Templates/Weekly Template.md",
-    "Live on a context.md",
-    "Journal/Daily/2022-01-30.md",
-    "Journal/Daily/2022-01-29.md",
-    "Journal/Daily/2022-01-09 Primer día averga si anda.md",
-    "Templates/Daily Template.md",
-    "Javascript.md"
+    "Templates/Weekly Template.md"
   ]
 }

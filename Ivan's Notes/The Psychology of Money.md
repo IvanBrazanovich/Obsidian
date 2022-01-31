@@ -56,3 +56,4 @@ Como ya hablamos antes, el mundo es increíblemente impredecible. A la hora de i
 
 [[El juego es individual]]
 
+[[Pessimism vs optimism]]
