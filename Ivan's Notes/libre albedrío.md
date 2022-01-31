@@ -1,0 +1,1 @@
+Soy el que tiene que tomar la decisión de hacer las cosas. No existe el Destino, o al menos no tengo que pensarlo.

@@ -47,8 +47,10 @@ No se puede predecir ningún tipo de futuro. Como no se puede predecir nada y el
 El mundo económico no es lo que era hace 5 años, menos hace 10 y así y así. 
 
 ### Room for error
+
 Como ya hablamos antes, el mundo es increíblemente impredecible. A la hora de invertir y ahorrar debes pensar en el margen de error. En el margen de error que necesitas para lo bueno y lo malo. Me refiero a que todo es posible y puede ser que se de una crisis como que las acciones que compraste suban al cielo. Es necesario tener un rango de posibilidades en mente y poder ver en el futuro lo que podría llegar a pasar y tenerlo en cuenta a la hora de invertir. Es por eso que algunos inversores ahorran el triple de lo que piensan que deberían. Y me refiero a que si creen que deben ahorrar 3 dólares para vivir bien dentro de 50 años terminan ahorrando 9 dólares. También aplica para lo bueno, podría ser que en el futuro tendrás la oportunidad de entrar en una inversión fabulosa pero no tienes el capital necesario.
 
+[[Room for error]]
 
 [[It's hard to plan long term]]
 
@@ -57,3 +59,5 @@ Como ya hablamos antes, el mundo es increíblemente impredecible. A la hora de i
 [[El juego es individual]]
 
 [[Pessimism vs optimism]]
+
+[[We will believe anything ]]

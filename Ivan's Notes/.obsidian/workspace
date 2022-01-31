@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-01-30.md",
+            "file": "libre albedrío.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-01-30.md",
+                "file": "libre albedrío.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "e4183fb2cfbd47fe",
   "lastOpenFiles": [
+    "libre albedrío.md",
     "Journal/Daily/2022-01-30.md",
     "Pessimism vs optimism.md",
     "The Psychology of Money.md",
@@ -128,7 +129,6 @@
     "Books.md",
     "000 Home.md",
     "001 Context.md",
-    "Miedo.md",
-    "Templates/Weekly Template.md"
+    "Miedo.md"
   ]
 }
