@@ -61,3 +61,13 @@ Como ya hablamos antes, el mundo es increíblemente impredecible. A la hora de i
 [[Pessimism vs optimism]]
 
 [[We will believe anything ]]
+
+[[Low cost index funds]]
+
+
+
+
+https://www.youtube.com/watch?v=Gg8_TA7U0Uw&ab_channel=AliAbdaal
+
+
+https://www.youtube.com/watch?v=TJDcGv9OH4Q&ab_channel=TheSwedishInvestor

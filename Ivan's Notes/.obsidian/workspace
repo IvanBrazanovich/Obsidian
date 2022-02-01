@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Journal/Daily/2022-01-31.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c77c37c32321bd6a",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Journal/Daily/2022-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,13 +120,13 @@
   },
   "active": "e4183fb2cfbd47fe",
   "lastOpenFiles": [
+    "Journal/Daily/2022-01-31.md",
+    "The Psychology of Money.md",
     "000 Home.md",
     "Respeto.md",
-    "Journal/Daily/2022-01-31.md",
     "libre albedrío.md",
     "Journal/Daily/2022-01-30.md",
     "Pessimism vs optimism.md",
-    "The Psychology of Money.md",
     "Templates/Non-Fiction Book.md",
     "Attatchments/Pasted image 20220109152032.png",
     "Books.md"
