@@ -1,9 +1,9 @@
 [
+  "calendar",
+  "obsidian-hider",
+  "obsidian-minimal-settings",
+  "obsidian-git",
   "periodic-notes",
   "recent-files-obsidian",
-  "sliding-panes-obsidian",
-  "calendar",
-  "obsidian-minimal-settings",
-  "obsidian-hider",
-  "obsidian-git"
+  "sliding-panes-obsidian"
 ]

@@ -3,3 +3,6 @@ A la hora de invertir resulta pertinente hacer un análisis del juego que preten
 El problema es cuando un inversionista a largo plazo piensa "todos estos están poniendo tanto dinero en este activo, deben saber más que yo " y compran ese activo. Luego, cuando la burbuja explota, estos inversionistas a largo plazo pierden mucho dinero. El error es dejarte llevar por el juego que ellos están jugando, y no analizar tu juego. Si se trata de inversiones a largo plazo no importa cuanto suba o baje un activo en un período de 1 año o 2, porque tu estás en una vista de 10 años o quizás más.
 
 Es semejante a ver a un doctor ganando mucho dinero y teniendo una vida de lujo y pensar "yo quiero eso". Pero el error reside en no tener en cuenta la pregunta "¿Qué juego está jugando él y cuál juego yo?". Capaz el tenga valores y prioridades muy distintas a las tuyas, al igual que habilidades y creencias. Ver lo que hace alguien que tenga resultados no significa que si los copias tendrás los mismos resultados. Ni siquiera significa que los querrías. Esto se ve en [[Éxito general, no excepcional]]
+
+
+#finance 

@@ -38,4 +38,4 @@ Acá es donde vas a organizar todo
 
 # Tags 
 #CoreBelief #ToDevelop #Pregunta #Religión
-#Psychology 
+#Psychology #finance 

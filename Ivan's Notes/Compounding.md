@@ -1,0 +1,3 @@
+Es muy difícil de comprender intuitivamente el concepto de invertir a largo plazo. Resulta más fácil invertir a corto plazo y esperar un resultado rápido. Pero no hay que ignorar el hecho de que un retorno del 15% o el 20% te puede hacer millonario en cuestión de un par de años. El aumento no es lineal, sino que es exponencial. Uno de los mejores consejos es comenzar a invertir lo más antes posible.
+
+#finance #ToDevelop 

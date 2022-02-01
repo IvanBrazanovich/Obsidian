@@ -1,0 +1,3 @@
+Es básicamente income - ego. Mientras más ego tienes, más piensas que necesitas. Ya sea para impresionar a los demás, sentirte mejor contigo mismo o tratar de ganar el respeto y admiración de los demás. Pero en realidad no necesitas nada de eso de verdad. La cantidad de dinero que necesitas para vivir bien no es gigantesca. Una vez que consigues vivir bien, deberías parar con los gastos, porque gastar más o comprar cosas nuevas no te hará sentir mejor. 
+
+#finance 

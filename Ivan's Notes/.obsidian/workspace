@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-01-31.md",
+            "file": "Javascript.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#toDevelop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c77c37c32321bd6a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-01-31.md",
+                "file": "Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,11 +99,11 @@
         ]
       },
       {
-        "id": "1a2b460b3032b7fc",
+        "id": "f45e63744884ffee",
         "type": "tabs",
         "children": [
           {
-            "id": "ffd966baba32c3b1",
+            "id": "b712f5ec4ac4a40f",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -115,20 +114,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e4183fb2cfbd47fe",
   "lastOpenFiles": [
-    "Journal/Daily/2022-01-31.md",
-    "The Psychology of Money.md",
+    "Javascript.md",
     "000 Home.md",
-    "Respeto.md",
-    "libre albedrío.md",
-    "Journal/Daily/2022-01-30.md",
+    "Books.md",
+    "Por qué dormimos.md",
+    "Crecimiento económico de EEUU luego de WW2.md",
+    "The Psychology of Money.md",
     "Pessimism vs optimism.md",
-    "Templates/Non-Fiction Book.md",
-    "Attatchments/Pasted image 20220109152032.png",
-    "Books.md"
+    "El juego es individual.md",
+    "Everything has a price.md",
+    "No se puede predecir el futuro.md"
   ]
 }
