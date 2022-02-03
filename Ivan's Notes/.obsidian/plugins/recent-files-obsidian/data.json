@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Javascript",
-      "path": "Javascript.md"
+      "basename": "2022-02-01",
+      "path": "Journal/Daily/2022-02-01.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
+      "basename": "Sam Walton",
+      "path": "Sam Walton.md"
     },
     {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
     {
-      "basename": "Books",
-      "path": "Books.md"
+      "basename": "The Psychology of Money",
+      "path": "The Psychology of Money.md"
+    },
+    {
+      "basename": "Cómo afecta la historia personal a las finanzas",
+      "path": "Cómo afecta la historia personal a las finanzas.md"
+    },
+    {
+      "basename": "Javascript",
+      "path": "Javascript.md"
     },
     {
       "basename": "Por qué dormimos",
@@ -19,10 +35,6 @@
     {
       "basename": "Crecimiento económico de EEUU luego de WW2",
       "path": "Crecimiento económico de EEUU luego de WW2.md"
-    },
-    {
-      "basename": "The Psychology of Money",
-      "path": "The Psychology of Money.md"
     },
     {
       "basename": "Pessimism vs optimism",
@@ -97,16 +109,8 @@
       "path": "La importancia de la suerte.md"
     },
     {
-      "basename": "Cómo afecta la historia personal a las finanzas",
-      "path": "Cómo afecta la historia personal a las finanzas.md"
-    },
-    {
       "basename": "Wealth = income - ego",
       "path": "Wealth = income - ego.md"
-    },
-    {
-      "basename": "2022-02-01",
-      "path": "Journal/Daily/2022-02-01.md"
     },
     {
       "basename": "pushing limits",
@@ -195,10 +199,6 @@
     {
       "basename": "People",
       "path": "People.md"
-    },
-    {
-      "basename": "Pasted image 20220109152102",
-      "path": "Attatchments/Pasted image 20220109152102.png"
     }
   ],
   "omittedPaths": [],

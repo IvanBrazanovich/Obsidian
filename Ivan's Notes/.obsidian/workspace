@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript.md",
+            "file": "Journal/Daily/2022-02-01.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#toDevelop",
+                "query": "Sam ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa13118977cb2178",
@@ -69,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c77c37c32321bd6a",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "Journal/Daily/2022-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +116,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "e4183fb2cfbd47fe",
   "lastOpenFiles": [
-    "Javascript.md",
-    "000 Home.md",
+    "Journal/Daily/2022-02-01.md",
     "Books.md",
+    "Sam Walton.md",
+    "000 Home.md",
+    "The Psychology of Money.md",
+    "Cómo afecta la historia personal a las finanzas.md",
+    "Javascript.md",
     "Por qué dormimos.md",
     "Crecimiento económico de EEUU luego de WW2.md",
-    "The Psychology of Money.md",
-    "Pessimism vs optimism.md",
-    "El juego es individual.md",
-    "Everything has a price.md",
-    "No se puede predecir el futuro.md"
+    "Pessimism vs optimism.md"
   ]
 }
