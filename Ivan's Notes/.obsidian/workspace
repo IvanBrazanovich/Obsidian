@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e4183fb2cfbd47fe",
+        "id": "7238183896c9add3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-01.md",
+            "file": "Journal/Daily/2022-02-03.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sam ",
+                "query": "sherlock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa13118977cb2178",
@@ -70,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c77c37c32321bd6a",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-01.md",
+                "file": "Journal/Daily/2022-02-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,20 +114,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e4183fb2cfbd47fe",
+  "active": "7238183896c9add3",
   "lastOpenFiles": [
-    "Journal/Daily/2022-02-01.md",
+    "Journal/Daily/2022-02-03.md",
     "Books.md",
+    "The Sherlock Home arrangement principle.md",
     "Sam Walton.md",
-    "000 Home.md",
-    "The Psychology of Money.md",
-    "Cómo afecta la historia personal a las finanzas.md",
-    "Javascript.md",
-    "Por qué dormimos.md",
-    "Crecimiento económico de EEUU luego de WW2.md",
-    "Pessimism vs optimism.md"
+    "El deseo de ser el mejor -Sam Walton.md",
+    "El respeto por el dolar -Sam Walton.md",
+    "We will believe anything.md",
+    "Confirmattion bias.md",
+    "Confirmation bias.md",
+    "Standard.md"
   ]
 }

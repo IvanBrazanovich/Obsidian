@@ -1,0 +1,7 @@
+Sherlock Holmes dijo:
+
+"You see," he explained, "I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things, so that he has difficulty laying his hands upon it. Now the skillful workman is very careful indeed as to what he takes into his brain-attic. He will have nothing but the tools which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order. It is a mistake to think that that little room has elastic walls and can distend to any extent. Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before. It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones."
+
+Y esto tiene sentido para mí. Parece que no solo funciona a largo plazo sino que también funciona a corto plazo. No puedes pensar en dos cosas a la vez. Y lo que más te importa en un momento es lo que vas a pensar. Un gran ejemplo es la recepcionista de Meucci. Es muy muy hermosa y los primeros días no podía dejar de pensar en ella. Pero cuando comencé a tener más y más responsabilidades cambió mi forma de pensar. Ella ya no estaba en mi cabeza a menos que la viera. Tenía cosas más importantes que hacer. 
+
+#CoreBelief 

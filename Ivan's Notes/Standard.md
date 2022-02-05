@@ -1,6 +1,6 @@
 # Being my best
 
-+ [[Focus]]
++ [[Enfoque]]
 + [[Integridad]]
 + [[Communication]]
 + [[Influence]]
