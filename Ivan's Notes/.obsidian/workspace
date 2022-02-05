@@ -7,8 +7,12 @@
         "id": "fff52af2a78c1d75",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "000 Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -37,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sherlock",
+                "query": "home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -46,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa13118977cb2178",
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c77c37c32321bd6a",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +121,15 @@
   },
   "active": "fff52af2a78c1d75",
   "lastOpenFiles": [
-    "Escapism.md",
     "000 Home.md",
-    "Lost.md",
-    "Journal/Daily/2022-02-03.md",
-    "Books.md",
-    "The Sherlock Home arrangement principle.md",
-    "Sam Walton.md",
-    "El deseo de ser el mejor -Sam Walton.md",
-    "El respeto por el dolar -Sam Walton.md",
-    "We will believe anything.md"
+    "1 Week.md",
+    "Day 1.md",
+    "Templates/Daily Template.md",
+    "2 Month.md",
+    "Tracker.md",
+    "Escapism.md",
+    "Technology.md",
+    "Standard.md",
+    "Lost.md"
   ]
 }

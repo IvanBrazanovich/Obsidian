@@ -5,6 +5,38 @@
       "path": "000 Home.md"
     },
     {
+      "basename": "1 Week",
+      "path": "1 Week.md"
+    },
+    {
+      "basename": "Day 1",
+      "path": "Day 1.md"
+    },
+    {
+      "basename": "Daily Template",
+      "path": "Templates/Daily Template.md"
+    },
+    {
+      "basename": "2 Month",
+      "path": "2 Month.md"
+    },
+    {
+      "basename": "Tracker",
+      "path": "Tracker.md"
+    },
+    {
+      "basename": "Escapism",
+      "path": "Escapism.md"
+    },
+    {
+      "basename": "Technology",
+      "path": "Technology.md"
+    },
+    {
+      "basename": "Standard",
+      "path": "Standard.md"
+    },
+    {
       "basename": "Lost",
       "path": "Lost.md"
     },
@@ -39,10 +71,6 @@
     {
       "basename": "Confirmation bias",
       "path": "Confirmation bias.md"
-    },
-    {
-      "basename": "Standard",
-      "path": "Standard.md"
     },
     {
       "basename": "Enfoque",
@@ -171,30 +199,6 @@
     {
       "basename": "Miedo",
       "path": "Miedo.md"
-    },
-    {
-      "basename": "Weekly Template",
-      "path": "Templates/Weekly Template.md"
-    },
-    {
-      "basename": "Live on a context",
-      "path": "Live on a context.md"
-    },
-    {
-      "basename": "2022-01-29",
-      "path": "Journal/Daily/2022-01-29.md"
-    },
-    {
-      "basename": "2022-01-09 Primer día averga si anda",
-      "path": "Journal/Daily/2022-01-09 Primer día averga si anda.md"
-    },
-    {
-      "basename": "Daily Template",
-      "path": "Templates/Daily Template.md"
-    },
-    {
-      "basename": "Criptomonedas",
-      "path": "Criptomonedas.md"
     }
   ],
   "omittedPaths": [],
