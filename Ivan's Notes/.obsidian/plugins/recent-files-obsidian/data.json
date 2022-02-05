@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
+      "basename": "Lost",
+      "path": "Lost.md"
+    },
+    {
       "basename": "2022-02-03",
       "path": "Journal/Daily/2022-02-03.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Enfoque",
       "path": "Enfoque.md"
-    },
-    {
-      "basename": "000 Home",
-      "path": "000 Home.md"
     },
     {
       "basename": "2022-02-01",
@@ -191,10 +195,6 @@
     {
       "basename": "Criptomonedas",
       "path": "Criptomonedas.md"
-    },
-    {
-      "basename": "Como utilizar Obsidian",
-      "path": "Como utilizar Obsidian.md"
     }
   ],
   "omittedPaths": [],
