@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fff52af2a78c1d75",
+        "id": "6ed43109027842af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "000 Home.md",
-            "mode": "source",
-            "source": false
+            "mode": "source"
           }
         }
       }
@@ -19,117 +18,78 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "aaf0b7b8942e0ac0",
-    "type": "split",
+    "id": "084592325b277c45",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "80f950b85ed8f7a5",
-        "type": "tabs",
-        "dimension": 75.05567928730513,
-        "children": [
-          {
-            "id": "04412687d8b01efc",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "646e027e79db3319",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "home",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        "id": "08d8e46759a9f65e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "fa13118977cb2178",
-        "type": "tabs",
-        "dimension": 24.94432071269488,
-        "children": [
-          {
-            "id": "c68e1612f6eff5e9",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
+        "id": "7d1e8868ea30d69e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "92cddd7c8834f272",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "c77c37c32321bd6a",
-    "type": "split",
+    "id": "aef82f47fff413aa",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b0457f60463c777a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6fcbc768c82c28f6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000 Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "7d6042e8208a56d7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "000 Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
-      },
-      {
-        "id": "f45e63744884ffee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b712f5ec4ac4a40f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "fff52af2a78c1d75",
+  "active": "6ed43109027842af",
   "lastOpenFiles": [
     "000 Home.md",
-    "1 Week.md",
-    "Day 1.md",
+    "Cómo afecta la historia personal a las finanzas.md",
+    "1 Year.md",
     "Templates/Daily Template.md",
-    "2 Month.md",
-    "Tracker.md",
-    "Escapism.md",
-    "Technology.md",
-    "Standard.md",
-    "Lost.md"
+    "El dinero es libertad.md",
+    "El juego es individual.md",
+    "El deseo de ser el mejor -Sam Walton.md",
+    "Day 1.md",
+    "Criptomonedas.md",
+    "Curiosity.md"
   ]
 }
