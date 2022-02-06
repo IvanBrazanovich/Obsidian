@@ -1,18 +1,18 @@
 [[1 Year]]
 
-1.  Cama, agua, higiene.
-2.  Reading
-3.  Journal
-4.  Ver los objetivos de la semana
-5.  Ver que tengo que hacer ese día
-6.  Rezar
++ [ ] Cama, agua, higiene.
++ [ ]  Reading
++ [ ] Journal
++ [ ] Ver los objetivos de la semana
++ [ ] Ver que tengo que hacer ese día
++ [ ]  Rezar
+
+
 
 
 # Morning 
 
 ### ¿Qué espero hacer hoy?
-
-
 
 
 

@@ -2,3 +2,4 @@ Sam Walton reconocía que ganaban gran parte de su dinero ahorrando. Ellos trata
 
 Una de las empleadas cuenta que una vez durmieron 8 personas en una sola pieza en un viaje de negocios.
 
+#finance 

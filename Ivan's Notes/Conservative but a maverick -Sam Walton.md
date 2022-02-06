@@ -2,4 +2,6 @@ Por un lado Sam Walton era una persona muy conservadora. Sus ideas políticas, r
 
 
 
-Las personas pensaban que el estaba loco.
+Las personas pensaban que el estaba loco. Dejaba que sus empleados prueben cosas nuevas y estaba abierto a sugerencias.
+
+#CoreBelief #finance 

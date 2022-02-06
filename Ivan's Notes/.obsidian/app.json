@@ -9,5 +9,6 @@
     "es-419",
     "en-US",
     "es"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

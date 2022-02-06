@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
-            "mode": "source"
+            "file": "1 Year.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,78 +19,102 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "084592325b277c45",
-    "type": "mobile-drawer",
+    "id": "200ca18133854a52",
+    "type": "split",
     "children": [
       {
-        "id": "08d8e46759a9f65e",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7d1e8868ea30d69e",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "3960bf72c74fed04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3251b6ca44ba19a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a68dbccfac5b9d53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "747e73ce7589f87c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "92cddd7c8834f272",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "aef82f47fff413aa",
-    "type": "mobile-drawer",
+    "id": "1ffd1300189ee09f",
+    "type": "split",
     "children": [
       {
-        "id": "7d6042e8208a56d7",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "000 Home.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "de7a85e3060d2292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ee925519272b5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "172c23b4552a308e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Year.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "6ed43109027842af",
   "lastOpenFiles": [
-    "000 Home.md",
-    "Cómo afecta la historia personal a las finanzas.md",
     "1 Year.md",
+    "Journal/Daily/2022-02-06.md",
+    "Acelerado.md",
+    "Sam Walton's mistake.md",
     "Templates/Daily Template.md",
-    "El dinero es libertad.md",
-    "El juego es individual.md",
-    "El deseo de ser el mejor -Sam Walton.md",
-    "Day 1.md",
-    "Criptomonedas.md",
-    "Curiosity.md"
+    "Nadar contracorriente -Sam Walton.md",
+    "Sam Walton.md",
+    "Buying inertia.md",
+    "The One Thing.md",
+    "Conservative but a maverick -Sam Walton.md"
   ]
 }

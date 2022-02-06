@@ -5,5 +5,12 @@
 [[El deseo de ser el mejor -Sam Walton]]
 [[Learn, copy, improve -Sam Walton]]
 [[Making money spending less]]
-[[Sam Walton mistake]]
+[[Sam Walton's mistake]]
 [[Conservative but a maverick -Sam Walton]]
+[[The One Thing]]
+[[Buying inertia ]]
+[[Nadar contracorriente -Sam Walton]]
+[[Sam Walton's Religion Values]]
+[[Sam Walton's family teachings]]
+
+

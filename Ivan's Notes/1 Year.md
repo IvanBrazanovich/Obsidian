@@ -1,7 +1,7 @@
 # 1 MES 
 
-Ver hoja de tareas al final del review
-
+1. Ver hoja de tareas al final del review
+2. Limpiar pieza
 
 
 ### 1 Semana
