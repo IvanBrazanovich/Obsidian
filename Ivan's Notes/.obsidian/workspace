@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "What is Wealth.md",
+            "file": "Journal/Daily/2022-02-07.md",
             "mode": "source",
             "source": false
           }
@@ -58,11 +58,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -73,20 +74,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86ee925519272b5c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "172c23b4552a308e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is Wealth.md",
+                "file": "Journal/Daily/2022-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +91,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "02e56f8e96487e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ee925519272b5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,15 +113,15 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
+    "Journal/Daily/2022-02-07.md",
+    "Journal/Daily/2022-02-03.md",
+    "Acelerado.md",
     "What is Wealth.md",
     "Wealth = income - ego.md",
     "Sam Walton.md",
     "Conservative but a maverick.md",
     "Journal/Daily/2022-02-06.md",
     "Javascript.md",
-    "1 Year.md",
-    "Acelerado.md",
-    "Sam Walton's mistake.md",
-    "Templates/Daily Template.md"
+    "1 Year.md"
   ]
 }

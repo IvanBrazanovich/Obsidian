@@ -12,5 +12,5 @@
 [[Nadar contracorriente -Sam Walton]]
 [[Sam Walton's Religion Values]]
 [[Sam Walton's family teachings]]
-
-
+[[In it for the long haul -Sam Walton]]
+[[Wal-Mart expansion strategy]]
