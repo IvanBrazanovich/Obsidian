@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "1 Year",
-      "path": "1 Year.md"
+      "basename": "What is Wealth",
+      "path": "What is Wealth.md"
+    },
+    {
+      "basename": "Sam Walton",
+      "path": "Sam Walton.md"
     },
     {
       "basename": "2022-02-06",
       "path": "Journal/Daily/2022-02-06.md"
+    },
+    {
+      "basename": "Javascript",
+      "path": "Javascript.md"
+    },
+    {
+      "basename": "1 Year",
+      "path": "1 Year.md"
     },
     {
       "basename": "Acelerado",
@@ -23,10 +35,6 @@
     {
       "basename": "Nadar contracorriente -Sam Walton",
       "path": "Nadar contracorriente -Sam Walton.md"
-    },
-    {
-      "basename": "Sam Walton",
-      "path": "Sam Walton.md"
     },
     {
       "basename": "Buying inertia",
@@ -165,10 +173,6 @@
       "path": "The Psychology of Money.md"
     },
     {
-      "basename": "Javascript",
-      "path": "Javascript.md"
-    },
-    {
       "basename": "Por qué dormimos",
       "path": "Por qué dormimos.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Por qué ahorrar",
       "path": "Por qué ahorrar.md"
-    },
-    {
-      "basename": "Saving money",
-      "path": "Saving money.md"
-    },
-    {
-      "basename": "Puedes equivocarte la mitad de las veces y aún así hacer una fortuna",
-      "path": "Puedes equivocarte la mitad de las veces y aún así hacer una fortuna.md"
     }
   ],
   "omittedPaths": [],

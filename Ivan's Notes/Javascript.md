@@ -296,3 +296,13 @@ Convierte todo en mayúsculas, convierte todo en minusculas, convierte en un str
 	+ forEach  y map (es para arreglos)
 	+ for of (es para arreglos) 
 	+ for in (es para objetos)
+
+# Prototypes
++ ¿Qué problemas solucionan los prototypes?
+	En caso de tener un proyecto grande con mucho código, muchas veces se confunde las funciones para cada cosa. Es por eso que se pueden usar los prototypes. Básicamente son funciones que solamente se pueden usar dentro de un objeto por así decirlo. ![[Pasted image 20220206175839.png]]
++ ¿Cómo heredar funciones en prototypes?
+	+ ![[Pasted image 20220206180851.png]]
+
++ ¿Cuál es la diferencia entre arrow function y functions normales para prototypes?
+	+ Que al tener que usar this. debes utilizar functions normales porque toma como referencia el objeto. En el caso de utilizar arrow function va a tomar referencia de todo el código, la ventana global.
+ 
