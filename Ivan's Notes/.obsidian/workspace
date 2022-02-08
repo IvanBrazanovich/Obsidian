@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-07.md",
+            "file": "Javascript.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-07.md",
+                "file": "Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
+    "Javascript.md",
+    "Technology.md",
+    "000 Home.md",
     "Journal/Daily/2022-02-07.md",
     "Journal/Daily/2022-02-03.md",
     "Acelerado.md",
     "What is Wealth.md",
     "Wealth = income - ego.md",
     "Sam Walton.md",
-    "Conservative but a maverick.md",
-    "Journal/Daily/2022-02-06.md",
-    "Javascript.md",
-    "1 Year.md"
+    "Conservative but a maverick.md"
   ]
 }

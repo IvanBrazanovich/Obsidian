@@ -305,4 +305,32 @@ Convierte todo en mayúsculas, convierte todo en minusculas, convierte en un str
 
 + ¿Cuál es la diferencia entre arrow function y functions normales para prototypes?
 	+ Que al tener que usar this. debes utilizar functions normales porque toma como referencia el objeto. En el caso de utilizar arrow function va a tomar referencia de todo el código, la ventana global.
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Programación Orientada a Objetos
++ ¿Qué es la POO?
+	+ Se utilizan clases en las que las funciones pueden ser utilizadas solo por las clases para las cuales se crearon.  
++ ¿Cómo se crean las clases?
+	+  ![[Pasted image 20220207171115.png]]
++ ¿Qué son los métodos y los métodos estáticos?
+	+ Los métodos son básicamente funciones que solamente puede usar la clase para la que se crearon. Los métodos estáticos son funciones creadas para las clases en sí y que no se pueden usar en las instancias de las clases.  
++ ¿Cómo se heredan las clases y los constructores de una clase?
+	+  ![[Pasted image 20220207171147.png]]
++ ¿Se pueden rescribir funciones?
+	+ si
++ ¿Qué son las propiedades privadas en POO?
+		+ Son básicamente formas de que no se pueda acceder a las propiedades de una instancia de una clase a partir de una instancia. Solo se puede acceder a la propiedad a partir de la clase en sí. 
+	+ ![[Pasted image 20220207171356.png]]
++ 
++ 
