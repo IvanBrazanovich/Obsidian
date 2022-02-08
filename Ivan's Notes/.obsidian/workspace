@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript.md",
+            "file": "Journal/Daily/2022-02-07.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "Journal/Daily/2022-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,10 +113,10 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
+    "Journal/Daily/2022-02-07.md",
     "Javascript.md",
     "Technology.md",
     "000 Home.md",
-    "Journal/Daily/2022-02-07.md",
     "Journal/Daily/2022-02-03.md",
     "Acelerado.md",
     "What is Wealth.md",
