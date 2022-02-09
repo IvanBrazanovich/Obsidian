@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript.md",
+            "file": "Acelerado.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "Acelerado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,8 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
+    "Acelerado.md",
+    "Journal/Daily/2022-02-09.md",
     "Javascript.md",
     "Technology.md",
     "000 Home.md",
@@ -119,8 +121,6 @@
     "Sam Walton.md",
     "Journal/Daily/2022-02-08.md",
     "No soy especial.md",
-    "Books.md",
-    "The Psychology of Money.md",
-    "We will believe anything.md"
+    "Books.md"
   ]
 }
