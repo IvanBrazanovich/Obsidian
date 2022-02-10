@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-02-09",
+      "path": "Journal/Daily/2022-02-09.md"
+    },
+    {
+      "basename": "Consumo",
+      "path": "Consumo.md"
+    },
+    {
       "basename": "Javascript",
       "path": "Javascript.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Acelerado",
       "path": "Acelerado.md"
-    },
-    {
-      "basename": "2022-02-09",
-      "path": "Journal/Daily/2022-02-09.md"
     },
     {
       "basename": "000 Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Por qué dormimos",
       "path": "Por qué dormimos.md"
-    },
-    {
-      "basename": "Pessimism vs optimism",
-      "path": "Pessimism vs optimism.md"
     }
   ],
   "omittedPaths": [],

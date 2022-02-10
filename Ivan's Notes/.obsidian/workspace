@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript.md",
+            "file": "Journal/Daily/2022-02-09.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "Journal/Daily/2022-02-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +113,15 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
+    "Journal/Daily/2022-02-09.md",
+    "Consumo.md",
     "Javascript.md",
     "Technology.md",
     "Acelerado.md",
-    "Journal/Daily/2022-02-09.md",
     "000 Home.md",
     "Cultura Empresarial -Sam Walton.md",
     "Sam Walton.md",
     "Journal/Daily/2022-02-08.md",
-    "No soy especial.md",
-    "Books.md"
+    "No soy especial.md"
   ]
 }
