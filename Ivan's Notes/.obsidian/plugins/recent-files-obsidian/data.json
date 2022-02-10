@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-02-10",
+      "path": "Journal/Daily/2022-02-10.md"
+    },
+    {
+      "basename": "Lubricante y fricción",
+      "path": "Lubricante y fricción.md"
+    },
+    {
       "basename": "2022-02-09",
       "path": "Journal/Daily/2022-02-09.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Enfoque",
       "path": "Enfoque.md"
-    },
-    {
-      "basename": "2022-02-01",
-      "path": "Journal/Daily/2022-02-01.md"
-    },
-    {
-      "basename": "Por qué dormimos",
-      "path": "Por qué dormimos.md"
     }
   ],
   "omittedPaths": [],

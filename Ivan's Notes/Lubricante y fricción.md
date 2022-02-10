@@ -1,0 +1,1 @@
+básicamente hacer más difícil el gastar tiempo en boludeces y hacer más fácil el utilizar mi tiempo con mejor precisión.
