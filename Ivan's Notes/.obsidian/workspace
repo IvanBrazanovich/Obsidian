@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Acelerado.md",
+            "file": "Javascript.md",
             "mode": "source",
             "source": false
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home",
+                "query": "javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acelerado.md",
+                "file": "Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +112,10 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
-    "Acelerado.md",
-    "Journal/Daily/2022-02-09.md",
     "Javascript.md",
     "Technology.md",
+    "Acelerado.md",
+    "Journal/Daily/2022-02-09.md",
     "000 Home.md",
     "Cultura Empresarial -Sam Walton.md",
     "Sam Walton.md",
