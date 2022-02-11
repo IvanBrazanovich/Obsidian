@@ -1,0 +1,1 @@
+Una de las mejores cosas que tiene Wal-Mart es la comunicación. Los empleados pueden hablar con Sam cuando quieran, se comunican via Televisión y se juntan todos los sábados para ver el panorama. La comunicación que manejan es de otro nivel. 

@@ -1,0 +1,1 @@
+[[Sam Walton]] implementa una serie de acciones que tienen como finalidad presionar ideas a los empleados. Él quiere que los empleados tengan ideas y busca maneras de hacerlo realidad.

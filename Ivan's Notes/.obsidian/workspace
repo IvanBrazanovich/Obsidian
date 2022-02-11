@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-10.md",
+            "file": "Javascript.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-10.md",
+                "file": "Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "f09b3b40d7d7b399",
   "lastOpenFiles": [
+    "Javascript.md",
+    "Journal/Daily/2022-02-11.md",
     "Journal/Daily/2022-02-10.md",
     "Lubricante y fricción.md",
     "Journal/Daily/2022-02-09.md",
     "Consumo.md",
-    "Javascript.md",
     "Technology.md",
     "Acelerado.md",
     "000 Home.md",
-    "Cultura Empresarial -Sam Walton.md",
-    "Sam Walton.md"
+    "Cultura Empresarial -Sam Walton.md"
   ]
 }

@@ -332,5 +332,22 @@ Convierte todo en mayúsculas, convierte todo en minusculas, convierte en un str
 + ¿Qué son las propiedades privadas en POO?
 		+ Son básicamente formas de que no se pueda acceder a las propiedades de una instancia de una clase a partir de una instancia. Solo se puede acceder a la propiedad a partir de la clase en sí. 
 	+ ![[Pasted image 20220207171356.png]]
-+ 
+
+# Sets y Maps
++ ¿Qué son los sets?
+	+ Permite crear una lista de valores sin duplicados
++ ¿Por qué los sets son mejores que los arreglos en algunos casos?
+	+ Al manejar un gran volumen de datos tiende a ser más rápido.
++ ¿Qué son los weakset?
+	+ Son iguales a los sets pero solo aceptan objetos. Aparte de que no tienen .size como los sets, o sea no se puede ver la extensión
++ ¿Qué son los Maps?
+	+ Son como los sets pero tienen llave y valor y son mucho mejores que los arreglo de objetos porque están diseñados para tener mayor velocidad en recorrer, borrar y utilizar los objetos dentro de él. Aparte se puede utilizar cualquier tipo de valor
++ a
++ a
++ a
++ a
++ a
++ a
++ a
++ a
 + 

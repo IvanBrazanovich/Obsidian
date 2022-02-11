@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Javascript",
+      "path": "Javascript.md"
+    },
+    {
+      "basename": "2022-02-11",
+      "path": "Journal/Daily/2022-02-11.md"
+    },
+    {
       "basename": "2022-02-10",
       "path": "Journal/Daily/2022-02-10.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Consumo",
       "path": "Consumo.md"
-    },
-    {
-      "basename": "Javascript",
-      "path": "Javascript.md"
     },
     {
       "basename": "Technology",
@@ -195,10 +199,6 @@
     {
       "basename": "Lost",
       "path": "Lost.md"
-    },
-    {
-      "basename": "Enfoque",
-      "path": "Enfoque.md"
     }
   ],
   "omittedPaths": [],

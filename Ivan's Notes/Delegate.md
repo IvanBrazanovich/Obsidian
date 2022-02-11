@@ -1,0 +1,1 @@
+[[Sam Walton]] delegaba. Él entendió que una vez que crece una compañía, hay que comenzar a dar más resppnsabilidad a las otras personas. Es muy importante dar más autoridad y responsabilidad para que crezca un sistema. Una sola persona no puede hacer todo, ahí es cuando entra la delegación
