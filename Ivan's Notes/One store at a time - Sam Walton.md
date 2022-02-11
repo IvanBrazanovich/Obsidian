@@ -1,0 +1,2 @@
+#CoreBelief 
+Sam Walton se enfoca en un supermercado a la vez. Esa es una razón por la cual Wal-Mart  ha crecido tanto. Ellos entienden que no pueden poner los mismos objetos en todas las tiendas y mucho menos utilizar la misma estrategia de mercado. Al hacer una reunión trata de enfocarse en una tienda a la vez, los problemas que tiene, las cosas que está haciendo para competir y las soluciones que se proponen.
