@@ -341,13 +341,8 @@ Convierte todo en mayúsculas, convierte todo en minusculas, convierte en un str
 + ¿Qué son los weakset?
 	+ Son iguales a los sets pero solo aceptan objetos. Aparte de que no tienen .size como los sets, o sea no se puede ver la extensión
 + ¿Qué son los Maps?
-	+ Son como los sets pero tienen llave y valor y son mucho mejores que los arreglo de objetos porque están diseñados para tener mayor velocidad en recorrer, borrar y utilizar los objetos dentro de él. Aparte se puede utilizar cualquier tipo de valor
-+ a
-+ a
-+ a
-+ a
-+ a
-+ a
-+ a
-+ a
-+ 
+	+ Son como los sets pero tienen llave y valor y son mucho mejores que los arreglo de objetos porque están diseñados para tener mayor velocidad en recorrer, borrar y utilizar los objetos dentro de él. Aparte se puede utilizar cualquier  
+
+
+
+crucial conversations 
