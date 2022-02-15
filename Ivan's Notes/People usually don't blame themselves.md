@@ -2,4 +2,6 @@ If Al Capone, ‘Two Gun’ Crowley, Dutch Schultz, and the desperate men and wo
 
 Las personas normalmente piensan que están bien, que están del lado correcto del racional y que no están equivocados. Por más raro que parezca, criticar a alguien por algo que casi obviamente hizo mal, daña su ego y lo vuelve resentido. 
 
-Se ha encontrado que  el [[reward vs punishment]]
+Se ha encontrado que  el [[reward vs punishment]] 
+
+[[Don't criticise, condenm or complain]]

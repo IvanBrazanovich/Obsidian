@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 Year.md",
+            "file": "Journal/Daily/2022-02-15.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Year.md",
+                "file": "Journal/Daily/2022-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
+    "Journal/Daily/2022-02-15.md",
     "1 Year.md",
     "Journal/Daily/2022-02-12.md",
     "How to make friends and influence people.md",
@@ -120,7 +122,6 @@
     "The rules -Sam Walton.md",
     "Key N°10 Swim Upstream.md",
     "key N°9 Control.md",
-    "Exceed.md",
-    "Key N°7 Listen.md"
+    "Exceed.md"
   ]
 }
