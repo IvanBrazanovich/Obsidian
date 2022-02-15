@@ -1,1 +1,2 @@
 Lo que Wal-Mart hace es mostrar toda la información y los números que maneja cada supermercado a los que trabajan en el. De esta manera se sienten más responsables del negocio, también se sienten más parte de él. 
+#finance 

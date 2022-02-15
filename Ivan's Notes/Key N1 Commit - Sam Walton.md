@@ -1,1 +1,3 @@
 RULE 1: COMMIT to your business. Believe in it more than anybody else. I think I overcame every single one of my personal shortcomings by the sheer passion I brought to my work. I don't know if you're born with this kind of passion, or if you can learn it. But I do know you need it. If you love your work, you'll be out there every day trying to do it the best you possibly can, and pretty soon everybody around will catch the passion from you —like a fever.
+
+#CoreBelief 

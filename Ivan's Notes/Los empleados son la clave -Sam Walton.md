@@ -1,4 +1,4 @@
 Seamos sinceros, a la hora de trabajar es muy importante el dinero. Si le pagas mal a tus empleados, van a pensar que no los aprecias, si no se sienten apreciados, trabajaran mal y no serán buenos activos. En el caso de los supermercados, Sam Walton les pagaba mal a sus empleados. Luego aprendió de que una de las cosas más importantes son los empleados, ya que tratan con las personas. El conjunto de gerentes y personal de la empresa es el fundamento de todo, sin ellos no tienes nada. Es por esa razón que pagar y tratar bien a tus empleados es clave. Si llegas a pagarle más que lo que se paga normalmente en esos trabajos sentirán más presión para hacer las cosas bien.
-
+#finance
 [[Sharing with employees -Sam Walton]]
 [[Cientos de mentes creativas -Sam Walton]]

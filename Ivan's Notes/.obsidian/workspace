@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f09b3b40d7d7b399",
+        "id": "d25b3482fa57960d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1 Year.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,12 +58,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f09b3b40d7d7b399",
+  "active": "d25b3482fa57960d",
   "lastOpenFiles": [
-    "Journal/Daily/2022-02-11.md",
-    "Javascript.md",
-    "Journal/Daily/2022-02-10.md",
-    "Lubricante y fricción.md",
-    "Journal/Daily/2022-02-09.md",
-    "Consumo.md",
-    "Technology.md",
-    "Acelerado.md",
-    "000 Home.md",
-    "Cultura Empresarial -Sam Walton.md"
+    "1 Year.md",
+    "Journal/Daily/2022-02-12.md",
+    "How to make friends and influence people.md",
+    "How to win friends and influence people.md",
+    "Sam Walton.md",
+    "The rules -Sam Walton.md",
+    "Key N°10 Swim Upstream.md",
+    "key N°9 Control.md",
+    "Exceed.md",
+    "Key N°7 Listen.md"
   ]
 }

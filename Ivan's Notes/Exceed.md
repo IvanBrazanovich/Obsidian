@@ -1,1 +1,3 @@
 RULE 8: EXCEED your customers' expectations. If you do, they'll come back over and over. Give them what they want—and a little more. Let them know you appreciate them. Make good on all your mistakes, and don't make excuses— apologize. Stand behind everything you do. The two most important words I ever wrote were on that first Wal-Mart sign: "Satisfaction Guaranteed." They're still up there, and they have made all the difference.
+
+#CoreBelief 

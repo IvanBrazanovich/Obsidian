@@ -1,1 +1,3 @@
-RULE 10: SWIM upstream. Go the other way. Ignore the conventional wisdom. If everybody else is doing it one way, there's a good chance you can find your niche by going in exactly the opposite direction. But be prepared for a lot of folks to wave you down and tell you you're headed the wrong way. I guess in all my years, what I heard more often than anything was: a town of less than 50,000 population cannot support a discount store for very long
+RULE 10: SWIM upstream. Go the other way. Ignore the conventional wisdom. If everybody else is doing it one way, there's a good chance you can find your niche by going in exactly the opposite direction. But be prepared for a lot of folks to wave you down and tell you you're headed the wrong way. I guess in all my years, what I heard more often than anything was: a town of less than 50,000 population cannot support a discount store for very long.
+
+#CoreBelief 
