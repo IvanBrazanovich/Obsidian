@@ -6,5 +6,5 @@ El autor propone
 
 
 [[People usually don't blame themselves]]
-
+[[Give honest appreciation]]
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-15.md",
+            "file": "Journal/Daily/2022-02-16.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-15.md",
+                "file": "Journal/Daily/2022-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
+    "Journal/Daily/2022-02-16.md",
     "Journal/Daily/2022-02-15.md",
     "1 Year.md",
     "Journal/Daily/2022-02-12.md",
@@ -121,7 +122,6 @@
     "Sam Walton.md",
     "The rules -Sam Walton.md",
     "Key N°10 Swim Upstream.md",
-    "key N°9 Control.md",
-    "Exceed.md"
+    "key N°9 Control.md"
   ]
 }
