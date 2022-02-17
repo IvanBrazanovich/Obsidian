@@ -1,0 +1,1 @@
+Meditar es una habilidad que no debe ser pasiva, o sea, que no debe hacerse una vez por día y esperar algo. Es una habilidad que debe usarse todo el tiempo, o cuando sea necesario. Sirve para controlarse a uno mismo.
