@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Be interested in people.md",
+            "file": "Journal/Daily/2022-02-16.md",
             "mode": "source",
             "source": false
           }
@@ -26,6 +26,14 @@
         "id": "3960bf72c74fed04",
         "type": "tabs",
         "children": [
+          {
+            "id": "c3251b6ca44ba19a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
           {
             "id": "a68dbccfac5b9d53",
             "type": "leaf",
@@ -51,24 +59,11 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "0e6c8bc392741906",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3251b6ca44ba19a",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -84,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be interested in people.md",
+                "file": "Journal/Daily/2022-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +113,15 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
-    "Be interested in people.md",
+    "Journal/Daily/2022-02-16.md",
+    "Journal/Daily/2022-02-15.md",
+    "1 Year.md",
+    "Journal/Daily/2022-02-12.md",
+    "How to make friends and influence people.md",
     "How to win friends and influence people.md",
-    "Journal/Daily/2022-02-19.md",
-    "Books.md",
-    "Criptomonedas.md",
-    "000 Home.md",
-    "Journal/Daily/2022-02-18.md",
-    "Journal/Daily/2022-02-17.md",
-    "Meditar.md",
-    "Journal/Daily/2022-02-16.md"
+    "Sam Walton.md",
+    "The rules -Sam Walton.md",
+    "Key N°10 Swim Upstream.md",
+    "key N°9 Control.md"
   ]
 }

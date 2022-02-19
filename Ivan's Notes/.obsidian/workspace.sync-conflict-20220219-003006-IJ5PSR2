@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "39d2cbd2a501afea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25b3482fa57960d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How to win friends and influence people.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f19f53f1df79483",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e282b227c45d85c2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8ca3412f01bc5ce9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c28b0963c572b4df",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0914324e109fd862",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "How to win friends and influence people.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d25b3482fa57960d",
+  "lastOpenFiles": [
+    "How to win friends and influence people.md",
+    "Ponte en su lugar.md",
+    "Books.md",
+    "000 Home.md",
+    "Talk about what they want.md",
+    "Talk about ehat they want.md",
+    "Give honest appreciation.md",
+    "Journal/Daily/2022-02-16.md",
+    "Journal/Daily/2022-02-15.md",
+    "1 Year.md"
+  ]
+}
