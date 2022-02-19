@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-17.md",
+            "file": "Criptomonedas.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-17.md",
+                "file": "Criptomonedas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
+    "Criptomonedas.md",
+    "000 Home.md",
+    "Journal/Daily/2022-02-18.md",
     "Journal/Daily/2022-02-17.md",
     "Meditar.md",
     "Journal/Daily/2022-02-16.md",
     "Journal/Daily/2022-02-15.md",
     "1 Year.md",
     "Journal/Daily/2022-02-12.md",
-    "How to make friends and influence people.md",
-    "How to win friends and influence people.md",
-    "Sam Walton.md",
-    "The rules -Sam Walton.md"
+    "How to make friends and influence people.md"
   ]
 }

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Criptomonedas",
+      "path": "Criptomonedas.md"
+    },
+    {
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
+      "basename": "2022-02-18",
+      "path": "Journal/Daily/2022-02-18.md"
+    },
+    {
       "basename": "2022-02-17",
       "path": "Journal/Daily/2022-02-17.md"
     },
@@ -133,10 +145,6 @@
       "path": "Acelerado.md"
     },
     {
-      "basename": "000 Home",
-      "path": "000 Home.md"
-    },
-    {
       "basename": "Cultura Empresarial -Sam Walton",
       "path": "Cultura Empresarial -Sam Walton.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Nadar contracorriente -Sam Walton",
       "path": "Nadar contracorriente -Sam Walton.md"
-    },
-    {
-      "basename": "Buying inertia",
-      "path": "Buying inertia.md"
-    },
-    {
-      "basename": "The One Thing",
-      "path": "The One Thing.md"
     }
   ],
   "omittedPaths": [],
