@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-24.md",
+            "file": "Journal/Daily/2022-02-27.md",
             "mode": "source",
             "source": false
           }
@@ -41,16 +41,15 @@
               "type": "search",
               "state": {
                 "query": "javascript",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e6c8bc392741906",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-24.md",
+                "file": "Journal/Daily/2022-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +118,15 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
+    "Journal/Daily/2022-02-27.md",
+    "How you fail.md",
+    "The Willpower Instinct.md",
+    "Books.md",
+    "Journal/Daily/2022-02-07.md",
+    "Lost.md",
     "Journal/Daily/2022-02-24.md",
     "Be interested in people.md",
     "How to win friends and influence people.md",
-    "Journal/Daily/2022-02-19.md",
-    "Books.md",
-    "Criptomonedas.md",
-    "000 Home.md",
-    "Journal/Daily/2022-02-18.md",
-    "Journal/Daily/2022-02-17.md",
-    "Meditar.md"
+    "Journal/Daily/2022-02-19.md"
   ]
 }
