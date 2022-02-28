@@ -1,0 +1,1 @@
+Una mente distraída es una mente sin disciplina. Los investigadores han encontrado que personas distraídas son más propensas a ceder ante tentaciones. 

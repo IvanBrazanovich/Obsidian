@@ -1,0 +1,1 @@
+Estudios han demostrado que las personas que piensan que tienen una gran fuerza de voluntad son las más probables de recaer o fracasar. Esto es porque son malos al predecir cuando, donde y porque cederán. Se exponen a tentaciones.  Y como hemos visto en [[Marshmallow test]] es mejor no tentarse en un primer lugar. [[No se puede predecir el futuro]]

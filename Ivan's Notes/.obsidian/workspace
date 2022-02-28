@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-02-27.md",
+            "file": "The Willpower Instinct.md",
             "mode": "source",
             "source": false
           }
@@ -25,6 +25,7 @@
       {
         "id": "3960bf72c74fed04",
         "type": "tabs",
+        "dimension": 68.37416481069042,
         "children": [
           {
             "id": "a68dbccfac5b9d53",
@@ -54,6 +55,7 @@
       {
         "id": "0e6c8bc392741906",
         "type": "tabs",
+        "dimension": 31.625835189309576,
         "children": [
           {
             "id": "c3251b6ca44ba19a",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-02-27.md",
+                "file": "The Willpower Instinct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +120,15 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
-    "Journal/Daily/2022-02-27.md",
-    "How you fail.md",
     "The Willpower Instinct.md",
-    "Books.md",
-    "Journal/Daily/2022-02-07.md",
-    "Lost.md",
-    "Journal/Daily/2022-02-24.md",
-    "Be interested in people.md",
-    "How to win friends and influence people.md",
-    "Journal/Daily/2022-02-19.md"
+    "Training discipline.md",
+    "Self-awareness.md",
+    "Distracción y disciplina.md",
+    "Una mente distraída es una mente sin disciplina.md",
+    "Take advantage of feelings.md",
+    "Prefrontal cortex willpower sides.md",
+    "Evolution and discipline.md",
+    "How you fail.md",
+    "Voluntad Agrandada.md"
   ]
 }

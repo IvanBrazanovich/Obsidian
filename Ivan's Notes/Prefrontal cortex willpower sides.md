@@ -1,0 +1,3 @@
+La parte izquierda de la prefrontal cortex se especializa en I will Power, te ayuda a comenzar y continuar con cosas aburridas, difíciles y estresantes. La parte derecha en cambio, se encarga de "I won't", o sea, detenerte de seguir cada impulso o tentación. 
+
+Más abajo y en el centro se encuentra la tercera región de la córtex prefrontal. Esta se encarga de tus metas y deseos, decide lo que quieres. Mientras más rápido sus células disparan, más motivado estás para tomar acción o para resistirte a tentaciones. 

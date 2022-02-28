@@ -1,0 +1,1 @@
+Es importante reconocer y entender que todos batallan en alguna manera con las tentaciones, adicciones, distracciones y procrastinación. 

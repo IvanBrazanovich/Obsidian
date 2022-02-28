@@ -1,0 +1,1 @@
+Las personas con mayor disciplina son aquellas que evitan tentarse. 
