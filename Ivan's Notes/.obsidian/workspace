@@ -7,8 +7,12 @@
         "id": "d25b3482fa57960d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Journal/Daily/2022-03-05.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/Daily/2022-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +120,7 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
+    "Journal/Daily/2022-03-05.md",
     "The Willpower Instinct.md",
     "Training discipline.md",
     "Self-awareness.md",
@@ -123,7 +129,6 @@
     "Take advantage of feelings.md",
     "Prefrontal cortex willpower sides.md",
     "Evolution and discipline.md",
-    "How you fail.md",
-    "Voluntad Agrandada.md"
+    "How you fail.md"
   ]
 }

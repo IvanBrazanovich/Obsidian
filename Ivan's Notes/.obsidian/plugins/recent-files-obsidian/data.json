@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-03-05",
+      "path": "Journal/Daily/2022-03-05.md"
+    },
+    {
       "basename": "The Willpower Instinct",
       "path": "The Willpower Instinct.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-02-11",
       "path": "Journal/Daily/2022-02-11.md"
-    },
-    {
-      "basename": "Javascript",
-      "path": "Javascript.md"
     }
   ],
   "omittedPaths": [],
