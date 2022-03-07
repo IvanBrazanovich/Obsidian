@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-03-06.md",
+            "file": "Javascrip Proyect.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2022-03-06.md",
+                "file": "Javascrip Proyect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +119,7 @@
   },
   "active": "d25b3482fa57960d",
   "lastOpenFiles": [
+    "Javascrip Proyect.md",
     "Journal/Daily/2022-03-06.md",
     "Journal/Daily/2022-03-05.md",
     "The Willpower Instinct.md",
@@ -128,7 +128,6 @@
     "Distracción y disciplina.md",
     "Una mente distraída es una mente sin disciplina.md",
     "Take advantage of feelings.md",
-    "Prefrontal cortex willpower sides.md",
-    "Evolution and discipline.md"
+    "Prefrontal cortex willpower sides.md"
   ]
 }
