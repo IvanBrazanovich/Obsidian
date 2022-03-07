@@ -1,0 +1,3 @@
+Respirar de 4 a 6 veces por minuto durante un par de minutos activa el prefrontal cortex e incremente [[Hear rate variability]]. Esto ayuda a ponerte en un modo de autocontrol. Debes evitar mantener tu respiración, eso solo te estresará más.
+
+Los estudios demuestran que 20 min de práctica de esto puede aumentar [[Hear rate variability]] y reducir impulsos, tentaciones y depresión. Esta práctica también ayuda a las personas a manejar situaciones estresantes más fácilmente.

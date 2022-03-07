@@ -1,0 +1,1 @@
+Para ayudar a la fuerza de voluntad debes descansar. Pero la mayoría de las cosas que cuentas como relajación no serviría para esto. En este caso debes: acostarte boca abajo, eleva tus pies un poco con una almohada y respira [[Four to Six]], relaja tus músculos. Haz esto de 5 a 10 minutos y si tienes miedo pon una alarma. 

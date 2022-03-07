@@ -15,6 +15,21 @@
 
 
 
+# Your body was born to resist Cheesecake
+[[Fight or flight]]
+[[The inner threat]]
+[[Pause and plan]]
+[[Hear rate variability]]
+[[Four to Six]]
+[[Exercise]]
+[[Green Walk]]
+[[Costs of self-control]]
+[[Relax]]
+
+
+
+
+
 ## Relaciona
 + [[Por qué dormimos]]
 + ![[The Psychology of Money]]

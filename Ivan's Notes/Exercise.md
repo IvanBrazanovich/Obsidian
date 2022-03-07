@@ -1,0 +1,1 @@
+Resulta que el ejercicio también es buenísimo para la fuerza de voluntad. Un par de minutos en el gimnasio te pueden ayudar a mejorar increíblemente tus reservas de fuerza de voluntad. 

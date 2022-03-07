@@ -1,0 +1,2 @@
+Cuando percibes una amenaza tu cuerpo se activa de una manera que permite que sobrevivas. La información de tus ojos se pasa ala amígdala, que se encuentra en el medio del cerebro. Esta parte del cerebro activó todos los mecanismos para que entres en el modo fight or flight: liberar energía, mantenerte enfocado, estresarte y volverte más impulsivo (utiliza un conjunto de hormonas para inhibir al prefrontal cortex)-sirve para que no pienses mucho, en momentos como estos no hay mucho tiempo para analizar y pensar-.
+

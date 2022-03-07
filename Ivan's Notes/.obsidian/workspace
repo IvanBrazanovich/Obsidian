@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d25b3482fa57960d",
+        "id": "c1d8732a1a2b2d54",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascrip Proyect.md",
+            "file": "The Willpower Instinct.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascrip Proyect.md",
+                "file": "The Willpower Instinct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d25b3482fa57960d",
+  "active": "c1d8732a1a2b2d54",
   "lastOpenFiles": [
-    "Javascrip Proyect.md",
-    "Journal/Daily/2022-03-06.md",
-    "Journal/Daily/2022-03-05.md",
     "The Willpower Instinct.md",
-    "Training discipline.md",
-    "Self-awareness.md",
-    "Distracción y disciplina.md",
-    "Una mente distraída es una mente sin disciplina.md",
-    "Take advantage of feelings.md",
-    "Prefrontal cortex willpower sides.md"
+    "Relax.md",
+    "Costs of self-control.md",
+    "Green Walk.md",
+    "Exercise.md",
+    "Four to Six.md",
+    "Hear rate variability.md",
+    "Pause and plan.md",
+    "The inner threat.md",
+    "The new threat.md"
   ]
 }

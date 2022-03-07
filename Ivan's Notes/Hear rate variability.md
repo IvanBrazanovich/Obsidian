@@ -1,0 +1,3 @@
+Heart rate variability is **where the amount of time between your heartbeats fluctuates slightly**. No es tan fuerte como una arritmia. 
+
+El heart rate variability es un buen indicador de fuerza de voluntad. Mientras mayor sea al ver una tentación, menor serán las probabilidades de que esa persona caiga ante el impulso. Formas de mejorarlo son el ejercicio, meditación y en general una buena salud y una buena calidad de vida a causa de buenos hábitos.

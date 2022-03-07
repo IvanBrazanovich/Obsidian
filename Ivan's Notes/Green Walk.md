@@ -1,0 +1,1 @@
+Caminar por la naturaleza ayuda a mejorar el mood, enfoque y autocontrol. 

@@ -1,0 +1,1 @@
+El pause and plan es lo opuesto al [[Fight or flight]]. Lo que hace es encargarse de bajar la velocidad, y enfocarse en la lógica y tratar de parar los impulsos. Es una forma biológica que tiene el cuerpo de encargarse de conflictos internos. 
