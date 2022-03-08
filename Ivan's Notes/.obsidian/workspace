@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Willpower Instinct.md",
+            "file": "React.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Willpower Instinct.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +119,7 @@
   },
   "active": "c1d8732a1a2b2d54",
   "lastOpenFiles": [
+    "React.md",
     "The Willpower Instinct.md",
     "Relax.md",
     "Costs of self-control.md",
@@ -128,7 +128,6 @@
     "Four to Six.md",
     "Hear rate variability.md",
     "Pause and plan.md",
-    "The inner threat.md",
-    "The new threat.md"
+    "The inner threat.md"
   ]
 }

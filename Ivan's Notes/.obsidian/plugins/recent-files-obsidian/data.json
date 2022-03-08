@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "React",
+      "path": "React.md"
+    },
+    {
       "basename": "The Willpower Instinct",
       "path": "The Willpower Instinct.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "key N°9 Control",
       "path": "key N°9 Control.md"
-    },
-    {
-      "basename": "Exceed",
-      "path": "Exceed.md"
     }
   ],
   "omittedPaths": [],
