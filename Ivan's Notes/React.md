@@ -3,7 +3,8 @@
 
 + ¿Qué es webpack?
 	+ Es un manejador de paquetes, básicamente se encarga de los archivos de tu proyecto. Además transpila tu código nuevo en código viejo para que sea más compatible con otros navegadores.
-+ a
++ ¿Cuál es la diferencia entre extensiones js y jsx?
+	+ Que en jsx se puede mezclar código js con html y css
 + a
 + a
 + a
