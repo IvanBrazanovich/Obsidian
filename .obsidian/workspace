@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ivan's Notes/Books.md",
+            "file": "Ivan's Notes/How to win friends and influence people.md",
             "mode": "source"
           }
         }
@@ -35,7 +35,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "The psy",
+            "query": "The ps",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ivan's Notes/Books.md",
+            "file": "Ivan's Notes/How to win friends and influence people.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,15 +73,15 @@
   },
   "active": "06915a96901d67d3",
   "lastOpenFiles": [
+    "Ivan's Notes/How to win friends and influence people.md",
+    "Ivan's Notes/People usually don't blame themselves.md",
     "Ivan's Notes/Books.md",
-    "Ivan's Notes/Probando 2.md",
-    "Ivan's Notes/Ahora funca?.md",
-    "Everything has a price.md",
-    "Ivan's Notes/Probando.md",
-    "Curiosity.md",
-    "Ivan's Notes/The Psychology of Money.md",
-    "Ivan's Notes/000 Home.md",
-    "It's hard to plan long term.md",
-    "Ivan's Notes/Standard.md"
+    "Ivan's Notes/Don't criticise, condenm or complain.md",
+    "Ivan's Notes/How to make friends and influence people.md",
+    "Ivan's Notes/The rules -Sam Walton.md",
+    "Ivan's Notes/Key N°10 Swim Upstream.md",
+    "Ivan's Notes/Key N°9 Swim Upstream.md",
+    "Ivan's Notes/key N°9 Control.md",
+    "Ivan's Notes/Exceed.md"
   ]
 }

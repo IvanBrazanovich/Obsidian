@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Javascript",
+      "path": "Javascript.md"
+    },
+    {
       "basename": "The Willpower Instinct",
       "path": "The Willpower Instinct.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sam Walton",
       "path": "Sam Walton.md"
-    },
-    {
-      "basename": "The rules -Sam Walton",
-      "path": "The rules -Sam Walton.md"
     }
   ],
   "omittedPaths": [],
