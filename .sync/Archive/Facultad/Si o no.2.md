@@ -2,4 +2,8 @@ Probando que tanto tarda en sincronizarse
 Es al instante brotherrrrr 
 
 
-A ver rque tan rapido anda aesto 
+Ok ahora debería estar bien siono
+
+
+SIONOOOO
+SIONOOOOOOOOOOOOOOO
