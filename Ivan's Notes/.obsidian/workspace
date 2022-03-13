@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript.md",
+            "file": "Años Facultad.md",
             "mode": "source",
             "source": false
           }
@@ -42,7 +42,7 @@
               "type": "search",
               "state": {
                 "query": "reduce",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e6c8bc392741906",
@@ -70,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "Años Facultad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,8 @@
   },
   "active": "ed6b3048cb36312b",
   "lastOpenFiles": [
+    "Años Facultad.md",
+    "Journal/Daily/2022-03-13.md",
     "Javascript.md",
     "The Willpower Instinct.md",
     "Pause and plan.md",
@@ -127,8 +129,6 @@
     "The inner threat.md",
     "Books.md",
     "State of discipline.md",
-    "Bad stress and willpower.md",
-    "Relax.md",
-    "000 Home.md"
+    "Bad stress and willpower.md"
   ]
 }

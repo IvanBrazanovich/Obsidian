@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Años Facultad",
+      "path": "Años Facultad.md"
+    },
+    {
+      "basename": "2022-03-13",
+      "path": "Journal/Daily/2022-03-13.md"
+    },
+    {
       "basename": "Javascript",
       "path": "Javascript.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1 Year",
       "path": "1 Year.md"
-    },
-    {
-      "basename": "2022-02-12",
-      "path": "Journal/Daily/2022-02-12.md"
-    },
-    {
-      "basename": "Sam Walton",
-      "path": "Sam Walton.md"
     }
   ],
   "omittedPaths": [],
