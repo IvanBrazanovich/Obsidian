@@ -25,8 +25,8 @@
 [[Green Walk]]
 [[Costs of self-control]]
 [[Relax]]
-
-
+[[Bad stress and willpower]]
+[[State of discipline]]
 
 
 

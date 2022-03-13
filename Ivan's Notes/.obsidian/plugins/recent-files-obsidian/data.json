@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "React",
-      "path": "React.md"
-    },
-    {
       "basename": "The Willpower Instinct",
       "path": "The Willpower Instinct.md"
     },
     {
+      "basename": "Pause and plan",
+      "path": "Pause and plan.md"
+    },
+    {
+      "basename": "I will, I won't, I want",
+      "path": "I will, I won't, I want.md"
+    },
+    {
+      "basename": "The inner threat",
+      "path": "The inner threat.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
+      "basename": "State of discipline",
+      "path": "State of discipline.md"
+    },
+    {
+      "basename": "Bad stress and willpower",
+      "path": "Bad stress and willpower.md"
+    },
+    {
       "basename": "Relax",
       "path": "Relax.md"
+    },
+    {
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
+      "basename": "React",
+      "path": "React.md"
     },
     {
       "basename": "Costs of self-control",
@@ -33,14 +61,6 @@
       "path": "Hear rate variability.md"
     },
     {
-      "basename": "Pause and plan",
-      "path": "Pause and plan.md"
-    },
-    {
-      "basename": "The inner threat",
-      "path": "The inner threat.md"
-    },
-    {
       "basename": "The new threat",
       "path": "The new threat.md"
     },
@@ -59,10 +79,6 @@
     {
       "basename": "Leonardo Da Vinci",
       "path": "Leonardo Da Vinci.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books.md"
     },
     {
       "basename": "Non-Fiction Book",
@@ -109,10 +125,6 @@
       "path": "Voluntad Agrandada.md"
     },
     {
-      "basename": "I will, I won't, I want",
-      "path": "I will, I won't, I want.md"
-    },
-    {
       "basename": "We all struggle",
       "path": "We all struggle.md"
     },
@@ -153,10 +165,6 @@
       "path": "Criptomonedas.md"
     },
     {
-      "basename": "000 Home",
-      "path": "000 Home.md"
-    },
-    {
       "basename": "2022-02-18",
       "path": "Journal/Daily/2022-02-18.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The rules -Sam Walton",
       "path": "The rules -Sam Walton.md"
-    },
-    {
-      "basename": "Key N°10 Swim Upstream",
-      "path": "Key N°10 Swim Upstream.md"
-    },
-    {
-      "basename": "key N°9 Control",
-      "path": "key N°9 Control.md"
     }
   ],
   "omittedPaths": [],

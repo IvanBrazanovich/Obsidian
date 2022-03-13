@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d8732a1a2b2d54",
+        "id": "ed6b3048cb36312b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
+            "file": "The Willpower Instinct.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "The Willpower Instinct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c1d8732a1a2b2d54",
+  "active": "ed6b3048cb36312b",
   "lastOpenFiles": [
-    "React.md",
     "The Willpower Instinct.md",
-    "Relax.md",
-    "Costs of self-control.md",
-    "Green Walk.md",
-    "Exercise.md",
-    "Four to Six.md",
-    "Hear rate variability.md",
     "Pause and plan.md",
-    "The inner threat.md"
+    "I will, I won't, I want.md",
+    "The inner threat.md",
+    "Books.md",
+    "State of discipline.md",
+    "Bad stress and willpower.md",
+    "Relax.md",
+    "000 Home.md",
+    "React.md"
   ]
 }
