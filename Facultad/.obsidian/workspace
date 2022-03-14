@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "185627e40eed48bf",
+        "id": "728a894a76f3f811",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Si o no.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Si o no.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "185627e40eed48bf",
+  "active": "728a894a76f3f811",
   "lastOpenFiles": [
-    "000 Home.md",
-    "Es lo mismo siono.md",
     "Si o no.md",
-    "Sistemas y Organizaciones.md",
+    "Es lo mismo siono.md",
     "Análisis Matemático.md",
+    "000 Home.md",
+    "Sistemas y Organizaciones.md",
     "Nuevo tìtulo.md"
   ]
 }
