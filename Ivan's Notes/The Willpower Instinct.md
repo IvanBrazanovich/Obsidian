@@ -33,7 +33,9 @@
 + No puedes controlar todo, elige bien tus batallas y entiéndete. 
 + State of discipline: Piensa por qué no estás siendo disciplinado. ¿Qué estado evita que seas disciplinado? ¿Es el hambre, estrés, estás en fight or flight, falta de sueño?
 
-
+# Hola
+## Chau 
+### No sé
 ## Relaciona
 + [[Por qué dormimos]]
 + ![[The Psychology of Money]]
