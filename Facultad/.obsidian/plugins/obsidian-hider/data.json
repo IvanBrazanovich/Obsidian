@@ -3,9 +3,9 @@
   "hideRibbon": false,
   "hideStatus": true,
   "hideScroll": true,
-  "hideTooltips": false,
+  "hideTooltips": true,
   "hideSearchSuggestions": false,
-  "hideInstructions": false,
-  "hideMeta": false,
+  "hideInstructions": true,
+  "hideMeta": true,
   "hideVault": false
 }
