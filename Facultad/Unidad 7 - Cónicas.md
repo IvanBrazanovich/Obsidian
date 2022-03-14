@@ -1,0 +1,2 @@
+# Temas 
+Cónicas: Circunferencia, Elipse; Parábola e Hipérbola. Definiciones. Deducción de sus ecuaciones generales. Comparación de las ecuaciones con la ecuación de 2º grado en dos variables. Ecuaciones de segundo grado en tres variables. Coordenadas polares, cilíndricas, esféricas.

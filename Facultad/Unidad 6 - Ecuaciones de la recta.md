@@ -1,0 +1,2 @@
+# Temas
+Ecuaciones de la recta: vectorial, simétrica, paramétrica, cartesiana, general, segmentaria y normal. Recta que pasa por un punto y por dos puntos. Ángulo entre dos rectas. Condiciones de paralelismo y perpendicularidad. Ecuación del plano. La recta en el espacio. Ecuaciones De la recta en el espacio.

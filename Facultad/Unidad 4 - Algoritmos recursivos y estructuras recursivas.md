@@ -1,0 +1,2 @@
+# Temas 
+RECURSIVIDAD Y ARBOL Noción de función recursiva. Noción de acción recursiva. Interpretación de algoritmos recursivos. Diseño de algoritmos recursivos. Generalización de las estructuras de datos: árbol. Definición y conceptos básicos. Árboles binarios y n-arios. Recorrido y procesos de árboles binarios.

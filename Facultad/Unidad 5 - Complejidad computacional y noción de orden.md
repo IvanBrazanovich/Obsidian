@@ -1,0 +1,2 @@
+# Temas 
+Introducción a la noción de complejidad algorítmica. Tiempo de ejecución. Asíntotas. Ordenes de complejidad. Reglas de la notación asíntotica. Importancia de la eficiencia. Estimación de la complejidad en algoritmos no recursivos.

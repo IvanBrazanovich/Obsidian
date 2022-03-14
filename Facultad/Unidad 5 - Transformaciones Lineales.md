@@ -1,0 +1,2 @@
+# Temas 
+Transformaciones lineales. Definición. Teoremas sobre las transformaciones lineales. Relación entre matrices y transformaciones lineales. Subespacios asociados a una transformación lineal. Representación matricial de una transformación lineal. Matriz estándar o canónica de una transformación lineal. Dilataciones, traslaciones, rotaciones. Cambio de base en la matriz de una transformación lineal. Autovalores y autovectores.
