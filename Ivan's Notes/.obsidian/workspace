@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Años Facultad.md",
+            "file": "The Willpower Instinct.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Años Facultad.md",
+                "file": "The Willpower Instinct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +119,15 @@
   },
   "active": "ed6b3048cb36312b",
   "lastOpenFiles": [
-    "Años Facultad.md",
-    "Journal/Daily/2022-03-13.md",
-    "Javascript.md",
     "The Willpower Instinct.md",
-    "Pause and plan.md",
-    "I will, I won't, I want.md",
-    "The inner threat.md",
-    "Books.md",
     "State of discipline.md",
-    "Bad stress and willpower.md"
+    "No se puede predecir el futuro.md",
+    "Prefrontal cortex willpower sides.md",
+    "Distracción y disciplina.md",
+    "Training discipline.md",
+    "Bad stress and willpower.md",
+    "Costs of self-control.md",
+    "Hear rate variability.md",
+    "Books.md"
   ]
 }

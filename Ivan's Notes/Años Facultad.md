@@ -1,47 +1,37 @@
-# 1er año 
-### Anuales
-1. Algoritmos y estructuras de datos 
-2. Análisis matemático 1 
-3. Física 1 
-5. Sistemas y organizaciones 
-6. Álgebra y geometría analítica 
+# ¿Cómo voy a estudiar?
 
 
-### Cuatrimestrales 
-4. Matemática discreta (1er cuatrimestre)
-5. Química  (segundo cuatrimestre)
-7. inglés 1 (Segundo cuatrimestre)
-
-
-
-# Segundo año 
-### Anuales 
-1. Análisis de sistemas 
-4. Sistemas de representación
-
-
-### Cuatrimestrales 
-1. Arquitectura de computadoras (1er cuatrimestre)
-2. Inglés 2 (1er cuatrimestre)
-3. Sintaxis y semántica de los lenguajes (1er cuatrimestre)
-4. Física II (2do cuatrimestre)
-5. Paradigmas de programación (2do cuatrimestre)
-6.  Probabilidad y estadísticas (2do cuatrimestre)
-7.  Análisis matemático 2 (1ro cuatrimestre)
-5. Matemática superior (2do cuatrimestre)
+## Prep 
+Tengo que tratar de saber lo más posible antes de entrar a clases. 1 día antes voy a tratar de estudiar lo que voy a dar el día siguiente. Voy a hacer todas las anotaciones que pueda en Obsidian, pero no lo voy a subir a Anki. 
 
 
 
 
-# Tercer Año 
-### Anuales 
-1. Diseño de sistemas 
 
 
-### Cuatrimestrales 
-1. Comunicaciones (1er cuatrimestre)
-2. Economía (1er cuatrimestre)
-3. Gestión de datos (1er cuatrimestre)
-4. Ingeniería y sociedad (1er cuatrimestre)
-5. Sistemas operativos (2do cuatrimestre)
-6. Legislación (1er cuatrimestre)
+## During 
+Tengo que aprender la mayor cantidad posible y ver las diferencias con lo que estudié. 
+
+Voy a acordarme de lo que estudié y ver las diferencias y cosas que pienso que tengo que poner las voy a poner en las notas. 
+
+En el caso de que tenga que poner algún tipo de Fórmula o imagen voy a anotarlo en una hoja y lo voy a copiar en la hoja, y voy a anotar la referencia en la pc
+
+
+
+
+
+
+
+## After
+Tengo que analizar, corregir y memorizar. 
+
+Tengo que analizar y mejorar las notas que van a entrar. Voy a ponerlas en Anki.
+
+
+
+
+
+
+
+
+
