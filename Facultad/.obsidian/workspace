@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sistemas y Organizaciones.md",
+            "file": "000 Home.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas y Organizaciones.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +90,9 @@
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
+    "000 Home.md",
     "Sistemas y Organizaciones.md",
     "Análisis Matemático.md",
-    "000 Home.md",
     "Es lo mismo siono.md",
     "Si o no.md",
     "Nuevo tìtulo.md"
