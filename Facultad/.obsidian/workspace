@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "792579bb7bd9f903",
+        "id": "e4ddeb73d982b2a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nueva.md",
+            "file": "Sistemas y Organizaciones.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nueva.md",
+                "file": "Sistemas y Organizaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "792579bb7bd9f903",
+  "active": "e4ddeb73d982b2a6",
   "lastOpenFiles": [
-    "Nueva.md",
     "Sistemas y Organizaciones.md",
+    "Nueva.md",
     "Vieja.md",
     "Si o no.md",
     "Análisis Matemático.md",
