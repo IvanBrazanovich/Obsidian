@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Si o no.md",
+            "file": "Es lo mismo siono.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Si o no.md",
+                "file": "Es lo mismo siono.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,11 +90,11 @@
   },
   "active": "728a894a76f3f811",
   "lastOpenFiles": [
-    "Si o no.md",
     "Es lo mismo siono.md",
+    "Si o no.md",
+    "Sistemas y Organizaciones.md",
     "Análisis Matemático.md",
     "000 Home.md",
-    "Sistemas y Organizaciones.md",
     "Nuevo tìtulo.md"
   ]
 }
