@@ -7,12 +7,8 @@
         "id": "ed6b3048cb36312b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Willpower Instinct.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Willpower Instinct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
