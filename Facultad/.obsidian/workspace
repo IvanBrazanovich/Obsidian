@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Análisis Matemático.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Análisis Matemático.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +90,9 @@
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
+    "Análisis Matemático.md",
     "000 Home.md",
     "Es lo mismo siono.md",
-    "Análisis Matemático.md",
     "Sistemas y Organizaciones.md",
     "Si o no.md",
     "Nuevo tìtulo.md"
