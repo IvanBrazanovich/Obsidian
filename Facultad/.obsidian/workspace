@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0c2417b01c928",
@@ -90,6 +91,7 @@
   "active": "68a676e57bd52ec5",
   "lastOpenFiles": [
     "000 Home.md",
+    "Es lo mismo siono.md",
     "Análisis Matemático.md",
     "Sistemas y Organizaciones.md",
     "Si o no.md",
