@@ -1,0 +1,2 @@
+# Temas
+Partición de un intervalo. Norma de una partición. Refinamiento. Sumas inferior y superior. Integral inferior y superior de Riemann. Funciones integrables Riemann. Integral de Riemann. Propiedades de la Integral Definida. Teorema del Valor Medio del Cálculo Integral. Función Integral. Derivada de la Función Integral. Concepto de Primitiva. Regla de Barrow. Integrales Impropias. Integrales Impropias de Primera y de Segunda especie. Criterios de Convergencia.

@@ -1,0 +1,2 @@
+# Temas 
+Series numéricas. Convergencia. Serie geométrica. Condición necesaria para la convergencia de una serie. Serie de términos no negativos. Criterios de convergencia: Criterio de Comparación, Criterio de D'Alembert, Criterio de la Raíz, Criterio de Raabe. Series alternadas, Criterios de Convergencia. Series de términos cualesquiera. Convergencia absoluta y condicional. Series de potencias.

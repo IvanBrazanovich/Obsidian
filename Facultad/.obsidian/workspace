@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1cf97074d9e68f",
+        "id": "b5ed1a1f87b828ec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Análisis Matemático 1.md",
+            "file": "Álgebra y Geometría Analítica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análisis Matemático 1.md",
+                "file": "Álgebra y Geometría Analítica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +89,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b1cf97074d9e68f",
+  "active": "b5ed1a1f87b828ec",
   "lastOpenFiles": [
-    "Análisis Matemático 1.md",
-    "000 Home.md",
     "Álgebra y Geometría Analítica.md",
-    "Sistemas y Organizaciones.md",
-    "Unidad 1 Los Sistemas.md",
-    "Unidad 4 Los Sistemas de Información.md",
-    "Unidad 3 Las Organizaciones su estructura y procesos.md",
-    "Unidad 2  Introducción a la Teoría General de la Administración.md",
+    "Unidad 3 - Sistemas de Ecuaciones LIneales.md",
+    "000 Home.md",
     "Análisis Matemático.md",
-    "Nueva.md"
+    "Análisis Matemático 1.md",
+    "Unidad 1 - Números Reales y Funciones.md",
+    "Unidad 8 - Series.md",
+    "Unidad 7 - Aplicaciones de la Integral Definida.md",
+    "Unidad 6 - Integral Definida.md",
+    "Unidad 5 - Integral Definida, Integrales Impropias.md"
   ]
 }

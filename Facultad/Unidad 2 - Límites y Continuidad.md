@@ -1,0 +1,2 @@
+# Temas
+Límite de sucesiones. Sucesiones Convergentes, divergentes y oscilantes. Sucesiones de Cauchy. Definición. Propiedades. Criterio de Convergencia de Cauchy. Límite funcional. Definición. Interpretación gráfica. Unicidad. Álgebra de Límites. Límites Infinitos. Generalización del concepto de límite. Límites indeterminados. Límites laterales. Continuidad de una función: en un punto, en un intervalo. Discontinuidades. Teorema del Valor Intermedio. Teorema de Bolzano. Teoremas de Weierstrass. Asíntotas a curvas planas. Concepto. Cálculo.

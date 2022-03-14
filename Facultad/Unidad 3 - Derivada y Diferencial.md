@@ -1,0 +1,2 @@
+# Temas 
+Definición de derivada de una función en un punto. Interpretación gráfica. Derivadas laterales. Regla General de derivación. La función derivada. Derivabilidad y Continuidad. Cálculo de derivadas de funciones elementales usando la definición. Fórmulas de derivación. Derivadas sucesivas. Diferencial de una función. Interpretación gráfica. Reglas de diferenciación. Diferenciales sucesivas. Aproximación.
