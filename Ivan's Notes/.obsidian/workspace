@@ -7,8 +7,12 @@
         "id": "ed6b3048cb36312b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "000 Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
   },
   "active": "ed6b3048cb36312b",
   "lastOpenFiles": [
+    "000 Home.md",
     "The Willpower Instinct.md",
     "State of discipline.md",
     "No se puede predecir el futuro.md",
@@ -122,7 +128,6 @@
     "Training discipline.md",
     "Bad stress and willpower.md",
     "Costs of self-control.md",
-    "Hear rate variability.md",
-    "Books.md"
+    "Hear rate variability.md"
   ]
 }
