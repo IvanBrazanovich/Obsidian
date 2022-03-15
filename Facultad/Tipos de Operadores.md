@@ -14,4 +14,7 @@ Son operadores binarios (requieren siempre dos operandos) que realizan las opera
 Los operadores relacionales sirven para realizar comparaciones de igualdad, desigualdad y relación de menor o mayor. Estos operadores sirven para expresar las condiciones en los algoritmos. Proporcionan resultados lógicos. Son los iguales, mayores a que, menos a que, mayor o igual, etc.
 
 
-### Operadores Lóg
+### Operadores Lógicos 
+Son aquéllos que permiten la combinación de condiciones para formar una sola expresión lógica. Utilizan operando lógicos y proporcionan resultados lógicos también. 
+
+![[Pasted image 20220315191711.png]]

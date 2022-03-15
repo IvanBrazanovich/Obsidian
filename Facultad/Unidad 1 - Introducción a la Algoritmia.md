@@ -1,5 +1,5 @@
 # Temas 
-+ Estrategías de resolución de problemas: algoritmos, descripción narrada, seudocódigos, diagramas, tablas de decisión.
++ Estrategias de resolución de problemas: algoritmos, descripción narrada, pseudocódigos, diagramas, tablas de decisión.
 + Concepto de acción, estado, procesador y proceso. 
 + Concepto de máquina, algoritmo y programa. Formas de representar los procesos. Esquemas. 
 + Concepto de dato y tipología de datos. Tipos elementales de datos. La operación asignación. Especificación de la acción a realizar en función de los estados. Concepto de estado intermedio. Descomposición de una acción en términos de otras más elementales. Composición secuencial de acciones. Elementos básicos de la notación algorítmica. 
@@ -15,4 +15,4 @@
 [[Programación Estructurada]]
 [[Estructuras de Datos simples]]
 [[Operadores, Operandos y Expresiones]]
-
+[[Prueba de Escritorio]]

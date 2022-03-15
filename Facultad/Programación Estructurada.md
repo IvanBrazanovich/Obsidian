@@ -5,4 +5,6 @@ La programación estructurada es un conjunto de técnicas y métodos para diseñ
 2. [[Teorema de la programación estructurada]]
 
 
+
+
 [[subir a anki]]

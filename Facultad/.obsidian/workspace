@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tipos de Operadores.md",
+            "file": "Teorema de la programación estructurada.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -67,15 +68,15 @@
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
-    "Tipos de Operadores.md",
-    "Operadores, Operandos y Expresiones.md",
-    "Unidad 1 - Introducción a la Algoritmia.md",
-    "Estructuras de Datos simples.md",
-    "Algoritmos.md",
-    "Elementos básicos de los algoritmos.md",
-    "Metodologías para la resolución de algoritmos.md",
-    "Ventajas del pseudocódigo sobre Diagrama de flujo.md",
+    "Teorema de la programación estructurada.md",
     "Programación Estructurada.md",
-    "Teorema de la programación estructurada.md"
+    "Unidad 1 - Introducción a la Algoritmia.md",
+    "Estructuras de Control.md",
+    "Algoritmos.md",
+    "Algoritmos y Estructuras de Datos.md",
+    "000 Home.md",
+    "Prueba de Escritorio.md",
+    "Operadores, Operandos y Expresiones.md",
+    "Tipos de Operadores.md"
   ]
 }

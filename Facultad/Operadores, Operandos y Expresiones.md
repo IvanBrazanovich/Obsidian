@@ -10,4 +10,6 @@ Los operandos son los valores utilizados en las expresiones.
 Es el símbolo que determina el tipo de operación o relación que habrá que establecer entre los operandos.  
 [[Tipos de Operadores]]
 
-  
+### Prioridad de los operadores
+
+  ![[Pasted image 20220315192031.png]]
