@@ -5,6 +5,14 @@
       "path": "000 Home.md"
     },
     {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
+      "basename": "How to win friends and influence people",
+      "path": "How to win friends and influence people.md"
+    },
+    {
       "basename": "The Willpower Instinct",
       "path": "The Willpower Instinct.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Hear rate variability",
       "path": "Hear rate variability.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books.md"
     },
     {
       "basename": "Non-Fiction Book",
@@ -167,10 +171,6 @@
     {
       "basename": "Be interested in people",
       "path": "Be interested in people.md"
-    },
-    {
-      "basename": "How to win friends and influence people",
-      "path": "How to win friends and influence people.md"
     },
     {
       "basename": "2022-02-19",

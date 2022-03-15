@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -120,14 +121,14 @@
   "active": "ed6b3048cb36312b",
   "lastOpenFiles": [
     "000 Home.md",
+    "Books.md",
+    "How to win friends and influence people.md",
     "The Willpower Instinct.md",
     "State of discipline.md",
     "No se puede predecir el futuro.md",
     "Prefrontal cortex willpower sides.md",
     "Distracción y disciplina.md",
     "Training discipline.md",
-    "Bad stress and willpower.md",
-    "Costs of self-control.md",
-    "Hear rate variability.md"
+    "Bad stress and willpower.md"
   ]
 }

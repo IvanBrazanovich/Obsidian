@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Unidad 1 - Introducción a la Algoritmia.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": false
           }
         }
@@ -54,47 +54,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0c2417b01c928",
     "type": "split",
-    "children": [
-      {
-        "id": "4344f6ea88de4d08",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb2ba5dd3487c0db",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000 Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300,
+    "width": 294.5,
     "collapsed": true
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
+    "Unidad 1 - Introducción a la Algoritmia.md",
+    "Algoritmos y Estructuras de Datos.md",
     "000 Home.md",
+    "Física 1.md",
+    "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
+    "Álgebra y Geometría Analítica.md",
+    "Unidad 1 - Matrices.md",
     "Es lo mismo siono.md",
     "Análisis Matemático.md",
-    "Sistemas y Organizaciones.md",
-    "Si o no.md",
-    "Nuevo tìtulo.md"
+    "Sistemas y Organizaciones.md"
   ]
 }
