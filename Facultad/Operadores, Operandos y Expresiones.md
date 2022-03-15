@@ -7,6 +7,7 @@ Los operandos son los valores utilizados en las expresiones.
 
 
 ### ¿Qué es un operador?
-Es el símbolo que determina el tipo de operación o relación que habrá que establecer entre los operandos. 
-[[Operadores ]]
+Es el símbolo que determina el tipo de operación o relación que habrá que establecer entre los operandos.  
+[[Tipos de Operadores]]
 
+  

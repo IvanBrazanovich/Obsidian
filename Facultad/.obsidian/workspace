@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Operadores, Operandos y Expresiones.md",
+            "file": "Tipos de Operadores.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,6 +67,7 @@
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
+    "Tipos de Operadores.md",
     "Operadores, Operandos y Expresiones.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
     "Estructuras de Datos simples.md",
@@ -75,7 +76,6 @@
     "Metodologías para la resolución de algoritmos.md",
     "Ventajas del pseudocódigo sobre Diagrama de flujo.md",
     "Programación Estructurada.md",
-    "Teorema de la programación estructurada.md",
-    "Características de los algoritmos.md"
+    "Teorema de la programación estructurada.md"
   ]
 }
