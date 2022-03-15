@@ -13,6 +13,6 @@
 [[Proceso, Acción y Estado]]
 [[Sistema Operativo]]
 [[Programación Estructurada]]
-
-
+[[Estructuras de Datos simples]]
+[[Operadores, Operandos y Expresiones]]
 

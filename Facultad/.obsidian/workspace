@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programación Estructurada.md",
+            "file": "Operadores, Operandos y Expresiones.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -67,15 +67,15 @@
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
-    "Programación Estructurada.md",
-    "Metodologías para la resolución de algoritmos.md",
-    "Algoritmos.md",
+    "Operadores, Operandos y Expresiones.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
-    "Algoritmos y Estructuras de Datos.md",
-    "Sistema Operativo.md",
-    "Proceso, Acción y Estado.md",
-    "000 Home.md",
-    "Física 1.md",
-    "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md"
+    "Estructuras de Datos simples.md",
+    "Algoritmos.md",
+    "Elementos básicos de los algoritmos.md",
+    "Metodologías para la resolución de algoritmos.md",
+    "Ventajas del pseudocódigo sobre Diagrama de flujo.md",
+    "Programación Estructurada.md",
+    "Teorema de la programación estructurada.md",
+    "Características de los algoritmos.md"
   ]
 }
