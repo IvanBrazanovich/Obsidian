@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teorema de la programación estructurada.md",
+            "file": "Unidad 1 - Introducción a la Algoritmia.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -68,15 +68,15 @@
   },
   "active": "185627e40eed48bf",
   "lastOpenFiles": [
-    "Teorema de la programación estructurada.md",
-    "Programación Estructurada.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
+    "Subacciones.md",
+    "Programación Estructurada.md",
+    "Teorema de la programación estructurada.md",
     "Estructuras de Control.md",
     "Algoritmos.md",
     "Algoritmos y Estructuras de Datos.md",
     "000 Home.md",
     "Prueba de Escritorio.md",
-    "Operadores, Operandos y Expresiones.md",
-    "Tipos de Operadores.md"
+    "Operadores, Operandos y Expresiones.md"
   ]
 }

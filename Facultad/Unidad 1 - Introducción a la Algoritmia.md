@@ -16,3 +16,5 @@
 [[Estructuras de Datos simples]]
 [[Operadores, Operandos y Expresiones]]
 [[Prueba de Escritorio]]
+[[Subacciones]]
+Quedé en la pag 6 Funciones
