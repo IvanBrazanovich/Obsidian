@@ -9,9 +9,9 @@
 
 
 # Conceptos Iniciales
-[[Algoritmo]]
-
-
+[[Algoritmos]]
+[[Proceso, Acción y Estado]]
+[[Sistema Operativo]]
 
 
 
