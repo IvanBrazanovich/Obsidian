@@ -1,12 +1,4 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
-  "foldHeading": true,
-  "foldIndent": true,
-  "showLineNumber": false,
-  "spellcheck": true,
-  "spellcheckLanguages": [
-    "es-419",
-    "en-US"
-  ]
+  "livePreview": true
 }

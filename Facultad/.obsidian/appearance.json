@@ -1,6 +1,4 @@
 {
   "baseFontSize": 18,
-  "cssTheme": "Minimal",
-  "translucency": false,
-  "baseFontSizeAction": false
+  "cssTheme": "Minimal"
 }
