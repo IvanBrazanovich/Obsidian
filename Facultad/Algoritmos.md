@@ -25,7 +25,7 @@ Un algoritmo es una secuencia finita de instrucciones, reglas o pasos que descri
 
 
 
-
+[[Metodologías para la resolución de algoritmos]]
 
 
 

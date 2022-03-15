@@ -12,7 +12,7 @@
 [[Algoritmos]]
 [[Proceso, Acción y Estado]]
 [[Sistema Operativo]]
-
+[[Programación Estructurada]]
 
 
 
