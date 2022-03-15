@@ -1,0 +1,2 @@
+# Temas 
+Objeto rígido en equilibrio. Centro de gravedad. Ejemplos de objetos rígidos en equilibrio estático. Propiedades elásticas de los sólidos. Elasticidad. Tensión y deformación. Módulo de Young, módulo elástico de rigidez o al corte, modulo elástico de volumen

@@ -1,0 +1,2 @@
+# Temas 
+Presión. Variación de la presión con la profundidad. Ley de Pascal. Mediciones de presión. Fuerza de flotación y principio de Arquímedes. Dinámica de los fluidos. Ecuación de continuidad para fluidos. Ecuación de Bernoulli. El tubo Venturi. Ley de Torricelli. Otras aplicaciones de la dinámica de fluidos

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Física 1.md",
+            "file": "Matemática Discreta.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física 1.md",
+                "file": "Matemática Discreta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +91,15 @@
   },
   "active": "b5ed1a1f87b828ec",
   "lastOpenFiles": [
-    "Física 1.md",
+    "Matemática Discreta.md",
     "000 Home.md",
-    "Algoritmos y Estructuras de Datos.md",
-    "Unidad 5 - Complejidad computacional y noción de orden.md",
-    "Unidad 4 - Algoritmos recursivos y estructuras recursivas.md",
-    "Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
-    "Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
-    "Unidad 1 - Introducción a la Algoritmia.md",
-    "Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos.md",
-    "Álgebra y Geometría Analítica.md"
+    "Física 1.md",
+    "Unidad 9 - Óptica Geométrica.md",
+    "Unidad 8 - Movimiento oscilatorio. Movimiento ondulatorio.md",
+    "Unidad 7 - Fluidos en equilibrio. Dinámica de los fluidos.md",
+    "Unidad 6 - Condiciones de equilibrio. Tensión y deformación.md",
+    "Unidad 5 - Cinemática y Dinámica de los sólidos.md",
+    "Unidad 4 - Trabajo y Energía. Colisiones.md",
+    "Unidad 3 - Dinámica de la partícula.md"
   ]
 }
