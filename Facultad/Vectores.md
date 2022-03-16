@@ -1,6 +1,13 @@
+# Ejercicios 
+[[Ejercicios Vectores]]
+
+
 ### ¿Cuál es la diferencia entre magnitudes escalares y vectoriales?
 Las vectoriales tienen dirección y sentido.
 
+
+### ¿Cuáles son las abscisas y las ordenadas?
+El eje de las x es el de las abscisas y las ordenadas el eje de la y.
 
 ### Actividad 1  ¿Cuál de estas magnitudes son escalares y cuáles vectoriales? 
 #Actividad
@@ -77,3 +84,22 @@ Llamemos a un vector v, el opuesto será -v, el mismo pero con sentido opuesto. 
 
 
 ### Diferencia de vectores 
+Es básicamente una suma pero el vector que se utiliza para restar será cambiado por el vector opuesto. O sea, si A + (-B) = D.
+
+
+### Multiplicación de vectores 
+Básicamente se multiplica cada elemento del vector por el escalar. 
+
+
+### ¿Cuáles son vectores equivalentes?
+Aquellos con igual dirección, modulo y sentido.
+
+### Producto Escalar 
+No entendí 
+
+Me quedé en la pag 9 de 
+
+
+
+
+

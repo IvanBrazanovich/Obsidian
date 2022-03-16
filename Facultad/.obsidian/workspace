@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vectores.md",
+            "file": "Ejercicios Vectores.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectores.md",
+                "file": "Ejercicios Vectores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +91,7 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Ejercicios Vectores.md",
     "Vectores.md",
     "Unidad 1 - Matrices.md",
     "Álgebra y Geometría Analítica.md",
@@ -99,7 +100,6 @@
     "Unidad 1 - Números Reales y Funciones.md",
     "Análisis Matemático 1.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
-    "Subacciones.md",
-    "Prueba de Escritorio.md"
+    "Subacciones.md"
   ]
 }
