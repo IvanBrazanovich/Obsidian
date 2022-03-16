@@ -2,7 +2,8 @@
 Las vectoriales tienen dirección y sentido.
 
 
-### Actividad 1  ¿Cuál de estas magnitudes son escalares y cuáles vectoriales?
+### Actividad 1  ¿Cuál de estas magnitudes son escalares y cuáles vectoriales? 
+#Actividad
 1. La longitud de un cable (escalar)
 2. La velocidad de una lancha (vectorial)
 3. La memoria de una pc (escalar)
@@ -25,5 +26,22 @@ Es un segmento de recta orientado.
 3. Vectores equipolentes: Dos o más vectores son equipolentes si tienen igual dirección, igual sentido e igual módulo.
 4. Vector libre: Es el vector representante de infinitos vectores equipolentes.
 5. Vectores iguales: Dos vectores son iguales cuando tienen igual dirección, sentido, módulo y punto de aplicación.
-6. 
 
+
+### Versores 
+![[Pasted image 20220316171306.png]]
+
+
+### ¿Cómo se indica el módulo de un vector?
+![[Pasted image 20220316171427.png]]
+
+### ¿Cómo hallar el módulo de un vector de n dimensiones?
+![[Pasted image 20220316171913.png]]
+
+### Actividad 2: Hallar el módulo del vector 
+#Actividad 
+![[Pasted image 20220316171549.png]]
+Módulo |A| = 6,16
+
+
+### Actividad 3: Distancia entre puntos 
