@@ -3,7 +3,7 @@
 
 + [[Standard]]
 + [[Books]]
-+ [[Technology]]<
++ [[Technology]]
 + [[Tracker]]
 	+ [[1 Year]]
 + [[Criptomonedas]]

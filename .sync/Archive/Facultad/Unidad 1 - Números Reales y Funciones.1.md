@@ -3,47 +3,6 @@
 Números Reales. Intervalos. Entorno. Entorno Reducido. Conjuntos Acotados. Extremos Superior e Inferior. Elementos Máximo y Mínimo. Funciones. Definición. Dominio e Imagen. Gráficas. Funciones elementales: Lineal, Potencial, Exponencial, Logarítmica, Polinómicas, Racionales, Trigonométricas. Funciones especiales: Valor Absoluto, Parte Entera, Signo, Mantisa. Funciones Pares e Impares. Funciones acotadas, crecientes, decrecientes, periódicas. Función Compuesta. Función inversa. Funciones definidas en forma explícita, implícita y paramétrica. Sucesiones. Definición. Propiedades. Sucesiones acotadas. Subsucesiones.
 
 
-
-- [ ] Cotas, valor absoluto, intervalos, entornos
-- [ ] Videos números reales cotas extremos
-- [ ] Entorno y entorno reducido
-- [ ] A M 1 funciones 
-- [ ] Paridad
-- [ ] Clasificación de funciones 
-- [ ] Videos funciones: exponencial, seno, coseno e inversas
-- [ ] Pre clase 1
-- [ ] Trabajo práctico N°1
-- [ ] Cotas, extremos y elementos 
-- [ ] Inecuación de 1°er grado
-
-
-[[Cotas, extremos  y elementos de un conjunto]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 El cuádruple de un número no excede 35. Y el quintuple de un número de objetos aumentado en dos no es menor que 50.
 # 1RA clase
 https://frre.cvg.utn.edu.ar/course/view.php?id=459#section-9

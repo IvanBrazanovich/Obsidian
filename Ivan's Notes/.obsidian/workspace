@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript.md",
+            "file": "000 Home.md",
             "mode": "source",
             "source": false
           }
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e6c8bc392741906",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +119,8 @@
   },
   "active": "ed6b3048cb36312b",
   "lastOpenFiles": [
-    "Javascript.md",
     "000 Home.md",
+    "Javascript.md",
     "Books.md",
     "How to win friends and influence people.md",
     "The Willpower Instinct.md",
