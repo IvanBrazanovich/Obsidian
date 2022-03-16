@@ -45,3 +45,8 @@ Módulo |A| = 6,16
 
 
 ### Actividad 3: Distancia entre puntos 
+![[Pasted image 20220316172324.png]]
+
+
+
+![[Pasted image 20220316172313.png]]
