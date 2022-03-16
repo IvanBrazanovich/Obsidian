@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Javascript",
+      "path": "Javascript.md"
+    },
+    {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "2022-03-13",
       "path": "Journal/Daily/2022-03-13.md"
-    },
-    {
-      "basename": "Javascript",
-      "path": "Javascript.md"
     },
     {
       "basename": "Pause and plan",
