@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unidad 1 - Matrices.md",
+            "file": "Vectores.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0c2417b01c928",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad 1 - Matrices.md",
+                "file": "Vectores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,10 +86,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Vectores.md",
     "Unidad 1 - Matrices.md",
     "Álgebra y Geometría Analítica.md",
     "000 Home.md",
@@ -97,7 +100,6 @@
     "Análisis Matemático 1.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
     "Subacciones.md",
-    "Prueba de Escritorio.md",
-    "Operadores, Operandos y Expresiones.md"
+    "Prueba de Escritorio.md"
   ]
 }

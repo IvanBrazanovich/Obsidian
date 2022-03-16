@@ -12,3 +12,5 @@ Considerando los vectores u = (3, -1) y u2=(1,4)
 Calcular analíticamente 
 Vector resultante u3 = (4,3)
 
+
+[[Vectores]]
