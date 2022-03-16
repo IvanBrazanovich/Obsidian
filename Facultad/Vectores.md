@@ -46,7 +46,34 @@ Módulo |A| = 6,16
 
 ### Actividad 3: Distancia entre puntos 
 ![[Pasted image 20220316172324.png]]
-
-
+Respuesta: 
+|AB| = raíz cuadrada((4-2)² + (-1-3)² + (2-5)²)
+|AB| = raíz cuadrada(4 + 16 +9)
+|AB| = 5.38 
+### Distancia entre dos puntos de Rn dimensiones
 
 ![[Pasted image 20220316172313.png]]
+
+
+
+### ¿Cuándo dos vectores son paralelos?
+Dos vectores no nulos V y W son paralelos si y solo si existe un escalar k, diferente de cero, tal que v = k.w
+
+Ejemplo: v = (6, 4) y w =(3,2)
+
+
+## Operaciones entre vectores
+### Suma de vectores
+De manera analítica es la suma de las dimensiones iguales. De manera gráfica es la unión del fin del segmento de recta con el punto de aplicación del siguiente  vector. 
+
+
+### ¿Qué es el vector nulo?
+Es un vector que se representa con Vo y tiene módulo nulo. 
+
+
+
+### ¿Qué es el vector opuesto?
+Llamemos a un vector v, el opuesto será -v, el mismo pero con sentido opuesto. Mantiene la dirección y el módulo.
+
+
+### Diferencia de vectores 
