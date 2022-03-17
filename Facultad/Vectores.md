@@ -95,8 +95,14 @@ Básicamente se multiplica cada elemento del vector por el escalar.
 Aquellos con igual dirección, modulo y sentido.
 
 ### Producto Escalar 
-Sirve más que nada para encontrar el ángulo que forman dos vectores.
+Sirve para:
+1. Encontrar el ángulo que forman dos vectores.
+2. Encontrar la cantidad de un vector que se refleja en el otro vector. 
+
+Gráficamente: 
 
 
 
+ 
 
+ 
