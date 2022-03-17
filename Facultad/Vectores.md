@@ -89,3 +89,4 @@ Aquellos con igual dirección, modulo y sentido.
 El producto escalar de un vector por sí mismo es igual al cuadrado del módulo. 
 
 
+    
