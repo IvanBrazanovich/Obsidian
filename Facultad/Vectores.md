@@ -95,10 +95,7 @@ Básicamente se multiplica cada elemento del vector por el escalar.
 Aquellos con igual dirección, modulo y sentido.
 
 ### Producto Escalar 
-No entendí 
-
-Me quedé en la pag 9 de 
-
+Sirve más que nada para encontrar el ángulo que forman dos vectores.
 
 
 
