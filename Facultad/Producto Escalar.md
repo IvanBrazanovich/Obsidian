@@ -11,6 +11,12 @@ Para saber qué porcentaje del vector contrario se refleja en uno utilizamos el 
 
 De esa manera tendremos: 
 u . v = |u| . |v| . cosα
-Esto significa que el 
+Esto significa que podemos tomar cualquiera de los dos vectores para compararlo con el otro. 
 
- 
+
+
+### Vectores perpendiculares
+En el caso de que los vectores sean perpendiculares veremos que el producto escalar es nulo. 
+
+### Vectores opuestos en sentido 
+En el caso que los vectores sean opuestos en sentido veremos que el producto escalar es -1.
