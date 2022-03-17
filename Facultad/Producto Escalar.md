@@ -20,3 +20,7 @@ En el caso de que los vectores sean perpendiculares veremos que el producto esca
 
 ### Vectores opuestos en sentido 
 En el caso que los vectores sean opuestos en sentido veremos que el producto escalar es -1.
+
+### Suma de productos de componentes
+El producto escalar de dos vectores dados en coordenadas cartesianas es igual a la suma de los productos de las componentes. 
+![[Pasted image 20220317200822.png]]

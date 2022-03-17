@@ -9,13 +9,7 @@ Las vectoriales tienen dirección y sentido.
 ### ¿Cuáles son las abscisas y las ordenadas?
 El eje de las x es el de las abscisas y las ordenadas el eje de la y.
 
-### Actividad 1  ¿Cuál de estas magnitudes son escalares y cuáles vectoriales? 
-#Actividad
-1. La longitud de un cable (escalar)
-2. La velocidad de una lancha (vectorial)
-3. La memoria de una pc (escalar)
-4. La aceleración de la gravedad (vectorial)
-5. La fuerza que debemos aplicar sobre una puerta para cerrarla (vectorial)
+
 
 ### ¿Qué es un vector?
 Es un segmento de recta orientado. 
@@ -45,18 +39,9 @@ Es un segmento de recta orientado.
 ### ¿Cómo hallar el módulo de un vector de n dimensiones?
 ![[Pasted image 20220316171913.png]]
 
-### Actividad 2: Hallar el módulo del vector 
-#Actividad 
-![[Pasted image 20220316171549.png]]
-Módulo |A| = 6,16
 
 
-### Actividad 3: Distancia entre puntos 
-![[Pasted image 20220316172324.png]]
-Respuesta: 
-|AB| = raíz cuadrada((4-2)² + (-1-3)² + (2-5)²)
-|AB| = raíz cuadrada(4 + 16 +9)
-|AB| = 5.38 
+
 ### Distancia entre dos puntos de Rn dimensiones
 
 ![[Pasted image 20220316172313.png]]
@@ -94,5 +79,13 @@ Básicamente se multiplica cada elemento del vector por el escalar.
 ### ¿Cuáles son vectores equivalentes?
 Aquellos con igual dirección, modulo y sentido.
 
-### Producto Escalar 
+### Producto 
 [[Producto Escalar]]
+
+### Producto vectorial o producto cruz 
+
+
+### Producto de un vector por si mismo 
+El producto escalar de un vector por sí mismo es igual al cuadrado del módulo. 
+
+
