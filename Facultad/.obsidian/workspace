@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vectores.md",
+            "file": "Producto Escalar.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectores.md",
+                "file": "Producto Escalar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +91,7 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Producto Escalar.md",
     "Vectores.md",
     "Ejercicios Vectores.md",
     "Unidad 1 - Matrices.md",
@@ -99,7 +100,6 @@
     "Matemática Discreta.md",
     "Unidad  1 - Lógica.md",
     "Lógica.md",
-    "Algoritmos y Estructuras de Datos.md",
-    "Unidad 1 - Números Reales y Funciones.md"
+    "Algoritmos y Estructuras de Datos.md"
   ]
 }
