@@ -1,12 +1,53 @@
-# ¿Qué es una cota superior?
-Una cota superior es aquél número dentro de un conjunto que es el mayor de todos dentro del mismo. O sea, sea un número k una cota superior de un conjunto C si u sólo si para todo x se cumple que si x pertenece a C se da que x es menor o igual a k. ![[Pasted image 20220316102226.png]]  En estos casos se dice que C está acotado superiormente. 
+
+### Cota superior 
+Todo número mayor o igual a cualquier número dentro de un conjunto se considera cota superior. 
+O sea de un conjunto (3, 5], las cotas superiores comienzan de 5 para arriba. Para el conjunto (3, 5) las cotas superiores comienzan de 5 para arriba también.
+
+### ¿Qué es el supremo de un conjunto?
+Es la menor de las cotas superiores. O sea para el conjunto (3, 5], 5 es el supremo.
 
 
-# ¿Qué es el extreemo superior o el supremo?
-Es la mínima cota superior de un conjunto. 
+
+### Cota Inferior 
 
 
-# ¿Cuál es el máxio de un conjunto?
-Un conjunto C posee máximo si tiene supremo y éste pertenece al mismo.
+
+### Valor absoluto
 
 
+
+
+### Intervalos 
+
+
+
+
+#### Intervalo abierto
+
+
+
+#### Intervalo cerrado
+
+
+
+#### Intervalo semiabierto (derecha o izquierda)
+
+
+
+### Entorno 
+
+
+
+
+### Entorno reducido 
+
+
+
+
+
+### Punto de acumulación
+
+
+
+
+### Punto inferior
