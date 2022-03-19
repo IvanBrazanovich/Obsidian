@@ -7,9 +7,9 @@
 
 - [x] Movimiento en dos dimensiones con aceleración constante. 
 
-- [ ] Movimiento del proyectil. 
+- [x] Movimiento del proyectil. 
 
-- [ ] Partícula en movimiento Circular Uniforme. 
+- [x] Partícula en movimiento Circular Uniforme. 
 
 - [ ] Aceleraciones tangencial y radial. Velocidad y aceleración relativa.
 
@@ -17,3 +17,5 @@
 
 
 [[Física y medición]]
+[[Movimiento en dos dimensiones]]
+

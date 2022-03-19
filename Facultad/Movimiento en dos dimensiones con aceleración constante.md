@@ -1,0 +1,2 @@
+Podemos considerar los movimientos independientes en x y en y para hacer los cálculos de una partícula con aceleración constante en dos dimensiones, solamente debemos desarmar sus componentes.
+![[Pasted image 20220319165115.png]]
