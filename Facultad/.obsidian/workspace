@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Estándares de masa, longitud y tiempo.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Estándares de masa, longitud y tiempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Estándares de masa, longitud y tiempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Estándares de masa, longitud y tiempo.md",
+    "Física y medición.md",
+    "Unidad 2 - Cinemática de la partícula.md",
+    "Física 1.md",
+    "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
     "000 Home.md",
     "subir a anki.md",
     "Vectores.md",
     "Ejercicios Vectores.md",
-    "Producto Escalar.md",
-    "Unidad 1 - Matrices.md",
-    "Expresión en coordenadas.md",
-    "Álgebra y Geometría Analítica.md",
-    "Matemática Discreta.md",
-    "Unidad  1 - Lógica.md"
+    "Producto Escalar.md"
   ]
 }
