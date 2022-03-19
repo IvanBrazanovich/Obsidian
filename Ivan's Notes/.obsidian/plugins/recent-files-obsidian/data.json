@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Fiction Book",
+      "path": "Templates/Fiction Book.md"
+    },
+    {
+      "basename": "Daily Template",
+      "path": "Templates/Daily Template.md"
+    },
+    {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
     {
-      "basename": "Como estudiar",
-      "path": "Como estudiar.md"
-    },
-    {
       "basename": "001 Mentality",
       "path": "001 Mentality.md"
+    },
+    {
+      "basename": "002 Next Actions",
+      "path": "002 Next Actions.md"
+    },
+    {
+      "basename": "Facultad fix",
+      "path": "Facultad fix.md"
+    },
+    {
+      "basename": "Routines",
+      "path": "Routines.md"
+    },
+    {
+      "basename": "Comida Fix",
+      "path": "Comida Fix.md"
+    },
+    {
+      "basename": "Journal",
+      "path": "Journal.md"
+    },
+    {
+      "basename": "Llevar algo que me recuerde WillPower",
+      "path": "Llevar algo que me recuerde WillPower.md"
+    },
+    {
+      "basename": "Como estudiar",
+      "path": "Como estudiar.md"
     },
     {
       "basename": "Agrandado",
@@ -167,38 +199,6 @@
     {
       "basename": "How you fail",
       "path": "How you fail.md"
-    },
-    {
-      "basename": "Voluntad Agrandada",
-      "path": "Voluntad Agrandada.md"
-    },
-    {
-      "basename": "We all struggle",
-      "path": "We all struggle.md"
-    },
-    {
-      "basename": "Marshmallow test",
-      "path": "Marshmallow test.md"
-    },
-    {
-      "basename": "2022-02-27",
-      "path": "Journal/Daily/2022-02-27.md"
-    },
-    {
-      "basename": "2022-02-07",
-      "path": "Journal/Daily/2022-02-07.md"
-    },
-    {
-      "basename": "Lost",
-      "path": "Lost.md"
-    },
-    {
-      "basename": "2022-02-24",
-      "path": "Journal/Daily/2022-02-24.md"
-    },
-    {
-      "basename": "Be interested in people",
-      "path": "Be interested in people.md"
     }
   ],
   "omittedPaths": [],

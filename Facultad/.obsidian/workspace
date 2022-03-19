@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vectores.md",
+            "file": "000 Home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,13 +71,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectores.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b22fcfbf73a4434",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Home.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -91,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "000 Home.md",
+    "subir a anki.md",
     "Vectores.md",
     "Ejercicios Vectores.md",
     "Producto Escalar.md",
     "Unidad 1 - Matrices.md",
     "Expresión en coordenadas.md",
     "Álgebra y Geometría Analítica.md",
-    "000 Home.md",
     "Matemática Discreta.md",
-    "Unidad  1 - Lógica.md",
-    "Lógica.md"
+    "Unidad  1 - Lógica.md"
   ]
 }

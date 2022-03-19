@@ -6,9 +6,8 @@
   "foldIndent": true,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "es-419",
-    "en-US",
-    "es"
+    "es",
+    "en-US"
   ],
   "alwaysUpdateLinks": true
 }
