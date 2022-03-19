@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cotas, extremos  y elementos de un conjunto.md",
+            "file": "Física y medición.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cotas, extremos  y elementos de un conjunto.md",
+                "file": "Física y medición.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cotas, extremos  y elementos de un conjunto.md",
+                "file": "Física y medición.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Cotas, extremos  y elementos de un conjunto.md",
-    "Unidad 1 - Números Reales y Funciones.md",
-    "Análisis Matemático 1.md",
-    "000 Home.md",
-    "Física 1.md",
-    "Unidad 2 - Cinemática de la partícula.md",
     "Física y medición.md",
+    "Unidad 2 - Cinemática de la partícula.md",
+    "Física 1.md",
+    "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
+    "000 Home.md",
+    "Análisis Matemático 1.md",
+    "Unidad 1 - Números Reales y Funciones.md",
+    "Cotas, extremos  y elementos de un conjunto.md",
     "Aceleración.md",
-    "Posición, velocidad y rapidez de una partícula.md",
-    "Estándares de masa, longitud y tiempo.md"
+    "Posición, velocidad y rapidez de una partícula.md"
   ]
 }
