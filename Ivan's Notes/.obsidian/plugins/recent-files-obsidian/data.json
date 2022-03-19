@@ -5,6 +5,34 @@
       "path": "000 Home.md"
     },
     {
+      "basename": "Como estudiar",
+      "path": "Como estudiar.md"
+    },
+    {
+      "basename": "001 Mentality",
+      "path": "001 Mentality.md"
+    },
+    {
+      "basename": "Agrandado",
+      "path": "Agrandado.md"
+    },
+    {
+      "basename": "Escuchar más",
+      "path": "Escuchar más.md"
+    },
+    {
+      "basename": "Estudios laboratorio",
+      "path": "Estudios laboratorio.md"
+    },
+    {
+      "basename": "Enfoque en las cosas importantes",
+      "path": "Enfoque en las cosas importantes.md"
+    },
+    {
+      "basename": "Tracker",
+      "path": "Tracker.md"
+    },
+    {
       "basename": "Javascript",
       "path": "Javascript.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Be interested in people",
       "path": "Be interested in people.md"
-    },
-    {
-      "basename": "2022-02-19",
-      "path": "Journal/Daily/2022-02-19.md"
-    },
-    {
-      "basename": "Criptomonedas",
-      "path": "Criptomonedas.md"
-    },
-    {
-      "basename": "2022-02-18",
-      "path": "Journal/Daily/2022-02-18.md"
-    },
-    {
-      "basename": "2022-02-17",
-      "path": "Journal/Daily/2022-02-17.md"
-    },
-    {
-      "basename": "Meditar",
-      "path": "Meditar.md"
-    },
-    {
-      "basename": "2022-02-16",
-      "path": "Journal/Daily/2022-02-16.md"
-    },
-    {
-      "basename": "2022-02-15",
-      "path": "Journal/Daily/2022-02-15.md"
     }
   ],
   "omittedPaths": [],

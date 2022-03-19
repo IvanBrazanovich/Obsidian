@@ -1,0 +1,1 @@
+No me voy a preocupar, el estrés malo y la ansiedad matan. Voy a seguir cuidándome y voy a tratar de estar al 100% pase lo que pase, valoro mi salud.

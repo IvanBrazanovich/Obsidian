@@ -1,19 +1,9 @@
 
 # Focus
 
-+ [[Standard]]
-+ [[Books]]
-+ [[Technology]]
-+ [[Tracker]]
-	+ [[1 Year]]
-+ [[Criptomonedas]]
+[[001 Mentality]]
 
-
-
-
-# Tags 
-#CoreBelief #ToDevelop #Pregunta #Religión
-#Psychology #finance #Business 
+### Daily 
 
 
 

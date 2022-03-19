@@ -1,0 +1,1 @@
+Me di cuenta que interrumpo mucho y que no dejo hablar a las personas. Tengo que comenzar a escuchar más y dejar de sacar cosas de mi boca. 
