@@ -65,7 +65,7 @@ E (a,h) se lee como Entorno de centro a y radio h.
 ### Entorno reducido 
 Es lo mismo que entorno pero el centro no pertenece al conjunto. 
 Explicado con símbolos:
-E'(a, h) = {x/x ∈ R ^ a - h < x < a + h ^ x }
+E'(a, h) = {x/x ∈ R ^ a - h < x < a + h ^ x no es igual a a}
 
 
 
