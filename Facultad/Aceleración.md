@@ -37,4 +37,15 @@ Y
 
 #### Ecuación sin variable tiempo
 ![[Pasted image 20220319100630.png]]
-Resulta 
+Resulta  de reemplazar el tiempo de la fórmula 
+![[Pasted image 20220319095329.png]]
+Por el tiempo de
+![[Pasted image 20220319095815.png]]
+
+De manera que 
+![[Pasted image 20220319101838.png]]
+Por diferencia de cuadrados 
+![[Pasted image 20220319101913.png]]
+O
+![[Pasted image 20220319102013.png]]
+
