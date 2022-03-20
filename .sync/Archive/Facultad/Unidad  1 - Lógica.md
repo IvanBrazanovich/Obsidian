@@ -6,8 +6,3 @@ Implicaciones y equivalencias lógicas. Redes de conmutación. Expresiones relac
 Razonamientos y reglas de inferencia. Lógica de predicados.
 
 [[Lógica]]
-
-nicotortosa@ca.frre.utn
-
-
-

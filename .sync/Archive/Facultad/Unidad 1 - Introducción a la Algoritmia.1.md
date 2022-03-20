@@ -15,14 +15,3 @@ Estrategías de resolución de problemas: algoritmos, descripción narrada, seud
 [[Subacciones]]
 
 Quedé en la pag 6 Funciones
-
-Acción
-Ambiente 
-asignación de variables y constantes 
-
-Proceso 
-
-
-Una empresa x solicita un programa que devuelva el monto total a paga de una compra. Además cuenta con una promoción, si el moonto supera los 1000 se realiza un descuento del 15%
-
-
