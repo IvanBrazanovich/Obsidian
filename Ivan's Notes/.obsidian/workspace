@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Fiction Book.md",
+            "file": "Journal/Daily/2022-03-20.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Fiction Book.md",
+                "file": "Journal/Daily/2022-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
+    "Journal/Daily/2022-03-20.md",
     "Templates/Fiction Book.md",
     "Templates/Daily Template.md",
     "000 Home.md",
@@ -127,7 +128,6 @@
     "Facultad fix.md",
     "1 Year.md",
     "Routines.md",
-    "Comida Fix.md",
-    "Journal.md"
+    "Comida Fix.md"
   ]
 }

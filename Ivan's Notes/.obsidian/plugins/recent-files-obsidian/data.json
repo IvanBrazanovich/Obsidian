@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-03-20",
+      "path": "Journal/Daily/2022-03-20.md"
+    },
+    {
       "basename": "Fiction Book",
       "path": "Templates/Fiction Book.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Evolution and discipline",
       "path": "Evolution and discipline.md"
-    },
-    {
-      "basename": "How you fail",
-      "path": "How you fail.md"
     }
   ],
   "omittedPaths": [],
