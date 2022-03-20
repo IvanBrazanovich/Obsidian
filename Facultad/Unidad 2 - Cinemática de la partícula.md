@@ -11,7 +11,7 @@
 
 - [x] Partícula en movimiento Circular Uniforme. 
 
-- [ ] Aceleraciones tangencial y radial. Velocidad y aceleración relativa.
+- [x] Aceleraciones tangencial y radial. Velocidad y aceleración relativa.
 
 
 
