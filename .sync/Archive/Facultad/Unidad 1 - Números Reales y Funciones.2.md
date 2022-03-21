@@ -27,17 +27,15 @@ Números Reales. Intervalos. Entorno. Entorno Reducido. Conjuntos Acotados. Extr
 
 
 
-# 2 clase Importante
-+ Una cota superior puede ser un supremo y un máximo si es que ese número pertenece  al conjunto. Si no pertenece al conjunto solamente será un supremo pero no será un máximo
-+  Una cota inferior puede ser inferior y mínima si es que ese número pertenece al conjunto. Si no pertenece al conjunto solamente será un inferior pero no será un mínimo.
-+ ![[Pasted image 20220321105245.png]] En este caso la cota inferior sería el -5 y la superior  el 5. Los del medio no importan.
-+ Los : significan "Cumple/verifica"
-+ Estudiar axioma de completitud
-+ El valor absoluto es la distancia que hay desde 0 hasta ese punto.
 
 
 
-![[Pasted image 20220321120752.png]]
+
+
+
+
+
+
 
 
 

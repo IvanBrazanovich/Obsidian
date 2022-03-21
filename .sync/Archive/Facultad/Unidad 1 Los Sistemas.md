@@ -49,35 +49,20 @@ TGS: Teoría General de Sistemas. Orígenes. El enfoque de sistemas. SISTEMAS: C
 
 
 
-Objetivo: Proveer material de estudio  (Debe comenzar con un verbo en infinitivo)
-Elementos: LIbros, estantes, bibliotecarias y computadoras.
-+ Relaciones: Las bibliotecarias utilizan las computadoras para administrar la biblioteca
-	+ Los estantes soportan los libros 
-	+ Los libros son administrados por las bibliotecarias 
-+ Entradas:
-	+ Pedidos, insumos y datos varios (datos del alumno que solicita el préstamo).
-+ Salidas: Libros, comprobantes de prestamos, informe de alumnos que retiraron libros, informe de asistencia 
-+ Proceso de transformación: 
-	+ Registrar en el sistema los alumnos que solicitaron los libros.
-	+ Armar un informe de libros absoletos. 
-	+ La bibliotecaria investiga el estado del estudiante (si puede o no puede retirar, si tiene libros pendientes a entregar o si tiene una membresía)
-	+  Dependiendo de la condición se busca el libro, se inserta el estado del libro en el sistema y se lo entrega al alumno.
-+ Proceso de retroalimentación
-	+ Se verifica que la cantidad de libros prestados es igual a la cantidad de los libros que se devuelven. 
-	+ Comprobar el estado del libro. 
-	+ Corroborar que todos los libros estén en el sistema.
-+ Registro de ingreso de alumnos, , búsquedas de materiales bibliográficos. 
-+ El medio sería la UTN creo
-
-TAREA
-Cada uno elige un sistema. APLICAMOS TODOS LOS ELEMENTOS.
-
-Otra tarea
-Completar otro cuadrito que están sacando fotos. 
 
 
 
-EL CLIENTE NO FORMA PARTE DEL SISTEMA. NO PERTENECE AL SISTEMA EN ESTUDIO IMPORTANTE ANKI 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
