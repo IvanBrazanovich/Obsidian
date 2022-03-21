@@ -3,28 +3,33 @@ TGS: Teoría General de Sistemas. Orígenes. El enfoque de sistemas. SISTEMAS: C
 
 
 
-+ Introducción
-+ Orígenes de los sistemas 
-+ Concepto de Sistemas 
-+ Componentes básicos 
-	+ Objetivo
-	+ El medio y los límites del sistema 
-	+ Elementos 
-	+ Relaciones entre unidades
-	+ Entradas 
-	+ Proceso de transformación 
-	+ Salidas
-	+ Proceso de retroalimentación
-+ Jerarquía de los sistemas
-	+ Fronteras o límites
-	+ El principio de la relatividad en los sistemas
-	+ Sistemas, subsistema, partes y límites
-	+ Jerarquización
-	+ MacroSistema
-	+ Subsistema
-	+ Sistema elemental
-	+ Sistema de la caja negra 
-+  
++ [x] Introducción 
++ [x] Orígenes de los sistemas 
++ [x] Concepto de Sistemas 
++ [ ] Componentes básicos 
+	+ [ ] Objetivo
+	+ [ ] El medio y los límites del sistema 
+	+ [ ] Elementos 
+	+ [ ] Relaciones entre unidades
+	+ [ ] Entradas 
+	+ [ ] Proceso de transformación 
+	+ [ ] Salidas
+	+ [ ] Proceso de retroalimentación
++ [ ] Jerarquía de los sistemas
+	+ [ ] Fronteras o límites
+	+ [ ] El principio de la relatividad en los sistemas
+	+ [ ] Sistemas, subsistema, partes y límites
+	+ [ ] Jerarquización
+	+ [ ] Macrosistema
+	+ [ ] Subsistema
+	+ [ ] Sistema elemental
+	+ [ ] Sistema de la caja negra 
++ [ ]  Clasificación
++ [ ] Características de los sistemas 
+	+ [ ] Propósito y objetivo
+	+ [ ] Globalismo o totalidad
+	+ [ ] Entropía 
+	+ [ ] Homeostasis 
 
 
 
