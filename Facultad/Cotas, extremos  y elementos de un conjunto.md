@@ -80,7 +80,7 @@ E'(a, h) = {x/x ∈ R ^ a - h < x < a + h ^ x no es igual a a}
 ### Punto de acumulación
 
 
-
+	
 
 ### Punto interior
 Para ser considerado punto interior debe cumplir dos cosas:
