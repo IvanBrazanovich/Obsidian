@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metodologías para la resolución de algoritmos.md",
+            "file": "Teorema de la programación estructurada.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Unidad 1",
+                "query": "condicional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metodologías para la resolución de algoritmos.md",
+                "file": "Teorema de la programación estructurada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metodologías para la resolución de algoritmos.md",
+                "file": "Teorema de la programación estructurada.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +104,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Metodologías para la resolución de algoritmos.md",
+    "Teorema de la programación estructurada.md",
+    "Prueba de Escritorio.md",
     "Algoritmos.md",
+    "Metodologías para la resolución de algoritmos.md",
     "Características de los algoritmos.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
     "Proceso, Acción y Estado.md",
     "Algoritmos y Estructuras de Datos.md",
     "000 Home.md",
-    "Aceleración.md",
-    "Sistemas y Organizaciones.md",
-    "Unidad 1 Los Sistemas.md"
+    "Aceleración.md"
   ]
 }
