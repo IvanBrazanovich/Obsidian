@@ -49,3 +49,4 @@ Por diferencia de cuadrados
 O
 ![[Pasted image 20220319102013.png]]
 
+![[Pasted image 20220323094821.png]]
