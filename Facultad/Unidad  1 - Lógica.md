@@ -5,9 +5,11 @@ Implicaciones y equivalencias lógicas. Redes de conmutación. Expresiones relac
 
 Razonamientos y reglas de inferencia. Lógica de predicados.
 
-[[Lógica]]
-
-nicotortosa@ca.frre.utn
-
-
+- [ ] Apunte teórico
+- [ ] Como realizar una tabla de verdad
+- [ ] Leyes lógicas 
+- [ ] formas derivadas
+- [ ] cierre de la U1
+- [ ] TP lógica 
+- [ ] Clase lógica 1
 
