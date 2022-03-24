@@ -1,2 +1,3 @@
 # Temas
 Vectores. Definición. Adición vectorial. Propiedades de la adición. Multiplicación de un vector por un escalar. Propiedades. Producto interno o producto escalar. Propiedades. Interpretación geométrica del producto escalar. Vectores ortogonales. Producto exterior o producto vectorial. Propiedades. Interpretación geométrica del producto vectorial. Producto mixto. Interpretación geométrica del producto mixto. Definición de espacio vectorial. Combinación lineal. Independencia y dependencia lineal. Definición de: Subespacio; Espacio generador; base y dimensión de un espacio Rn . Cambio de base en un espacio vectorial
+

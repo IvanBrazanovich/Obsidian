@@ -1,9 +1,6 @@
 Sirve para:
 1. Encontrar el ángulo que forman dos vectores.
 2. Encontrar la cantidad de un vector que se refleja en el otro vector.  Qué tan similar son dos vectores
-El producto escalar de dos vectores dados en coordenadas cartesianas es igual a la suma de la multiplicación de sus componentes homólogas
-
-
 
 Gráficamente: 
 Dados dos vectores u, v tendremos un ángulo. La "sombra" de u en v se verá buscando la perpendicularidad. 

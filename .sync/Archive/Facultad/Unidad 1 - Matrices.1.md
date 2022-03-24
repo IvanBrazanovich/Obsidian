@@ -15,15 +15,3 @@ Vector resultante u3 = (4,3)
 
 [[Vectores]]
 [[Expresión en coordenadas]]
-
-
-
-
-
-# Actividad
-Dados los vectores en función de sus coordenadas, hallar el producto escalar. 
-A = x1 + yj +zk escrito como terna es igual a (x, y, z)
-
-B = x2i + y2j + z2k
-
-Teoría de producto escalar 
