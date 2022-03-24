@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily/2022-03-20.md",
+            "file": "000 Home.md",
             "mode": "source",
             "source": false
           }
@@ -19,110 +19,81 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "200ca18133854a52",
-    "type": "split",
+    "id": "51d9a888cf5d3528",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "3960bf72c74fed04",
-        "type": "tabs",
-        "dimension": 68.37416481069042,
-        "children": [
-          {
-            "id": "a68dbccfac5b9d53",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "747e73ce7589f87c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "action",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "id": "b112f1faf240dc2f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       },
       {
-        "id": "0e6c8bc392741906",
-        "type": "tabs",
-        "dimension": 31.625835189309576,
-        "children": [
-          {
-            "id": "c3251b6ca44ba19a",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
+        "id": "b527633a080b2beb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e7d7d7cd1e604fcc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "1ffd1300189ee09f",
-    "type": "split",
+    "id": "810d3264749bfc9d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "de7a85e3060d2292",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "172c23b4552a308e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Journal/Daily/2022-03-20.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
+        "id": "16b3648055ed14c1",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       },
       {
-        "id": "02e56f8e96487e32",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86ee925519272b5c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
+        "id": "6a0285dc694e5aba",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "000 Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
+    "000 Home.md",
     "Journal/Daily/2022-03-20.md",
     "Templates/Fiction Book.md",
     "Templates/Daily Template.md",
-    "000 Home.md",
     "001 Mentality.md",
     "002 Next Actions.md",
     "Facultad fix.md",

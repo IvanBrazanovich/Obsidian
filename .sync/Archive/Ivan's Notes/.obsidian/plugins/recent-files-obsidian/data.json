@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "000 Home",
-      "path": "000 Home.md"
-    },
-    {
       "basename": "2022-03-20",
       "path": "Journal/Daily/2022-03-20.md"
     },
@@ -15,6 +11,10 @@
     {
       "basename": "Daily Template",
       "path": "Templates/Daily Template.md"
+    },
+    {
+      "basename": "000 Home",
+      "path": "000 Home.md"
     },
     {
       "basename": "001 Mentality",
