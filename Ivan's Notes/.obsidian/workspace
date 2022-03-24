@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1ffd1300189ee09f",
@@ -120,11 +121,11 @@
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
     "001 Mentality.md",
+    "002 Next Actions.md",
     "000 Home.md",
     "Journal/Daily/2022-03-20.md",
     "Templates/Fiction Book.md",
     "Templates/Daily Template.md",
-    "002 Next Actions.md",
     "Facultad fix.md",
     "1 Year.md",
     "Routines.md",
