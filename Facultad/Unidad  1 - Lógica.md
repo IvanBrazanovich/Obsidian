@@ -6,10 +6,10 @@ Implicaciones y equivalencias lógicas. Redes de conmutación. Expresiones relac
 Razonamientos y reglas de inferencia. Lógica de predicados.
 
 - [ ] Apunte teórico
-- [ ] Como realizar una tabla de verdad
-- [ ] Leyes lógicas 
-- [ ] formas derivadas
-- [ ] cierre de la U1
+- [x] Como realizar una tabla de verdad
+- [x] Leyes lógicas 
+- [x] formas derivadas
+- [x] cierre de la U1
 - [ ] TP lógica 
-- [ ] Clase lógica 1
+- [x] Clase lógica 1
 
