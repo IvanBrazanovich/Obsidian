@@ -1,3 +1,5 @@
+# Reminders
+
 [[Enfoque en las cosas importantes]]
 [[Estudios laboratorio]]
 [[Escuchar más]]
