@@ -10,20 +10,20 @@
 
 
 ### Tipos de circuitos de conmutación 
+https://electronicaonline.net/electronica-digital/tipos-de-circuitos-logicos-digitales/
+![[Pasted image 20220325204152.png]]
+![[Pasted image 20220325204210.png]]
+![[Pasted image 20220325204226.png]]
+![[Pasted image 20220325204239.png]]
+![[Pasted image 20220325204249.png]]
+![[Pasted image 20220325204303.png]]
+![[Pasted image 20220325204316.png]]
+![[Pasted image 20220325204327.png]]
+![[Pasted image 20220325204339.png]]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+### Explicación de funcionamiento
 
 
 
