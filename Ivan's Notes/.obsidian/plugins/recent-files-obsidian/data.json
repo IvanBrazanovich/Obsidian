@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Breath",
+      "path": "Breath.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
+      "basename": "Fiction Book",
+      "path": "Templates/Fiction Book.md"
+    },
+    {
       "basename": "001 Mentality",
       "path": "001 Mentality.md"
     },
@@ -9,16 +25,8 @@
       "path": "002 Next Actions.md"
     },
     {
-      "basename": "000 Home",
-      "path": "000 Home.md"
-    },
-    {
       "basename": "2022-03-20",
       "path": "Journal/Daily/2022-03-20.md"
-    },
-    {
-      "basename": "Fiction Book",
-      "path": "Templates/Fiction Book.md"
     },
     {
       "basename": "Daily Template",
@@ -71,10 +79,6 @@
     {
       "basename": "Javascript",
       "path": "Javascript.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books.md"
     },
     {
       "basename": "How to win friends and influence people",
@@ -195,10 +199,6 @@
     {
       "basename": "Una mente distraída es una mente sin disciplina",
       "path": "Una mente distraída es una mente sin disciplina.md"
-    },
-    {
-      "basename": "Evolution and discipline",
-      "path": "Evolution and discipline.md"
     }
   ],
   "omittedPaths": [],
