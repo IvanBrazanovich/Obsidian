@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prueba de Escritorio.md",
+            "file": "Proceso, Acción y Estado.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prueba de Escritorio.md",
+                "file": "Proceso, Acción y Estado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prueba de Escritorio.md",
+                "file": "Proceso, Acción y Estado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Prueba de Escritorio.md",
+    "Proceso, Acción y Estado.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
+    "Algoritmos.md",
+    "Subacciones.md",
+    "Prueba de Escritorio.md",
     "Operadores, Operandos y Expresiones.md",
     "Tipos de Operadores.md",
     "Estructuras de Datos simples.md",
     "Programación Estructurada.md",
-    "Teorema de la programación estructurada.md",
-    "Sistema Operativo.md",
-    "Proceso, Acción y Estado.md",
-    "Algoritmos.md"
+    "Teorema de la programación estructurada.md"
   ]
 }
