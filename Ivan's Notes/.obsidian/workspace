@@ -7,102 +7,65 @@
         "id": "850abe1d3c7f7770",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Breath.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6d8ec860dfdb9c00",
-    "type": "split",
+    "id": "9a00b7c91b4ade29",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8ad5a6d6df377be1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd756d28a7087c3f",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "896f92ceddab217c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "bf2595b7d9b9c28e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "6c6f49e8bb5290ba",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "85af3fe650b17821",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "e52276e9f01255d3",
-    "type": "split",
+    "id": "bd4f4ae3ff8012a6",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5d6b06aa1feb13f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3e045be6f9a3e63d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "eb3cdcf2ab57d7b9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Breath.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "48c5887c9fe34c04",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
