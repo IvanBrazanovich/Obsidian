@@ -13,3 +13,5 @@ Razonamientos y reglas de inferencia. Lógica de predicados.
 - [ ] TP lógica 
 - [x] Clase lógica 1
 
+
+[[Trabajo]]
