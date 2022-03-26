@@ -7,8 +7,12 @@
         "id": "850abe1d3c7f7770",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "000 Home.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -63,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9cf20afbd43e3407",
@@ -87,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +112,15 @@
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
-    "Breath.md",
-    "Books.md",
     "000 Home.md",
-    "Templates/Fiction Book.md",
-    "001 Mentality.md",
-    "002 Next Actions.md",
-    "Journal/Daily/2022-03-20.md",
-    "Templates/Daily Template.md",
-    "Facultad fix.md",
-    "1 Year.md"
+    "Books.md",
+    "Breath.md",
+    "Cellular respiration.md",
+    "Celullar respiration.md",
+    "ATP.md",
+    "Respirar por la nariz o por la boca.md",
+    "Sleep Apnea.md",
+    "El clima afecta a la forma de las narices.md",
+    "Por qué tenemos narices de esa forma.md"
   ]
 }

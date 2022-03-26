@@ -1,0 +1,2 @@
+¿Qué es cellular respiration?
+Es un proceso en el cual células individuales rompen las moléculas de comida, como la glucosa y libera energía. Se divide en dos partes: anaeróbica y aeróbica. En el caso de la cellular respiration anaeróbica no se utiliza oxígeno para descomponer las moléculas de comida. En el caso de la cellular respiration aeróbica si utiliza oxígeno, y este es un proceso mucho más energético y eficiente. 

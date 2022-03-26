@@ -1,0 +1,2 @@
+### ¿Se debe respirar por la boca o por la nariz?
+Siempre que sea posible se debe respirar por la nariz. Esto es debido a que el proceso de respirar por la nariz es mucho más eficiente que por la boca, ya que fue creado para eso. En el caso de hacer ejercicio respirando por la nariz, debes entender que primero vas a sentir una mayor necesidad de aire, pero luego te acostumbrarás, solo tienes que empujarte poco a poco.
