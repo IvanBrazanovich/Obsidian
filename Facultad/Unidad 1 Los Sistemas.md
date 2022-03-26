@@ -20,7 +20,7 @@ TGS: Teoría General de Sistemas. Orígenes. El enfoque de sistemas. SISTEMAS: C
 	+ [ ] El principio de la relatividad en los sistemas
 	+ [ ] Sistemas, subsistema, partes y límites
 	+ [ ] Jerarquización
-	+ [ ] Macrosistema
+	+ [ ] Macrosistema 
 	+ [ ] Subsistema
 	+ [ ] Sistema elemental
 	+ [ ] Sistema de la caja negra 
