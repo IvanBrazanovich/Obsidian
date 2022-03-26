@@ -93,3 +93,12 @@ O sea, básicamente son todos los puntos interiores aquellos números que perten
 
 
 Cabe aclarar que un número racional no es interior al conjunto Q. Porque en todo entorno hay números irracionales que no pertenecen a Q
+
+
+
+### ¿Cómo son los conjuntos numéricos ?
+1. Naturales
+2. Enteros 
+3. Racionales 
+4. Irracionales 
+5. Y los reales (el conjunto de todo lo anterior) ![[Pasted image 20220326155552.png]]
