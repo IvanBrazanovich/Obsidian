@@ -21,4 +21,4 @@ El control de ejecución es se conoce al proceso cuando  el programa realiza la 
 
 #### Tipos de parámetros 
 1. Los parámetros que aparecen en la definición del subalgoritmo, se denominan parámetros formales o ficticios.
-2. Los parámetros que se encuentran en la llamada al subalgoritmo se denominan parámetros actuales o argumentos. Son los datos que el algoritmo principal envía a la subacción. 
+2. Los parámetros que se encuentran en la llamada al subalgoritmo se denominan parámetros actuales o argumentos. Son los datos que el algoritmo principal envía a la subacción.  Los parámetros actuales pueden ser constantes, variables, expresiones. En cambio, los parámetros formales sólo pueden ser variables.

@@ -7,5 +7,3 @@
 [[Física 1]]
 [[Matemática Discreta]]
 [[Sistemas y Organizaciones]]
-
-[[subir a anki]]
