@@ -6,15 +6,15 @@ TGS: Teoría General de Sistemas. Orígenes. El enfoque de sistemas. SISTEMAS: C
 + [x] Introducción 
 + [x] Orígenes de los sistemas 
 + [x] Concepto de Sistemas 
-+ [ ] Componentes básicos 
-	+ [ ] Objetivo
-	+ [ ] El medio y los límites del sistema 
-	+ [ ] Elementos 
-	+ [ ] Relaciones entre unidades
-	+ [ ] Entradas 
-	+ [ ] Proceso de transformación 
-	+ [ ] Salidas
-	+ [ ] Proceso de retroalimentación
++ [x] Componentes básicos 
+	+ [x] Objetivo
+	+ [x] El medio y los límites del sistema 
+	+ [x] Elementos 
+	+ [x] Relaciones entre unidades
+	+ [x] Entradas 
+	+ [x] Proceso de transformación 
+	+ [x] Salidas
+	+ [x] Proceso de retroalimentación
 + [ ] Jerarquía de los sistemas
 	+ [ ] Fronteras o límites
 	+ [ ] El principio de la relatividad en los sistemas
