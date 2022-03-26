@@ -72,15 +72,18 @@ E (a,h) se lee como Entorno de centro a y radio h.
 ### Entorno reducido 
 Es lo mismo que entorno pero el centro no pertenece al conjunto. 
 Explicado con símbolos:
-E'(a, h) = {x/x ∈ R ^ a - h < x < a + h ^ x no es igual a a}
 ![[Pasted image 20220321153426.png]]
 ![[Pasted image 20220321153432.png]]
-
+![[Pasted image 20220326153336.png]]
 
 ### Punto de acumulación
+Básicamente un punto de acumulación es un entorno de centro a que cualquiera sea su radio va a tener al menos un valor que pertenezca al intervalo principal.  O sea que al unir el intervalo principal con el que estamos comparando al punto de acumulación, la intersección entre el entorno de centro a y el intervalo no va a ser un conjunto vacío. 
+![[Pasted image 20220326154511.png]]
+![[Pasted image 20220326154525.png]]	
+O sea que puede ser las cotas (sean abiertas o cerradas), y todos los puntos interiores. 
 
 
-	
+
 
 ### Punto interior
 Para ser considerado punto interior debe cumplir dos cosas:

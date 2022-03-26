@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Subacciones.md",
+            "file": "Cotas, extremos  y elementos de un conjunto.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0c2417b01c928",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subacciones.md",
+                "file": "Cotas, extremos  y elementos de un conjunto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subacciones.md",
+                "file": "Cotas, extremos  y elementos de un conjunto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Cotas, extremos  y elementos de un conjunto.md",
+    "Unidad 1 - Números Reales y Funciones.md",
+    "Análisis Matemático 1.md",
+    "000 Home.md",
     "Subacciones.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
     "Prueba de Escritorio.md",
     "Algoritmos y Estructuras de Datos.md",
-    "000 Home.md",
     "Trabajo.md",
-    "Unidad  1 - Lógica.md",
-    "Matemática Discreta.md",
-    "Proceso, Acción y Estado.md",
-    "Algoritmos.md"
+    "Unidad  1 - Lógica.md"
   ]
 }
