@@ -6,6 +6,7 @@ Números Reales. Intervalos. Entorno. Entorno Reducido. Conjuntos Acotados. Extr
 	
 
 [[Cotas, extremos  y elementos de un conjunto]]
+[[Semana 1 ]]
 
 
 

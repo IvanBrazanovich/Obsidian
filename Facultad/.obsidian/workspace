@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cotas, extremos  y elementos de un conjunto.md",
+            "file": "Semana 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cotas, extremos  y elementos de un conjunto.md",
+                "file": "Semana 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cotas, extremos  y elementos de un conjunto.md",
+                "file": "Semana 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Cotas, extremos  y elementos de un conjunto.md",
+    "Semana 1.md",
     "Unidad 1 - Números Reales y Funciones.md",
+    "Cotas, extremos  y elementos de un conjunto.md",
     "Análisis Matemático 1.md",
     "000 Home.md",
     "Subacciones.md",
     "Unidad 1 - Introducción a la Algoritmia.md",
     "Prueba de Escritorio.md",
     "Algoritmos y Estructuras de Datos.md",
-    "Trabajo.md",
-    "Unidad  1 - Lógica.md"
+    "Trabajo.md"
   ]
 }
