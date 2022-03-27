@@ -3,11 +3,11 @@
 
 - [x] Objetos en caída libre. Ecuaciones cinemáticas deducidas del cálculo.    
 
-- [ ] Vectores de posición, velocidad y aceleración. 
+- [x] Vectores de posición, velocidad y aceleración. 
 
-- [ ] Movimiento en dos dimensiones con aceleración constante. 
+- [x] Movimiento en dos dimensiones con aceleración constante. 
 
-- [ ] Movimiento del proyectil. 
+- [x] Movimiento del proyectil. 
 
 - [ ] Partícula en movimiento Circular Uniforme. 
 
