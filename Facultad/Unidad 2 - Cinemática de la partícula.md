@@ -3,15 +3,15 @@
 
 - [x] Objetos en caída libre. Ecuaciones cinemáticas deducidas del cálculo.    
 
-- [x] Vectores de posición, velocidad y aceleración. 
+- [ ] Vectores de posición, velocidad y aceleración. 
 
-- [x] Movimiento en dos dimensiones con aceleración constante. 
+- [ ] Movimiento en dos dimensiones con aceleración constante. 
 
-- [x] Movimiento del proyectil. 
+- [ ] Movimiento del proyectil. 
 
-- [x] Partícula en movimiento Circular Uniforme. 
+- [ ] Partícula en movimiento Circular Uniforme. 
 
-- [x] Aceleraciones tangencial y radial. Velocidad y aceleración relativa.
+- [ ] Aceleraciones tangencial y radial. Velocidad y aceleración relativa.
 
 
 
