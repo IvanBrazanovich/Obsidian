@@ -1,5 +1,14 @@
 
 ## 1. Definición de circuito lógico 
+**  
+  
+
+Definición: 
+
+Una red de conmutación está formada por cables e interruptores que conectan terminales T1 y T2. Cuando un interruptor está abierto, entonces no pasa corriente por él. Lo indicamos con “0”; mientras que “1” indica que el interruptor está cerrado y por consiguiente pasa la corriente por él.
+
+  
+Si el circuito está en serie es una conjunción (P ∧ Q), si esta en paralelo, es una disyunción (P ∨ Q). Biografía APUNTE TEÓRICO PROVISTO POR LOS PROFESORES.**
 ![[Pasted image 20220325200427.png]]
 ![[Pasted image 20220325200507.png]]
 
