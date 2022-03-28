@@ -9,7 +9,7 @@ Números Reales. Intervalos. Entorno. Entorno Reducido. Conjuntos Acotados. Extr
 [[Semana 1 ]]
 
 
-[[Clase 3 AM  teoría]]
+
 
 
 
