@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily Routine",
+      "path": "Daily Routine.md"
+    },
+    {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The new threat",
       "path": "The new threat.md"
-    },
-    {
-      "basename": "Fight or flight",
-      "path": "Fight or flight.md"
     }
   ],
   "omittedPaths": [],

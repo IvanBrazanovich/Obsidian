@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Daily Routine.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Daily Routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
+    "Daily Routine.md",
     "000 Home.md",
     "Books.md",
     "Breath.md",
@@ -120,7 +121,6 @@
     "ATP.md",
     "Respirar por la nariz o por la boca.md",
     "Sleep Apnea.md",
-    "El clima afecta a la forma de las narices.md",
-    "Por qué tenemos narices de esa forma.md"
+    "El clima afecta a la forma de las narices.md"
   ]
 }
