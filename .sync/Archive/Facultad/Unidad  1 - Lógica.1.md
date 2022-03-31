@@ -15,4 +15,3 @@ Razonamientos y reglas de inferencia. Lógica de predicados.
 
 
 [[Trabajo]]
-[[Clase 2 teoría]]

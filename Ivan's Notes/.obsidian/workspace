@@ -19,58 +19,89 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "312d472e7debaccf",
-    "type": "mobile-drawer",
+    "id": "bc2dd1ed9eb25b30",
+    "type": "split",
     "children": [
       {
-        "id": "d2c09a55017aa7a0",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "08ac05aec1b0f4b8",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "6cfe4e66c49caba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5de0246e9bcc4b8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "36d9d31da5d5e72e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f39fb69ec78a14d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "8135f31ed467db02",
-    "type": "mobile-drawer",
+    "id": "f81e3f6601b6f1c8",
+    "type": "split",
     "children": [
       {
-        "id": "e98f551ddbdfafaf",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "001 Mentality.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "d9f05faadad7d051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1660a2593cbac4d4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc0ebb8eaa3a1b8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "001 Mentality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
