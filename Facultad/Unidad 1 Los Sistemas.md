@@ -34,7 +34,7 @@ TGS: Teoría General de Sistemas. Orígenes. El enfoque de sistemas. SISTEMAS: C
 
 
 [[Clase 3 SyO]]
-
+[[Trabajo Unidad 1 SyO]]
 
 
 
