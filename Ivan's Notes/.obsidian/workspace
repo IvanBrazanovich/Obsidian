@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "001 Mentality.md",
             "mode": "source",
             "source": false
           }
@@ -19,107 +19,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dcb28540b313a18f",
-    "type": "split",
+    "id": "312d472e7debaccf",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "bf55db6f1aee09bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab64941d8ebd3def",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "2eb190688e135222",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
+        "id": "d2c09a55017aa7a0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
       },
       {
-        "id": "c670d700f51c8922",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "743e333801263976",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
+        "id": "08ac05aec1b0f4b8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "9cf20afbd43e3407",
-    "type": "split",
+    "id": "8135f31ed467db02",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "44186647dc1149e5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "283324d012227412",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "96e7c4b99b0d351e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000 Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "e98f551ddbdfafaf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "001 Mentality.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
+    "001 Mentality.md",
+    "Como estudiar.md",
+    "Escuchar más.md",
+    "Estudios laboratorio.md",
+    "Enfoque en las cosas importantes.md",
     "000 Home.md",
-    "Daily Routine.md",
     "Books.md",
     "Breath.md",
     "Cellular respiration.md",
-    "Celullar respiration.md",
-    "ATP.md",
-    "Respirar por la nariz o por la boca.md",
-    "Sleep Apnea.md",
-    "El clima afecta a la forma de las narices.md"
+    "Celullar respiration.md"
   ]
 }

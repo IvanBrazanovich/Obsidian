@@ -30,7 +30,7 @@
   "trimNames": true,
   "labeledNav": false,
   "fullWidthMedia": true,
-  "bordersToggle": true,
+  "bordersToggle": false,
   "bordersTitle": false,
   "minimalStatus": true,
   "focusMode": true,
