@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trabajo Unidad 1 SyO.md",
+            "file": "Unidad 1 Los Sistemas.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trabajo Unidad 1 SyO.md",
+                "file": "Unidad 1 Los Sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trabajo Unidad 1 SyO.md",
+                "file": "Unidad 1 Los Sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,8 +103,8 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Trabajo Unidad 1 SyO.md",
     "Unidad 1 Los Sistemas.md",
+    "Trabajo Unidad 1 SyO.md",
     "Clase 3 SyO.md",
     "Sistemas y Organizaciones.md",
     "000 Home.md",
