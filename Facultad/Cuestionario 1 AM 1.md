@@ -22,3 +22,31 @@
 
 
 
+
+# MIO
+![[Pasted image 20220402100754.png]]
+
+![[Pasted image 20220402100941.png]]
+
+![[Pasted image 20220402102136.png]]![[Pasted image 20220402102214.png]]![[Pasted image 20220402102332.png]]
+
+![[Pasted image 20220402102404.png]]
+
+![[Pasted image 20220402102524.png]]
+
+![[Pasted image 20220402102633.png]]
+![[Pasted image 20220402102956.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
