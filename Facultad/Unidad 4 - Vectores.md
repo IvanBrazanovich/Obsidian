@@ -100,6 +100,20 @@ El producto escalar de dos vectores dados en coordenadas cartesianas es igual a 
 ![[Pasted image 20220402073935.png]]
 ![[Pasted image 20220402073944.png]]
 
+
+
+
+### ¿Cuál es la representación geométrica del producto escalar?
+![[Pasted image 20220402080809.png]]
+
+
+
+
+
+
+
+
+
 ### ¿Cómo sabemos la cantidad que el vector 1 se refleja en vector 2?
 Para saber qué porcentaje del vector contrario se refleja en uno utilizamos el cos del ángulo.  También podemos verlo como la cantidad que ambos vectores apuntan hacia el mismo lado. 
 
