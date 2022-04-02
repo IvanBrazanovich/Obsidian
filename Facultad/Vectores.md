@@ -56,7 +56,7 @@ Ejemplo: v = (6, 4) y w =(3,2)
 
 ## Operaciones entre vectores
 ### Suma de vectores
-De manera analítica es la suma de las dimensiones iguales. De manera gráfica es la unión del fin del segmento de recta con el punto de aplicación del siguiente  vector. 
+De manera analítica es la suma de las componentes iguales. De manera gráfica es la unión del fin del segmento de recta con el punto de aplicación del siguiente  vector. 
 
 
 ### ¿Qué es el vector nulo?
@@ -72,7 +72,7 @@ Llamemos a un vector v, el opuesto será -v, el mismo pero con sentido opuesto. 
 Es básicamente una suma pero el vector que se utiliza para restar será cambiado por el vector opuesto. O sea, si A + (-B) = D.
 
 
-### Multiplicación de vectores 
+### Multiplicación de vectores por un escalar
 Básicamente se multiplica cada elemento del vector por el escalar. 
 
 
