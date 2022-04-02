@@ -141,6 +141,10 @@ El producto escalar de dos vectores dados en coordenadas cartesianas es igual a 
 ### Producto de un vector por si mismo![[Pasted image 20220402074442.png]]
 
 
+### ¿Cómo hallar el ángulo entre dos vectores?
+
+![[Pasted image 20220402121206.png]]
+
 
 ## Producto cruz o producto vectorial
 
