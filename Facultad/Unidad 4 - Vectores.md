@@ -142,8 +142,8 @@ El producto escalar de dos vectores dados en coordenadas cartesianas es igual a 
 
 ## Producto cruz o producto vectorial
 
-
-
+### ¿Qué es el producto vectorial o cruz?
+![[Pasted image 20220402111709.png]]
 
 
 
