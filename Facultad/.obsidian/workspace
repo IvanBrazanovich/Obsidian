@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unidad 4 - Vectores.md",
+            "file": "Cuestionario 1 AM 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad 4 - Vectores.md",
+                "file": "Cuestionario 1 AM 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unidad 4 - Vectores.md",
+                "file": "Cuestionario 1 AM 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Cuestionario 1 AM 1.md",
+    "Unidad 1 - Números Reales y Funciones.md",
+    "Análisis Matemático 1.md",
+    "000 Home.md",
     "Unidad 4 - Vectores.md",
     "Producto Escalar.md",
     "Vectores.md",
     "Álgebra y Geometría Analítica.md",
-    "000 Home.md",
     "Unidad 7 - Cónicas.md",
-    "Unidad 1 - Matrices.md",
-    "Expresión en coordenadas.md",
-    "Trabajo Unidad 1 SyO.md",
-    "Sistemas y Organizaciones.md"
+    "Unidad 1 - Matrices.md"
   ]
 }
