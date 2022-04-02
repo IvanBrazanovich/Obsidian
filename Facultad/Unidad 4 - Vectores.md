@@ -9,6 +9,8 @@ Vectores. Definición. Adición vectorial. Propiedades de la adición. Multiplic
 ### Definición 
 Es un segmento de recta orientado. 
 
+![[Pasted image 20220402120043.png]]
+
 ### ¿Cuáles son los elementos de un vector?
 + Llamamos dirección del vector AB a la dirección de la recta r, llamada recta de soporte
 + Lamamos sentido del vector AB al que determinan los puntos A y B tomados en ese orden.
@@ -149,25 +151,50 @@ El producto escalar de dos vectores dados en coordenadas cartesianas es igual a 
 
 
 
+### ¿Cómo calcular el área de un paralelogramo?
+![[Pasted image 20220402113211.png]]
+
+
+
+
+### ¿Cuál es la interpretación geométrica del módulo del producto vectorial?
+![[Pasted image 20220402113349.png]]
+
+
+### ¿Cuándo se anula el producto vectorial?
+![[Pasted image 20220402113902.png]]
+
+
+### ¿Cuáles son las propiedades del producto vectorial?
+![[Pasted image 20220402114045.png]]
+
+
+
+### ¿Qué es el producto mixto?
+
+![[Pasted image 20220402114228.png]]
+![[Pasted image 20220402114257.png]]
+
+
+
+### ¿Cuál es la interpretación geométrica del producto mixto?
+![[Pasted image 20220402114527.png]]
+![[Pasted image 20220402114556.png]]
+![[Pasted image 20220402115550.png]]
+El valor absoluto de P . C por el cos de alfa es como se calcula el volumen de un paralelepípedo. 
 
 
 
 
 
-
-
-
-
-
-
-
-
+### ¿Cuándo los vectores son coplanares?
+![[Pasted image 20220402115637.png]]
 
 
 TAREA Graficar los vectores u = (3-1) y v=(1,4)
 Calcular gráficamente u+v
 
-
+w
 
 Considerando los vectores u = (3, -1) y u2=(1,4)
 Calcular analíticamente 
