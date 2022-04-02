@@ -52,7 +52,7 @@ Ejemplo: v = (6, 4) y w =(3,2)
 
 ### Adición vectorial.
 De manera analítica es la suma de las componentes iguales. De manera gráfica es la unión del fin del segmento de recta con el punto de aplicación del siguiente  vector. 
-
+![[Pasted image 20220402073430.png]]
 ### ¿Qué es el vector nulo?
 Es un vector que se representa con Vo y tiene módulo nulo. 
 
@@ -67,28 +67,66 @@ Es básicamente una suma pero el vector que se utiliza para restar será cambiad
 
 ### Multiplicación de vectores por un escalar
 Básicamente se multiplica cada elemento del vector por el escalar. 
+![[Pasted image 20220402073536.png]]
+
 
 ### ¿Cuáles son vectores equivalentes?
 Aquellos con igual dirección, modulo y sentido.
 
 
+### ¿Cuáles son las propiedades de la suma de vectores?
+![[Pasted image 20220402073631.png]]
+
+### ¿Cuáles son las propiedades del producto de un vector por un escalar?
+
+![[Pasted image 20220402073655.png]]
+![[Pasted image 20220402073659.png]]
 
 
 
 
 
+# Producto Escalar
+
+### ¿Para qué sirve el producto escalar de dos vectores?
+Sirve para:
+1. Encontrar el ángulo que forman dos vectores.
+2. Encontrar la cantidad de un vector que se refleja en el otro vector.  Qué tan similar son dos vectores
+El producto escalar de dos vectores dados en coordenadas cartesianas es igual a la suma de la multiplicación de sus componentes homólogas
+
+
+### ¿Cómo se representa gráficamente el producto escalar?
+
+![[Pasted image 20220402073935.png]]
+![[Pasted image 20220402073944.png]]
+
+### ¿Cómo sabemos la cantidad que el vector 1 se refleja en vector 2?
+Para saber qué porcentaje del vector contrario se refleja en uno utilizamos el cos del ángulo.  También podemos verlo como la cantidad que ambos vectores apuntan hacia el mismo lado. 
+
+De esa manera tendremos: 
+u . v = |u| . |v| . cosα
+Esto significa que podemos tomar cualquiera de los dos vectores para compararlo con el otro. 
+
+### Vectores perpendiculares en producto escalar
+En el caso de que los vectores sean perpendiculares veremos que el producto escalar es nulo, esto es porque el cos del ángulo es 0, lo que significa que no se refleja nada en el vector. 
+
+### Vectores opuestos en sentido 
+En el caso que los vectores sean opuestos en sentido veremos que el producto escalar es -1.
+
+
+### ¿Cómo se calcula un producto escalar?
+El producto escalar de dos vectores dados en coordenadas cartesianas es igual a la suma de los productos de las componentes. 
+![[Pasted image 20220402074318.png]]
+
+### ¿Cuáles son las propiedades del producto escalar?
+![[Pasted image 20220402074405.png]]
+![[Pasted image 20220402074422.png]]
+
+### Producto de un vector por si mismo![[Pasted image 20220402074442.png]]
 
 
 
-### Propiedades de la adición.
-
-### Multiplicación de un vector por un escalar
-
-###  Interpretación geométrica del producto escalar. 
-
-### Vectores ortogonales 
-
-### Producto exterior o producto vectorial 
+## Producto cruz o producto vectorial
 
 
 

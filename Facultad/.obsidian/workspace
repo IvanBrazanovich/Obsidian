@@ -9,19 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vectores.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cda777427cc092a6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Unidad 4 - Vectores.md",
             "mode": "source",
             "backlinks": false,
@@ -84,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectores.md",
+                "file": "Unidad 4 - Vectores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vectores.md",
+                "file": "Unidad 4 - Vectores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,14 +103,14 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Vectores.md",
     "Unidad 4 - Vectores.md",
+    "Producto Escalar.md",
+    "Vectores.md",
     "Álgebra y Geometría Analítica.md",
+    "000 Home.md",
     "Unidad 7 - Cónicas.md",
     "Unidad 1 - Matrices.md",
-    "Producto Escalar.md",
     "Expresión en coordenadas.md",
-    "000 Home.md",
     "Trabajo Unidad 1 SyO.md",
     "Sistemas y Organizaciones.md"
   ]
