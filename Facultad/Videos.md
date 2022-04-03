@@ -32,7 +32,7 @@ El funcionamiento de un sistema depende de su estructura. Para un lavarropas los
 
 
 ### Globalismo o totalidad
-El motor mueve al tambor, en el tambor se mezcla el jabón, agua y la ropa. El motor también transmite el movimiento del motor a la polea, que gira el tambor. La cubierta protege y sostiene al motor, etc. etc. 
+El motor mueve al tambor, en el tambor se mezcla el jabón, agua y la ropa. La correa  también transmite el movimiento del motor a la polea, que gira el tambor. La cubierta protege y sostiene al motor, etc. etc. 
 
 
 

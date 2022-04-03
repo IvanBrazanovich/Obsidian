@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "condicional",
+                "query": "globalismo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,9 +106,9 @@
   "lastOpenFiles": [
     "Clase 3 SyO.md",
     "Unidad 1 Los Sistemas.md",
+    "Videos.md",
     "Sistemas y Organizaciones.md",
     "000 Home.md",
-    "Videos.md",
     "Unidad 4 - Vectores.md",
     "Álgebra y Geometría Analítica.md",
     "Análisis Matemático 1.md",
