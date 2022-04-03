@@ -98,10 +98,37 @@ Brizuela S.A
 + objetivo: producir calzados de todo tipo --SIEMPRE DEBE ESTAR EN UN VERBO EN INFINITIVO-- 
 + Entradas: 
 	+ materia prima: cuero, telas, pegamentos, cordones, etc.
-	
 		+ Se Deben dar ejemplos de materia prima
 	+ Información: hoja de datos con los tipos de modelos y diseños de zapatos a producir.
 	+ Energía: 	
 		+ --YA NO SE ESCRIBE ENERGÍA COMO ENTRADA--.
-		+ LA ENERGÍA HUMANA NO ES UNA ENTRADA PORQUE ES UN ELEMENTO DEL SISTEMA.
-+ 
+		+ LA ENERGÍA HUMANA NO ES UNA ENTRADA PORQUE ES UN ELEMENTO DEL SISTEMA. EN EL CASO DE UN VENTILADOR LA ENTRADA SI ES ENERGÍA HUMANA PORQUE ESTÁ FUERA DEL SISTEMA
++ Salidas: 
+	+ Zapatos
+	+  restos: cuero, tela, pegamento, etc. 
+	+ Lista de calzados producidos 
+	+ Detalle de materia prima utilizada.
++ Proceso de transformación:
+	+ confección de zapatos 
+	+ Elaboración de la planilla de zapatos producidos. 
+	+ TENGO QUE RELACIONAR EL PROCESO DE TRANSFORMACIÓN CON LAS SALIDAS QUE TENGO
++ Proceso de retroalimentación:
+	+ Utilización de palabras como: control, verificación, comparación, análisis, chequeo.
+	+ DEBE SER CORTITO Y AL PIE Y UNA COMPARACIÓN 
+	+ controlar la cantidad de zapatos elaborados respecto a la cantidad de zapatos solicitados. 
+	+ Informe de fallas en la manufactura de calzados respecto al número de calzados elaborados. 
+	+ Informe de fallas de los zapatos respecto a los estándares establecidos previamente.
+
+
+
+![[Pasted image 20220403094654.png]]
+
+Sección de Zapatos:
+1. Objetivo:  producir zapatos 
+2. Elementos: maquinaria, operarios, herramientas
+3. Relación: maquinaria-operarios; operarios-herramientas;
+4.  Entradas: cuero, telas, pegamentos, etc.
+5. Salidas: Calzados, informes, restos, etc.
+6.  Procesos de transformación: armado de zapatos, confección de zapatos. Se fabrican los zapatos mediante un proceso industrial o un proceso artesanal, dependiendo del zapato a fabricar. Este proceso consta de: Cortado, aparado, armado, ensuelado, deformado, devirado y empaque. 
+7. Proceso de retroalimentación: comparar los calzados con los estándares previamente establecidos. 
+8. 
