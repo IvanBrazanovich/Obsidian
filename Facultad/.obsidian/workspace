@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unidad 1 Los Sistemas.md",
+            "file": "Clase 3 SyO.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad 1 Los Sistemas.md",
+                "file": "Clase 3 SyO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unidad 1 Los Sistemas.md",
+                "file": "Clase 3 SyO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,6 +103,7 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Clase 3 SyO.md",
     "Unidad 1 Los Sistemas.md",
     "Sistemas y Organizaciones.md",
     "000 Home.md",
@@ -111,7 +112,6 @@
     "Álgebra y Geometría Analítica.md",
     "Análisis Matemático 1.md",
     "Unidad 1 - Números Reales y Funciones.md",
-    "Cuestionario 1 AM 1.md",
-    "Cotas, extremos  y elementos de un conjunto.md"
+    "Cuestionario 1 AM 1.md"
   ]
 }
