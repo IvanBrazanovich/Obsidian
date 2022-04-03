@@ -120,8 +120,7 @@ Brizuela S.A
 	+ Informe de fallas de los zapatos respecto a los estándares establecidos previamente.
 
 
-
-![[Pasted image 20220403094654.png]]
+APLIQUE LOS COMPONENTES DE UN SISTEMA A  LA SECCIÓN ZAPATOS
 
 Sección de Zapatos:
 1. Objetivo:  producir zapatos 
@@ -131,4 +130,14 @@ Sección de Zapatos:
 5. Salidas: Calzados, informes, restos, etc.
 6.  Procesos de transformación: armado de zapatos, confección de zapatos. Se fabrican los zapatos mediante un proceso industrial o un proceso artesanal, dependiendo del zapato a fabricar. Este proceso consta de: Cortado, aparado, armado, ensuelado, deformado, devirado y empaque. 
 7. Proceso de retroalimentación: comparar los calzados con los estándares previamente establecidos. 
-8. 
+8. Límite: 
+	1. Es el conjunto de acciones de los operarios hacia las máquinas, herramientas para la elaboración de calzados.
+	2. Es el conjunto de actividades tales como realizar el cortado, aparado, devirado y ensuelado de los zapatos que hacen el funcionamiento del sistema sección de zapatos. 
+9. Medio: área de producción
+
+
+![[Pasted image 20220403101121.png]]
+
++ Cliente: No pertenece al sistema de estudio
++  Proceso de retroalimentación: Se detectaron errores en el empaquetado de los calzados ya que no coinciden los números de pares de calzados empaquetados con las impresiones del empaque. 
++ Límite: Conjunto de acciones para elaborar y comercializar calzados
