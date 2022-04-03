@@ -28,3 +28,24 @@ Está formado por uno o varios macro-sistemas separados que yo tengo en cuenta a
 
 ### 3ra premisa 
 El funcionamiento de un sistema depende de su estructura. Para un lavarropas los motores más comunes están situados detrás y debajo del tambor y transmiten la tracción a través de poleas y correas.
+
+
+
+### Globalismo o totalidad
+El motor mueve al tambor, en el tambor se mezcla el jabón, agua y la ropa. El motor también transmite el movimiento del motor a la polea, que gira el tambor. La cubierta protege y sostiene al motor, etc. etc. 
+
+
+
+### Entropía
+Desgaste del motor a través del tiempo
+
+
+
+
+### Homeostasis
+El lavarropas tiene un sensor de nivel de agua, este le dice que cuando llega a un determinado nivel pare. Entonces la homeostasis puede ser la regulación del nivel del agua.
+
+
+
+### Los sistemas son abiertos 
+Consideramos un sistema abierto cuando el grado de interacción con el medio es intenso y dinámico, o sea que puede cambiar. En el caso de los sistemas cerrados cuando el intercambio con el medio es casi nulo, por ejemplo un auto o un lavarropas son sistemas cerrados.
