@@ -61,3 +61,21 @@ Es el límite entre los subsistemas del sistema de análisis. Por ejemplo, el l�
 
 ### Límite interno 
 Es el límite que se presenta entre los elementos de mi subsistema. 
+
+
+
+
+
+
+
+
+# Trabajo
+![[Pasted image 20220403084237.png]]
+
+Área de Producción
+1. Los sistemas son abiertos: El área de producción interactúa con el área de finanzas, y otras áreas de la organización. 
+2. Los sistemas existen dentro de sistemas: Brizuela S.A
+3. Las funciones de un sistema dependen de su estructura: 
+	1. La estructura de un sistema está compuesta por sus elementos y relaciones. 
+	2. No se ponen contraejemplos, sino que se ponen ejemplos. 
+	3. 
