@@ -49,3 +49,15 @@ El lavarropas tiene un sensor de nivel de agua, este le dice que cuando llega a 
 
 ### Los sistemas son abiertos 
 Consideramos un sistema abierto cuando el grado de interacción con el medio es intenso y dinámico, o sea que puede cambiar. En el caso de los sistemas cerrados cuando el intercambio con el medio es casi nulo, por ejemplo un auto o un lavarropas son sistemas cerrados.
+
+
+## Tipos de Límites
+### Límites externos 
+Es el límite que está entre el sistema y el medio 
+
+### Límite intermedio
+Es el límite entre los subsistemas del sistema de análisis. Por ejemplo, el límite entre área de producción y de finanzas.
+
+
+### Límite interno 
+Es el límite que se presenta entre los elementos de mi subsistema. 
