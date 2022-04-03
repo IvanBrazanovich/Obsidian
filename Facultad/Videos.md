@@ -75,7 +75,33 @@ Es el límite que se presenta entre los elementos de mi subsistema.
 Área de Producción
 1. Los sistemas son abiertos: El área de producción interactúa con el área de finanzas, y otras áreas de la organización. 
 2. Los sistemas existen dentro de sistemas: Brizuela S.A
-3. Las funciones de un sistema dependen de su estructura: 
+3. Las funciones de un sistema dependen de su estructura: El área de producción puede funcionar y alcanzar su objetivo debido a que posee dos secciones bien diferenciadas que se encargan de la producción de calzados. Cada sección con operarios y maquinarias específicas, que están capacitados para producir ese tipo de calzado y no otro.
 	1. La estructura de un sistema está compuesta por sus elementos y relaciones. 
 	2. No se ponen contraejemplos, sino que se ponen ejemplos. 
-	3. 
+
+
+
+
+Brizuela S.A
+1. Los sistemas son abiertos: Proveedores, clientes, bancos, mercado internacional, sindicatos, competencia etc.
+2. Los sistemas existen dentro de sistemas mayores: secretaría de comercio, ministerio de industria de la nación, ministerio de producción y comercio de la provincia, cámara de producción zapatera.
+	1. Tengo que buscar el sistema más grande o sistema mayor que contiene al sistema en estudio y tiene relación directa.
+	2. No es el barrio, Argentina, la provincia, etc.
+3. Las funciones de un sistema dependen de su estructura: El área de producción produce calzados de todo tipo. Comercialización genera la venta de estos calzados. Finanzas gestiona el dinero obtenido de la venta de los calzados. Recursos humanos controla y verifica el cumplimiento del trabajo. Administración realiza la gestión administrativa de el trabajo de el pago de la materia, las compras de los distintos recursos o insumos que necesita la organización. 
+	1. Comercialización genera las ventas de sus productos de manera tal que debe relacionarse con el área de producción para hacer el pedido de elaboración de calzados especificados por los clientes. Esa venta genera ingreso de dinero a la compañía, lo cual permite la distribución del pago o de cumplir con con las deudas y el pago del sueldo de los empleados de la organización, actividades que son del tipo de gestión Administrativa. 
+
+
+![[Pasted image 20220403091924.png]]
+
+![[Pasted image 20220403091930.png]]
+
++ objetivo: producir calzados de todo tipo --SIEMPRE DEBE ESTAR EN UN VERBO EN INFINITIVO-- 
++ Entradas: 
+	+ materia prima: cuero, telas, pegamentos, cordones, etc.
+	
+		+ Se Deben dar ejemplos de materia prima
+	+ Información: hoja de datos con los tipos de modelos y diseños de zapatos a producir.
+	+ Energía: 	
+		+ --YA NO SE ESCRIBE ENERGÍA COMO ENTRADA--.
+		+ LA ENERGÍA HUMANA NO ES UNA ENTRADA PORQUE ES UN ELEMENTO DEL SISTEMA.
++ 
