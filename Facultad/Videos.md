@@ -141,3 +141,10 @@ Sección de Zapatos:
 + Cliente: No pertenece al sistema de estudio
 +  Proceso de retroalimentación: Se detectaron errores en el empaquetado de los calzados ya que no coinciden los números de pares de calzados empaquetados con las impresiones del empaque. 
 + Límite: Conjunto de acciones para elaborar y comercializar calzados
+
+
+
++ Relatividad de los sistemas 
++ Supuestos de la tgs 
++ jerarquización 
++ 
