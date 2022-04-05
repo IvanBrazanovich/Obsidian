@@ -11,13 +11,18 @@ En el presente informe el alumno Brazanovich Ivan desarrollará la resolución d
 + Altura
 + Diámetro exterior
 + Diámetro interior 
+### Objeto a elección: cilindro hueco
 
 Para aplicar la siguiente fórmula: 
 ![[Pasted image 20220405200353.png]]
 
-Los errores de medición afectan a cualquier instrumento  de medición y pueden deberse a distintas causas, debido a esto,  se tendrá en cuenta a la hora de realizar los cálculos los tipos de errores que se presentaron en las distintas medidas.
+Los errores de medición afectan a cualquier instrumento  de medición y pueden deberse a distintas causas, debido a esto,  se tuvo en cuenta a la hora de realizar los cálculos los tipos de errores que se presentaron en las  medidas efectuadas.
 
-Para la mayor objetividad en el análisis
+Para la mayor objetividad en el análisis se utilizó la estructura y los principios del método científico. El mismo es una técnica que nos permite llegar a un conocimiento que pueda ser considerado válido desde el punto de vista de la ciencia. Otra muy importante característica de esta metodología es que el resultado del proceso de investigación es independiente de la creencias del investigador.
+
+
+
+
 
 
 
