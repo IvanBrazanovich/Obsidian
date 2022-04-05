@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Videos.md",
+            "file": "Informe.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos.md",
+                "file": "Informe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos.md",
+                "file": "Informe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Informe.md",
+    "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
+    "Física 1.md",
+    "000 Home.md",
     "Videos.md",
     "Unidad 1 Los Sistemas.md",
     "Clase 3 SyO.md",
     "Sistemas y Organizaciones.md",
-    "000 Home.md",
     "Unidad 4 - Vectores.md",
-    "Álgebra y Geometría Analítica.md",
-    "Análisis Matemático 1.md",
-    "Unidad 1 - Números Reales y Funciones.md",
-    "Cuestionario 1 AM 1.md"
+    "Álgebra y Geometría Analítica.md"
   ]
 }
