@@ -24,6 +24,9 @@ Uno de los objetivos del informe N°1 es aprender y afianzar los conocimientos d
 ![[Pasted image 20220405213600.png]]
 
 ## Observaciones
+Se tomaron 10 medidas por cada longitud: alto, diámetro exterior y diámetro interior. Para realizar esto se utilizó la fórmula Lm = Lp + A . n, esto debido a que el calibre es un instrumento de medición indirecta. 
+
+
 ### Objeto a medir 
 El objeto a medir es un cilindro hueco de  hierro --*Insertar tipo de material*--. 
 #### cARACTERÍSTICAS
@@ -40,10 +43,13 @@ El objeto a medir es un cilindro hueco de  hierro --*Insertar tipo de material*-
 
 
 ### Instrumentos de medición utilizados
-El instrumento de medición utilizado en la investigación se llama calibre. 
+El instrumento de medición utilizado en la investigación se llama calibre.  Un **calibre, pie de rey** o **vernier** es una herramienta de medición que ofrece un patrón con el cual se compara este patrón con lo que se quiera medir. Es utilizado mayormente para medir diámetros interiores y exteriores con una precisión mayor al de una regla común.
 ![[Pasted image 20220406153807.png]]	
 
+En este caso se utilizó un calibre con una apreciación de 0,02 mm/div. 
+La apreciación del calibre se mide según la ecuación A = D/N en donde D es la mínima división del calibre y, N es la cantidad de partes que tiene el nonius. En este caso contamos con unos valores de 1mm en la regla fija y 50 divisiones en el nonius. Haciendo las cuentas vemos como la apreciación es igual a 1/50=0,02 mm
 
+![[Pasted image 20220406154248.png]]
 En esta imagen se observa claramente como no hay error de cero en el instrumento, debido a que al deslizar la corredera que lleva el nonius hasta hacer tope con el borde original de la regla fija se aprecia como los ceros coinciden.
 
 
