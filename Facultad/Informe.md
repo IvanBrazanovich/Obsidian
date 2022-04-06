@@ -25,7 +25,7 @@ Uno de los objetivos del informe N°1 es aprender y afianzar los conocimientos d
 
 ## Observaciones
 ### Objeto a medir 
-El objeto a medir es un cilindro hueco de --*Insertar tipo de material*--. 
+El objeto a medir es un cilindro hueco de  hierro --*Insertar tipo de material*--. 
 #### cARACTERÍSTICAS
 + Presenta asperezas 
 + Presenta deformaciones 
