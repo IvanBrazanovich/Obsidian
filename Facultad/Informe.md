@@ -1,11 +1,6 @@
 
 ## Introducción 
 
-Mi nombre es Jezabel Ariadna Aguirre, numero de legajo N° 102052. El siguiente trabajo será presentado en la materia de Fisica 1, como un trabajo de metrología. El objetivo de este trabajo es poder familiarizarse con un instrumento de precisión, en este caso el calibre, ya que es necesaria para la realización de mediciones. El objeto por medir será una moneda aplicando el método científico.
-
-
-En el presente informe se desarrollará la resolución de la actividad experimental de metrología número 1, la cual consiste en obtener a través de mediciones directas a un objeto a elección propia, la altura y el diámetro de este para así poder obtener su volumen verdadero, obtenido a través de mediciones indirectas, junto con su respectivo error. Para que la actividad pueda ser efectuada de manera satisfactoria según los criterios de la cátedra, se hizo uso del método científico, el cual, a través de sus distintas etapas, ha brindado las herramientas necesarias para poder desarrollar y comprender mejor dicha experiencia. Para realizarla se utilizó como objeto a medir una moneda de 1 peso argentino,
-
 En el presente informe el alumno Brazanovich Ivan desarrollará la resolución de la actividad experimental de metrología N°1, correspondiente a la cátedra Física - Práctica Experimental. Esta actividad consiste en obtener el volumen verdadero de un objeto mediante la utilización de las medidas de las siguientes longitudes:
 
 + Altura
@@ -23,16 +18,43 @@ Para la mayor objetividad en el análisis se utilizó la estructura y los princi
 
 
 
-
-
-
-
-
-
-
-
-
 ## Objetivos 
+Uno de los objetivos del informe N°1 es aprender y afianzar los conocimientos de protocolos correctos en la utilización de instrumentos de medición. Para una mayor utilización del calibre se eligió el análisis de un cilindro hueco, esto con la finalidad de poder utilizar ambas mordazas:<W la pieza B con la finalidad de medir el diámetro interno, y la pieza A para medir el diámetro externo y la altura del mismo.
+
+![[Pasted image 20220405213600.png]]
+
+## Observaciones
+### Objeto a medir 
+El objeto a medir es un cilindro hueco de --*Insertar tipo de material*--. 
+#### cARACTERÍSTICAS
++ Presenta asperezas 
++ Presenta deformaciones 
+
+![[WhatsApp Image 2022-03-23 at 5.34.31 PM.jpeg]]
+
+![[WhatsApp Image 2022-03-23 at 5.34.32 PM.jpeg]]
+
+![[WhatsApp Image 2022-03-23 at 5.34.32 PM (1).jpeg]]
+
+
+
+
+### Instrumentos de medición utilizados
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Observaciones
