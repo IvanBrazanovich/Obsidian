@@ -54,26 +54,32 @@ En esta imagen se observa claramente como no hay error de cero en el instrumento
 
 
 
-
-
-
-
-
-
-
-
-
-## Observaciones
-
-
-
-## Glosario de imágenes 
-
-
 ## Formulación de hipótesis 
 
 
+
+
+
+
+
+
 ## Tabla de Valores del Diámetro del objeto 
+![[Pasted image 20220406163202.png]]
+
+
+![[Pasted image 20220406163209.png]]
+
+![[Pasted image 20220406163217.png]]
+
+
+
+
+
+
+
+
+
+
 
 ## Cálculos para la altura 
 ### Cálculos auxiliares 
