@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Fresh",
+      "path": "Fresh.md"
+    },
+    {
       "basename": "001 Mentality",
       "path": "001 Mentality.md"
     },
     {
-      "basename": "100 % Efectividad",
-      "path": "100 % Efectividad.md"
+      "basename": "Planning",
+      "path": "Planning.md"
     },
     {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
     {
+      "basename": "We will believe anything",
+      "path": "We will believe anything.md"
+    },
+    {
       "basename": "Daily Routine",
       "path": "Daily Routine.md"
+    },
+    {
+      "basename": "100 % Efectividad",
+      "path": "100 % Efectividad.md"
     },
     {
       "basename": "Routines",
@@ -187,18 +199,6 @@
     {
       "basename": "React",
       "path": "React.md"
-    },
-    {
-      "basename": "Green Walk",
-      "path": "Green Walk.md"
-    },
-    {
-      "basename": "Exercise",
-      "path": "Exercise.md"
-    },
-    {
-      "basename": "Four to Six",
-      "path": "Four to Six.md"
     }
   ],
   "omittedPaths": [],
