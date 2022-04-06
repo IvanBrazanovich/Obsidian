@@ -40,11 +40,11 @@ El objeto a medir es un cilindro hueco de  hierro --*Insertar tipo de material*-
 
 
 ### Instrumentos de medición utilizados
+El instrumento de medición utilizado en la investigación se llama calibre. 
+![[Pasted image 20220406153807.png]]	
 
 
-
-
-
+En esta imagen se observa claramente como no hay error de cero en el instrumento, debido a que al deslizar la corredera que lleva el nonius hasta hacer tope con el borde original de la regla fija se aprecia como los ceros coinciden.
 
 
 
