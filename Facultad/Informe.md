@@ -55,21 +55,36 @@ En esta imagen se observa claramente como no hay error de cero en el instrumento
 
 
 ## Formulación de hipótesis 
+Reducir los márgenes de error de cálculo con instrumentos de medición es crucial. La medición no solo es universal, sino que resulta ser gran parte de la estructura de todo lo que nos rodea. Se plantea lo siguiente: Sin los acotados márgenes de error presentes en los instrumentos de medición con gran precisión y exactitud, la propagación de los errores significativos de medida podrían cambiar la estructura del mundo como lo conocemos, y de la cantidad de recursos utilizados en gran escala. 
+
+Se utilizará como grupo de control las medidas tomadas por una regla (grupo 1), y el grupo 2 constará de las mediciones tomadas por el calibre. 
 
 
+### Grupo de Control 
+Al medir con una regla de 200 mm de longitud se observa que el objeto tiene unas dimensiones de aproximadamente 71mm altura, diámetro interno de 35mm y diámetro exterior de 42mm. 
+![[Pasted image 20220407052139.png]]
+![[Pasted image 20220407052242.png]]
+Vtotal = 98366 mm cúbicos - 68310 mm cúbicos = 30056 mm cúbicos
 
 
+# Experimentación
 
 
-
-
-## Tabla de Valores del Diámetro del objeto 
+###  Tabla de Valores del Diámetro exterior  del objeto 
 ![[Pasted image 20220406163202.png]]
 
-
+###  Tabla de Valores de la altura  del objeto 
 ![[Pasted image 20220406163209.png]]
-
+###  Tabla de Valores del Diámetro interno  del objeto 
 ![[Pasted image 20220406163217.png]]
+
+### Cálculos 
+A continuación se desarrolla lo explicado en la hipótesis. Para su comprobación se aplicó la teoría de error.
+
+
+
+
+
 
 
 
