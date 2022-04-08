@@ -84,38 +84,11 @@ A continuación se desarrolla lo explicado en la hipótesis. Para su comprobaci�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Cálculos para la altura 
-### Cálculos auxiliares 
-### Cálculo de error absoluto 
-
-### Error absoluto 
-### error cuadrático medio 
-
-
-### error relativo 
-
-
-### Error porcentual 
-
-### Valor verdadero del diámetro 
-
-### Diámetro máximo 
-
-### Diámetro mínimo 
-
-
+![[Pasted image 20220408172353.png]]
+![[Pasted image 20220408172402.png]]
+![[Pasted image 20220408172408.png]]
+![[Pasted image 20220408172416.png]]
+![[Pasted image 20220408172422.png]]
 
 
 # Conclusión 
