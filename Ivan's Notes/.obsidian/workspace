@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Morning routine.md",
+            "file": "Estudiar.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morning routine.md",
+                "file": "Estudiar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
-    "Morning routine.md",
+    "Estudiar.md",
     "Planning.md",
+    "Comer.md",
     "Night routine.md",
+    "Colectivo ida.md",
+    "Morning routine.md",
     "Standard.md",
     "Routines.md",
     "Daily Routine.md",
-    "000 Home.md",
-    "Fresh.md",
-    "001 Mentality.md",
-    "We will believe anything.md"
+    "000 Home.md"
   ]
 }

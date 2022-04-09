@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Morning routine",
-      "path": "Morning routine.md"
+      "basename": "Estudiar",
+      "path": "Estudiar.md"
     },
     {
       "basename": "Planning",
       "path": "Planning.md"
     },
     {
+      "basename": "Comer",
+      "path": "Comer.md"
+    },
+    {
       "basename": "Night routine",
       "path": "Night routine.md"
+    },
+    {
+      "basename": "Colectivo ida",
+      "path": "Colectivo ida.md"
+    },
+    {
+      "basename": "Morning routine",
+      "path": "Morning routine.md"
     },
     {
       "basename": "Standard",
@@ -187,18 +199,6 @@
     {
       "basename": "Años Facultad",
       "path": "Años Facultad.md"
-    },
-    {
-      "basename": "2022-03-13",
-      "path": "Journal/Daily/2022-03-13.md"
-    },
-    {
-      "basename": "Pause and plan",
-      "path": "Pause and plan.md"
-    },
-    {
-      "basename": "I will, I won't, I want",
-      "path": "I will, I won't, I want.md"
     }
   ],
   "omittedPaths": [],

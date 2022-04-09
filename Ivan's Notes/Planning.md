@@ -77,10 +77,9 @@ Bueno, voy a armar la estructura básica de mi día.
 Diario
 + [[Night routine]]
 + [[Morning routine ]]
-+ Colectivo ida
-+ Colectivo vuelta
-+ Comer 
-+ Estudiar 
++ [[Colectivo ida]]
++ [[Comer ]]
++ [[Estudiar ]]
 + Ejercicio
 + Comida 
 + Estudiar 

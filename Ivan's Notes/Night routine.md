@@ -5,7 +5,7 @@ Mentalidad:
 
 
 1. Alarma a las 8:00 de la noche
-2. Comer
+2. Cocinar para mañana y hoy y comer
 3. Planear el día siguiente
 	1. Ver todoist 
 	2. Ver calendar
