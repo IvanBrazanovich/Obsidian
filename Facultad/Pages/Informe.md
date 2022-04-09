@@ -7,11 +7,10 @@ En el presente informe el alumno Brazanovich Ivan desarrollará la resolución d
 + Diámetro exterior
 + Diámetro interior 
 
-[[Probando]]
 ### Objeto a elección: cilindro hueco
 
 Para aplicar la siguiente fórmula: 
-![[Pasted image 20220405200353.png]]
+
 
 Los errores de medición afectan a cualquier instrumento  de medición y pueden deberse a distintas causas, debido a esto,  se tuvo en cuenta a la hora de realizar los cálculos los tipos de errores que se presentaron en las  medidas efectuadas.
 
