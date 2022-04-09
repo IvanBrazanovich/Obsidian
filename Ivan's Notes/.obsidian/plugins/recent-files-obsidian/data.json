@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Night routine",
+      "path": "Night routine.md"
+    },
+    {
+      "basename": "Planning",
+      "path": "Planning.md"
+    },
+    {
+      "basename": "Standard",
+      "path": "Standard.md"
+    },
+    {
+      "basename": "Routines",
+      "path": "Routines.md"
+    },
+    {
+      "basename": "Daily Routine",
+      "path": "Daily Routine.md"
+    },
+    {
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
       "basename": "Fresh",
       "path": "Fresh.md"
     },
@@ -9,28 +33,12 @@
       "path": "001 Mentality.md"
     },
     {
-      "basename": "Planning",
-      "path": "Planning.md"
-    },
-    {
-      "basename": "000 Home",
-      "path": "000 Home.md"
-    },
-    {
       "basename": "We will believe anything",
       "path": "We will believe anything.md"
     },
     {
-      "basename": "Daily Routine",
-      "path": "Daily Routine.md"
-    },
-    {
       "basename": "100 % Efectividad",
       "path": "100 % Efectividad.md"
-    },
-    {
-      "basename": "Routines",
-      "path": "Routines.md"
     },
     {
       "basename": "Books",
@@ -191,14 +199,6 @@
     {
       "basename": "The inner threat",
       "path": "The inner threat.md"
-    },
-    {
-      "basename": "Relax",
-      "path": "Relax.md"
-    },
-    {
-      "basename": "React",
-      "path": "React.md"
     }
   ],
   "omittedPaths": [],

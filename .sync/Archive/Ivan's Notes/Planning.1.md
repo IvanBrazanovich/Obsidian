@@ -72,22 +72,3 @@ De esta manera siempre voy a saber lo que tengo que hacer en cada momento del d�
 
 
 
-Bueno, voy a armar la estructura básica de mi día.
-
-Diario
-+ [[Night routine]]
-+ Morning routine 
-+ Colectivo ida
-+ Colectivo vuelta
-+ Comer 
-+ Estudiar 
-+ Ejercicio
-+ Comida 
-+ Estudiar 
-
-
-
-Semanal 
-+ preparar comida 
-+ Revies y planning 
-

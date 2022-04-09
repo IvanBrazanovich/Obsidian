@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fresh.md",
+            "file": "Night routine.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fresh.md",
+                "file": "Night routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
+    "Night routine.md",
+    "Planning.md",
+    "Standard.md",
+    "Routines.md",
+    "Daily Routine.md",
+    "000 Home.md",
     "Fresh.md",
     "001 Mentality.md",
-    "Planning.md",
-    "000 Home.md",
     "We will believe anything.md",
-    "Daily Routine.md",
-    "100 % Efectividad.md",
-    "Como estudiar.md",
-    "Escuchar más.md",
-    "Estudios laboratorio.md"
+    "100 % Efectividad.md"
   ]
 }

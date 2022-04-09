@@ -61,33 +61,3 @@ De esta manera siempre voy a saber lo que tengo que hacer en cada momento del d�
 ### Google Calendar
 
 
-# Colectivo
-1. Entrar a obsidian
-2. Ver reminders 
-3. Ver planificación planning
-4. Ver google calendar 
-5. Ver todoist y vaciar la mente, no estoy obligado a nada, tengo muy pocas cosas para hacer, yo quiero y elijo hacer la mayoría de cosas que hago
-6. Anki planning 
-7. Anki 
-
-
-
-Bueno, voy a armar la estructura básica de mi día.
-
-Diario
-+ [[Night routine]]
-+ Morning routine 
-+ Colectivo ida
-+ Colectivo vuelta
-+ Comer 
-+ Estudiar 
-+ Ejercicio
-+ Comida 
-+ Estudiar 
-
-
-
-Semanal 
-+ preparar comida 
-+ Revies y planning 
-
