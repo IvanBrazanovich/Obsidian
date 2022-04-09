@@ -1,4 +1,7 @@
 ### Debo preparar el día siguiente y asimilar el anterior 
+Mentalidad:
++ Prepararme para mañana 
++ relajarme
 
 
 1. Alarma a las 8:00 de la noche

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Night routine.md",
+            "file": "Morning routine.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f81e3f6601b6f1c8",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Night routine.md",
+                "file": "Morning routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +112,15 @@
   },
   "active": "850abe1d3c7f7770",
   "lastOpenFiles": [
-    "Night routine.md",
+    "Morning routine.md",
     "Planning.md",
+    "Night routine.md",
     "Standard.md",
     "Routines.md",
     "Daily Routine.md",
     "000 Home.md",
     "Fresh.md",
     "001 Mentality.md",
-    "We will believe anything.md",
-    "100 % Efectividad.md"
+    "We will believe anything.md"
   ]
 }

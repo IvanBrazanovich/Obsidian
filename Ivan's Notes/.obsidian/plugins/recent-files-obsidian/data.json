@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Night routine",
-      "path": "Night routine.md"
+      "basename": "Morning routine",
+      "path": "Morning routine.md"
     },
     {
       "basename": "Planning",
       "path": "Planning.md"
+    },
+    {
+      "basename": "Night routine",
+      "path": "Night routine.md"
     },
     {
       "basename": "Standard",
@@ -195,10 +199,6 @@
     {
       "basename": "I will, I won't, I want",
       "path": "I will, I won't, I want.md"
-    },
-    {
-      "basename": "The inner threat",
-      "path": "The inner threat.md"
     }
   ],
   "omittedPaths": [],
