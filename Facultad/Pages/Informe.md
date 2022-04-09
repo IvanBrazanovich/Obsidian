@@ -6,6 +6,8 @@ En el presente informe el alumno Brazanovich Ivan desarrollará la resolución d
 + Altura
 + Diámetro exterior
 + Diámetro interior 
+
+[[Probando]]
 ### Objeto a elección: cilindro hueco
 
 Para aplicar la siguiente fórmula: 

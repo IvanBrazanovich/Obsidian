@@ -1,100 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Ejercicio",
-      "path": "Ejercicio.md"
-    },
-    {
-      "basename": "Planning",
-      "path": "Planning.md"
-    },
-    {
-      "basename": "Estudiar",
-      "path": "Estudiar.md"
-    },
-    {
-      "basename": "Comer",
-      "path": "Comer.md"
-    },
-    {
-      "basename": "Night routine",
-      "path": "Night routine.md"
-    },
-    {
-      "basename": "Colectivo ida",
-      "path": "Colectivo ida.md"
-    },
-    {
-      "basename": "Morning routine",
-      "path": "Morning routine.md"
-    },
-    {
-      "basename": "Standard",
-      "path": "Standard.md"
-    },
-    {
-      "basename": "Routines",
-      "path": "Routines.md"
-    },
-    {
-      "basename": "Daily Routine",
-      "path": "Daily Routine.md"
-    },
-    {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
     {
+      "basename": "Review",
+      "path": "Pages/Review.md"
+    },
+    {
+      "basename": "Planning",
+      "path": "Pages/Planning.md"
+    },
+    {
+      "basename": "Comida",
+      "path": "Pages/Comida.md"
+    },
+    {
+      "basename": "Ejercicio",
+      "path": "Pages/Ejercicio.md"
+    },
+    {
+      "basename": "Estudiar",
+      "path": "Pages/Estudiar.md"
+    },
+    {
+      "basename": "Comer",
+      "path": "Pages/Comer.md"
+    },
+    {
+      "basename": "Colectivo ida",
+      "path": "Pages/Colectivo ida.md"
+    },
+    {
+      "basename": "Morning routine",
+      "path": "Pages/Morning routine.md"
+    },
+    {
+      "basename": "Night routine",
+      "path": "Pages/Night routine.md"
+    },
+    {
       "basename": "Fresh",
-      "path": "Fresh.md"
+      "path": "Pages/Fresh.md"
+    },
+    {
+      "basename": "Health Tracker",
+      "path": "Health Tracker.md"
     },
     {
       "basename": "001 Mentality",
       "path": "001 Mentality.md"
-    },
-    {
-      "basename": "We will believe anything",
-      "path": "We will believe anything.md"
-    },
-    {
-      "basename": "100 % Efectividad",
-      "path": "100 % Efectividad.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Books.md"
-    },
-    {
-      "basename": "Breath",
-      "path": "Breath.md"
-    },
-    {
-      "basename": "Cellular respiration",
-      "path": "Cellular respiration.md"
-    },
-    {
-      "basename": "Celullar respiration",
-      "path": "Celullar respiration.md"
-    },
-    {
-      "basename": "ATP",
-      "path": "ATP.md"
-    },
-    {
-      "basename": "Respirar por la nariz o por la boca",
-      "path": "Respirar por la nariz o por la boca.md"
-    },
-    {
-      "basename": "Sleep Apnea",
-      "path": "Sleep Apnea.md"
-    },
-    {
-      "basename": "El clima afecta a la forma de las narices",
-      "path": "El clima afecta a la forma de las narices.md"
-    },
-    {
-      "basename": "Por qué tenemos narices de esa forma",
-      "path": "Por qué tenemos narices de esa forma.md"
     },
     {
       "basename": "Daily Template",
@@ -105,100 +61,8 @@
       "path": "Templates/Fiction Book.md"
     },
     {
-      "basename": "002 Next Actions",
-      "path": "002 Next Actions.md"
-    },
-    {
       "basename": "2022-03-20",
       "path": "Journal/Daily/2022-03-20.md"
-    },
-    {
-      "basename": "Facultad fix",
-      "path": "Facultad fix.md"
-    },
-    {
-      "basename": "Comida Fix",
-      "path": "Comida Fix.md"
-    },
-    {
-      "basename": "Journal",
-      "path": "Journal.md"
-    },
-    {
-      "basename": "Llevar algo que me recuerde WillPower",
-      "path": "Llevar algo que me recuerde WillPower.md"
-    },
-    {
-      "basename": "Como estudiar",
-      "path": "Como estudiar.md"
-    },
-    {
-      "basename": "Agrandado",
-      "path": "Agrandado.md"
-    },
-    {
-      "basename": "Escuchar más",
-      "path": "Escuchar más.md"
-    },
-    {
-      "basename": "Estudios laboratorio",
-      "path": "Estudios laboratorio.md"
-    },
-    {
-      "basename": "Enfoque en las cosas importantes",
-      "path": "Enfoque en las cosas importantes.md"
-    },
-    {
-      "basename": "Tracker",
-      "path": "Tracker.md"
-    },
-    {
-      "basename": "Javascript",
-      "path": "Javascript.md"
-    },
-    {
-      "basename": "How to win friends and influence people",
-      "path": "How to win friends and influence people.md"
-    },
-    {
-      "basename": "The Willpower Instinct",
-      "path": "The Willpower Instinct.md"
-    },
-    {
-      "basename": "State of discipline",
-      "path": "State of discipline.md"
-    },
-    {
-      "basename": "No se puede predecir el futuro",
-      "path": "No se puede predecir el futuro.md"
-    },
-    {
-      "basename": "Prefrontal cortex willpower sides",
-      "path": "Prefrontal cortex willpower sides.md"
-    },
-    {
-      "basename": "Distracción y disciplina",
-      "path": "Distracción y disciplina.md"
-    },
-    {
-      "basename": "Training discipline",
-      "path": "Training discipline.md"
-    },
-    {
-      "basename": "Bad stress and willpower",
-      "path": "Bad stress and willpower.md"
-    },
-    {
-      "basename": "Costs of self-control",
-      "path": "Costs of self-control.md"
-    },
-    {
-      "basename": "Hear rate variability",
-      "path": "Hear rate variability.md"
-    },
-    {
-      "basename": "Non-Fiction Book",
-      "path": "Templates/Non-Fiction Book.md"
     }
   ],
   "omittedPaths": [],

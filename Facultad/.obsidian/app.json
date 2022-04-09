@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "spellcheck": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Pages"
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informe.md",
+            "file": "000 Home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informe.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informe.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +102,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "000 Home.md",
+    "Pages/Probando.md",
     "Informe.md",
     "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
     "Física 1.md",
-    "000 Home.md",
     "Videos.md",
     "Unidad 1 Los Sistemas.md",
     "Clase 3 SyO.md",
     "Sistemas y Organizaciones.md",
-    "Unidad 4 - Vectores.md",
-    "Álgebra y Geometría Analítica.md"
+    "Unidad 4 - Vectores.md"
   ]
 }

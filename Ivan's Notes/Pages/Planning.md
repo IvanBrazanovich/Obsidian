@@ -81,12 +81,10 @@ Diario
 + [[Comer ]]
 + [[Estudiar ]]
 + [[ Ejercicio]]
-+ Comida 
-+ Estudiar 
++ [[Comida]] 
 
 
 
 Semanal 
-+ preparar comida 
-+ Revies y planning 
++ [[Review]]
 

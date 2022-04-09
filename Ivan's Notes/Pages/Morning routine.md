@@ -6,9 +6,10 @@
 2. Realizar unos estiramientos rápidos 
 3. Journal 15 minutes 
 4. Breathing 
-5. Ver lo que planeé ayer 
-6. Repetir mentalidad para el día 
-7. Programming 
+5. Rezar
+6. Ver lo que planeé ayer 
+7. Repetir mentalidad para el día 
+8. Programming 
 
 
 

@@ -16,3 +16,4 @@ Mentalidad:
 8. Ver que comí en el día y que hice o no decidí hacer
 9. Ver posibles áreas para mejorar
 10. Cepillarme los dientes y lavarme la cara
+11. Rezar e ir a dormir
