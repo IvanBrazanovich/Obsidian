@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Informe.md",
+            "file": "Pages/Unidad 2 - Cinemática de la partícula.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ffc0c2417b01c928",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Informe.md",
+                "file": "Pages/Unidad 2 - Cinemática de la partícula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Informe.md",
+                "file": "Pages/Unidad 2 - Cinemática de la partícula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +102,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Informe.md",
-    "Pages/Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
+    "Pages/Unidad 2 - Cinemática de la partícula.md",
+    "Pages/Ejercicios 1.md",
+    "Pages/Movimiento en dos dimensiones.md",
+    "Pages/Física y medición.md",
     "Pages/Física 1.md",
     "000 Home.md",
+    "Pages/Informe.md",
+    "Pages/Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
     "Pages/Probando.md",
-    "Informe.md",
-    "Unidad 1 - Introducción a la física. Unidades y Magnitudes - Errores.md",
-    "Física 1.md",
-    "Videos.md",
-    "Unidad 1 Los Sistemas.md"
+    "Informe.md"
   ]
 }
