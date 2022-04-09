@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Estudiar",
-      "path": "Estudiar.md"
+      "basename": "Ejercicio",
+      "path": "Ejercicio.md"
     },
     {
       "basename": "Planning",
       "path": "Planning.md"
+    },
+    {
+      "basename": "Estudiar",
+      "path": "Estudiar.md"
     },
     {
       "basename": "Comer",
@@ -195,10 +199,6 @@
     {
       "basename": "Non-Fiction Book",
       "path": "Templates/Non-Fiction Book.md"
-    },
-    {
-      "basename": "Años Facultad",
-      "path": "Años Facultad.md"
     }
   ],
   "omittedPaths": [],

@@ -80,7 +80,7 @@ Diario
 + [[Colectivo ida]]
 + [[Comer ]]
 + [[Estudiar ]]
-+ Ejercicio
++ [[ Ejercicio]]
 + Comida 
 + Estudiar 
 
