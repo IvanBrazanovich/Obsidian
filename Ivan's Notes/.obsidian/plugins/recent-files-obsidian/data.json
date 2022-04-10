@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Night routine",
+      "path": "Pages/Night routine.md"
+    },
+    {
+      "basename": "Planning",
+      "path": "Planning.md"
+    },
+    {
+      "basename": "Fresh",
+      "path": "Pages/Fresh.md"
+    },
+    {
       "basename": "000 Home",
       "path": "000 Home.md"
     },
     {
-      "basename": "Review",
-      "path": "Pages/Review.md"
+      "basename": "001 Mentality",
+      "path": "001 Mentality.md"
     },
     {
-      "basename": "Planning",
-      "path": "Pages/Planning.md"
+      "basename": "Health Tracker",
+      "path": "Health Tracker.md"
+    },
+    {
+      "basename": "Review",
+      "path": "Pages/Review.md"
     },
     {
       "basename": "Comida",
@@ -35,22 +51,6 @@
     {
       "basename": "Morning routine",
       "path": "Pages/Morning routine.md"
-    },
-    {
-      "basename": "Night routine",
-      "path": "Pages/Night routine.md"
-    },
-    {
-      "basename": "Fresh",
-      "path": "Pages/Fresh.md"
-    },
-    {
-      "basename": "Health Tracker",
-      "path": "Health Tracker.md"
-    },
-    {
-      "basename": "001 Mentality",
-      "path": "001 Mentality.md"
     },
     {
       "basename": "Daily Template",
