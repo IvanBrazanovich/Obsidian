@@ -4,5 +4,6 @@
   "spellcheck": true,
   "foldHeading": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Pages"
+  "newFileFolderPath": "Pages",
+  "attachmentFolderPath": "Img"
 }
