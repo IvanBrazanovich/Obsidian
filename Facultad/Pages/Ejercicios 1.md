@@ -31,3 +31,5 @@
 
 # Caída libre 
 1. ![[Pasted image 20220411162733.png]]
+2. ![[Pasted image 20220411163546.png]]
+3. ![[Pasted image 20220411164316.png]]
