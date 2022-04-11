@@ -4,3 +4,21 @@
 3. ![[Pasted image 20220410164633.png]] ![[Pasted image 20220410164639.png]]
 4. ![[Pasted image 20220410171155.png]]![[Pasted image 20220410171213.png]]
 5. ![[Pasted image 20220410172507.png]]![[Pasted image 20220410172530.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# MRUV
+1. ![[Pasted image 20220411055349.png]]
+2. ![[Pasted image 20220411060410.png]]
+3. ![[Pasted image 20220411061009.png]]
