@@ -3,4 +3,4 @@ Introducción a la física. Método experimental. Magnitudes físicas. Clasifica
 
 
 [[Informe]]
-
+[[Guia 1 autoestudio]]
