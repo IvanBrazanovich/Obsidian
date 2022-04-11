@@ -1,4 +1,8 @@
 1.  Busque información sobre el método científico, determine las ideas claves, realice un mapa conceptual sobre lo analizado.
+
+El método científico es una técnica que nos permite llegar a un conocimiento que pueda ser considerado válido desde el punto de vista de la ciencia. 
+
+
 ### 1. Observación
 
 Consiste en recoger información de la realidad, encontrar algún hecho de relevancia que merezca investigación.
@@ -23,3 +27,21 @@ Se realizan cálculos, gráficos o tablas para resumir y condensar la informaci�
 ### 6. Conclusión
 
 A partir de los resultados de la experimentación se puede demostrar o refutar la hipótesis. Si ocurre lo primero, se puede desprender una teoría o ley. En cambio, si la hipótesis fuera rechazada, se podría plantear otra.
+
+
+
+2. - ¿Qué es el método científico? ¿Cómo lo relaciona con Física? ¿Puede realizar una síntesis de lo que es y la vinculación que existe con la física? ¿Qué tipo de ciencia es la física? ¿Cómo puede realizar una clasificación de la física y en particular que lugar ocupa la que vamos a desarrollar en el presente curso?
+El método científico es una técnica que nos permite llegar a un conocimiento que pueda ser considerado válido desde el punto de vista de la ciencia. Los pasos de manera general que sigue el método científico son: 
+1. Observación 
+2. Inducción
+3. Hipótesis
+4. Experimentación
+5. Análisis 
+6. Conclusión
+
+La física es una **ciencia exacta que estudia cómo funciona el universo** al tomar en cuenta cuatro propiedades fundamentales que son **la energía, la materia, el tiempo y el espacio**, cómo interactúan y se afectan unas a otras. Para que la física sea considerada una ciencia, debe respetar ciertos patrones y criterios. Dentro de estos el principal es el método científico, gracias a este puede formular leyes aplicables a la generalidad. 
+
+
+
+
+
