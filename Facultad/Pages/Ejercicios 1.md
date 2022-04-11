@@ -22,3 +22,12 @@
 1. ![[Pasted image 20220411055349.png]]
 2. ![[Pasted image 20220411060410.png]]
 3. ![[Pasted image 20220411061009.png]]
+
+
+
+
+
+
+
+# Caída libre 
+1. ![[Pasted image 20220411162733.png]]
