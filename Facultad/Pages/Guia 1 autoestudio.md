@@ -73,11 +73,51 @@ En la materia se desarrollará los estudios bajo el alcance de la física clási
 	5. Conclusión: La hipótesis se ha refutado. María no mantiene los gastos mensuales iguales. Probablemente sea por el aumento de precios de los productos comprados. 
 
 4. Ahora realice la medición de una superficie de lo que usted desee, aplique el método científico para esta situación problemática. 
-1. Observación: Mi celular es más pesado que un conjunto de hojas por más que ocupen el mismo espacio.
+1. Observación: Mi celular es más liviano que una pedazo de hierro con las mismas dimensiones
 2. Inducción: ¿Por qué a pesar de ocupar el mismo espacio tienen distintos pesos? ¿Qué variables se tienen en cuenta a la hora de analizar los pesos? 
-3. Hipótesis: El promedio de la densidad de los componentes de mi celular es mayor al de las hojas, y por ende, es más pesado. 
+3. Hipótesis: El promedio de la densidad de los componentes de mi celular es menor  al del hierro, y por ende, es más liviano. 
 4. Experimentación y análisis: Volumen del celular: 
 	1. 150mm de altura
 	2. 8mm de espesor 
 	3.  78mm de base. 
-	Volumen = altura * base * espesor = 93,600 mm3
+	Volumen = altura * base * espesor = 93.6 cm3
+	Densidad de un teléfono promedio 1,80 g/cm3
+	Peso de mi celular = volumen * densidad = 168.48g. 
+	Según las especificaciones del proveedor el celular tiene un peso de 170 g, por lo que se asemeja en gran medida.
+	Densidad del hierro = 7.874 g/cm³ (provisto por internet)
+	Peso del hierro= densidad del hierro * volumen = 737 g
+5. Conclusión: Lo obtenido en la experimentación confirma la hipótesis: la densidad promedio de los componentes del celular es menor a la del hierro y por lo tanto, el hierro es más pesado. 
+
+
+
+4.  ¿Qué entienden por magnitudes? ¿Qué tipo de magnitudes conoce? ¿Cómo se diferencian unas de otras? Realice las operaciones de la suma y el producto para las magnitudes por usted definidas.
+Las magnitudes son atributos de un cuerpo, fenómeno o de una sustancia, susceptibles de ser medida en forma directa o indirecta. Personalmente conozco como magnitud  a la longitud, el tiempo, la velocidad, entre otras. 
+	Según su origen se diferencia en:
++ Magnitudes fundamentales: Sirven para establecer los sistemas de unidades: Ej: Tiempo
++ Magnitudes derivadas: Se dan a partir de las relaciones de las anteriores: Ej: Fuerza. 
+
+	Según su naturaleza se diferencian en:
+	+ Magnitudes escalares: Se caracterizan por tener un número y una unidad. Ej: Rapidez.
+	+ Magnitudes vectoriales: Se caracterizan por una poseer una magnitud, dirección, sentido y punto de aplicación. Se los representa con un vector, ej: Velocidad. 
+
+
+Suma de longitudes: 
+M = m1 + m2 + m3 + m4. 
+Por análisis dimensional seguirá siendo una longitud solamente. 
+
+Producto:
+Longitud = velocidad * Tiempo
+
+
+
+
+6. ¿Qué es un sistema de unidades, porqué se los denominan de esta manera? ¿Analice similitudes y diferencias en al menos tres sistemas de unidades diferentes? ¿Qué significan unidades fundamentales, complementarias y derivadas?
+Un Sistema de Unidades es un conjunto de elementos ordenados y organizados de unidades adoptados por convención. En general se componen por unidades fundamentales, derivadas y en algunos casos complementarias.
+
+Se lo denomina Sistema de Unidades ya que cumple con el concepto de sistema: Así vemos que es un conjunto de elementos dinámicamente relaciones entre sí, donde los elementos en este caso son las unidades.
+
+
+
+
+
+
