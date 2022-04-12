@@ -39,9 +39,45 @@ El método científico es una técnica que nos permite llegar a un conocimiento 
 5. Análisis 
 6. Conclusión
 
-La física es una **ciencia exacta que estudia cómo funciona el universo** al tomar en cuenta cuatro propiedades fundamentales que son **la energía, la materia, el tiempo y el espacio**, cómo interactúan y se afectan unas a otras. Para que la física sea considerada una ciencia, debe respetar ciertos patrones y criterios. Dentro de estos el principal es el método científico, gracias a este puede formular leyes aplicables a la generalidad. 
+La física es una **ciencia exacta que estudia cómo funciona el universo** al tomar en cuenta cuatro propiedades fundamentales que son **la energía, la materia, el tiempo y el espacio**, cómo interactúan y se afectan unas a otras. Para que la física sea considerada una ciencia, debe respetar ciertos patrones y criterios. Dentro de estos el principal es el método científico, gracias a este puede formular leyes aplicables a la generalidad de los distintos campos, como la fuerza o la aceleración. 
+
+La física es una ciencia experimental. Los físicos observan fenómenos naturales e intentan encontrar los patrones que los describes. Tales patrones se denominan teorías físicas o, si están muy bien establecidos y se usan ampliamente, leyes o principios físicos. 
+
+Esta disciplina puede dividirse en dos grandes categorías: Física Clásica y la Física moderna: 
+### Física clásica
+Se encarga del estudio de los distintos fenómenos en los que la **velocidad** es pequeña en comparación con la velocidad de propagación de la luz.
+	Se divide en:
++ Mecánica
+	+ Estática
+	+ Dinámica
+	+ Cinemática
++ Termodinámica
++ Óptica
++ Electromagnetismo 
++ Acústica
 
 
+### Física moderna 
+En el caso de la **física moderna,** se ocupa de estudiar los fenómenos que tienen lugar y son producidos por la velocidad de la luz o valore próximos a esta. La causa de ello es que la física clásica no es capaz de describir con precisión dichos fenómenos, y por lo tanto, la física moderna lleva a cabo el estudio de **fenómenos subatómicos.**
 
+-   **FÍSICA CUÁNTICA**: (Energía formada de "cuantos")
+-   **FÍSICA RELATIVA** :(Materia y energía son dos entidades relativas)
 
+En la materia se desarrollará los estudios bajo el alcance de la física clásica. 
 
+3.  Puede aplicar el método científico en la siguiente situación: María va al supermercado y realiza la misma compra que el mes anterior. Cuando regresa a su casa, compara los dos comprobantes de pago y descubre que ha gastado $135.- más.
+	1. Observación: María va al supermercado y realiza la misma compra que el mes anterior.
+	2. Inducción: ¿Será que María gasta lo mismo mes a mes? ¿Por qué gastará lo mismo?. En caso de que no gaste lo mismo ¿Por qué será? ¿Qué variables se tienen en cuenta a la hora de analizar los precios de un supermercado? ¿Qué variables se tienen en cuenta a la hora de la compra? ¿Existe el error humano en estos escenarios. Ej: se cobró mal?
+	3. Hipótesis: María mantiene los gastos mensuales iguales.
+	4. Experimentación y análisis: María compara los dos comprobantes de pago y se da cuenta que, a pesar de ser los mismos productos, el gasto por el conjunto de ellos ha aumentado. 
+	5. Conclusión: La hipótesis se ha refutado. María no mantiene los gastos mensuales iguales. Probablemente sea por el aumento de precios de los productos comprados. 
+
+4. Ahora realice la medición de una superficie de lo que usted desee, aplique el método científico para esta situación problemática. 
+1. Observación: Mi celular es más pesado que un conjunto de hojas por más que ocupen el mismo espacio.
+2. Inducción: ¿Por qué a pesar de ocupar el mismo espacio tienen distintos pesos? ¿Qué variables se tienen en cuenta a la hora de analizar los pesos? 
+3. Hipótesis: El promedio de la densidad de los componentes de mi celular es mayor al de las hojas, y por ende, es más pesado. 
+4. Experimentación y análisis: Volumen del celular: 
+	1. 150mm de altura
+	2. 8mm de espesor 
+	3.  78mm de base. 
+	Volumen = altura * base * espesor = 93,600 mm3
