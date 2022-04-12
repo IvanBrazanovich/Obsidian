@@ -116,7 +116,7 @@ Un Sistema de Unidades es un conjunto de elementos ordenados y organizados de un
 
 Se lo denomina Sistema de Unidades ya que cumple con el concepto de sistema: Así vemos que es un conjunto de elementos dinámicamente relaciones entre sí, donde los elementos en este caso son las unidades.
 
-
+![[Pasted image 20220412061821.png]]
 
 
 
