@@ -1,4 +1,0 @@
-Si es para tomar notas al final no es muy complicado me entedes de última si no te gusta lo que puedo hacer es aumentar un poco la letra pero no hay drama con eso si estoy leyendo bien esto después de todo 
-
-
-NO no tengo internet pero estoy probando esta apllicación que es para toamr notas la verdad no me gusta la idea de que en el colegio no exista poder rendir libres las cosas no me sirven para nada la vlerdad no me gusta para nada lo que puedo hacer si es que voy holgado con las cosas es ir pediendo a gente de años más adelantados que me presten la info así me pongo a estudiar    Uh esto capaz me sirve más que lo otro no sé voy  a ver que onda Mhhh puede ser que así me gusta más que lo demas 
