@@ -58,7 +58,7 @@ Se encarga del estudio de los distintos fenómenos en los que la **velocidad**�
 
 
 ### Física moderna 
-En el caso de la **física moderna,** se ocupa de estudiar los fenómenos que tienen lugar y son producidos por la velocidad de la luz o valore próximos a esta. La causa de ello es que la física clásica no es capaz de describir con precisión dichos fenómenos, y por lo tanto, la física moderna lleva a cabo el estudio de **fenómenos subatómicos.**
+En el caso de la **física moderna,** se ocupa de estudiar los fenómenos que tienen lugar y son producidos por la velocidad de la luz o valores próximos a esta. La causa de ello es que la física clásica no es capaz de describir con precisión dichos fenómenos, y por lo tanto, la física moderna lleva a cabo el estudio de **fenómenos subatómicos.**
 
 -   **FÍSICA CUÁNTICA**: (Energía formada de "cuantos")
 -   **FÍSICA RELATIVA** :(Materia y energía son dos entidades relativas)
