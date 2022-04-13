@@ -173,6 +173,29 @@ a) micro + unidad.
 El ancho de mi pieza medido con una cinta métrica es de  **con una precisión de** +- 0,01 cm **centimentros**
 **_Magnitud:_** Longitud (metros)
 
-**_Unidad:_**
+**_Unidad:_** 280
 
-**_Precisión:_**
+**_Precisión:_** 280 cm +- 0,1 cm
+
+
+7.  La segunda ley de Newton dice que la masa de un objeto por su aceleración es igual a la fuerza neta sobre el objeto. ¿Cuál de las siguientes proporciones las unidades correctas para la fuerza?
+![[Pasted image 20220412210636.png]]
+
+8.  Exprese las siguientes magnitudes usando los prefijos:
+![[Pasted image 20220412210800.png]]
+
+![[Pasted image 20220412210857.png]]
+
+
+9. Tomando en cuenta que las unidades de s [m], v [m/s], a [m/s2 ] y t [s]. Decidir si se aceptan o rechazan las siguientes ecuaciones de acuerdo con el análisis dimensional justificando su respuesta:
+![[Pasted image 20220412211127.png]]
+
+
+
+
+
+10.  Determine las “ecuaciones dimensionales” de las expresiones que se representan en la tabla, así como sus unidades en el SI en función de las unidades básicas de este sistema.
+
+
+
+12. 
