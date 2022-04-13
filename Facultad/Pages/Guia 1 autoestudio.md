@@ -116,8 +116,63 @@ Un Sistema de Unidades es un conjunto de elementos ordenados y organizados de un
 
 Se lo denomina Sistema de Unidades ya que cumple con el concepto de sistema: Así vemos que es un conjunto de elementos dinámicamente relaciones entre sí, donde los elementos en este caso son las unidades.
 
-![[Pasted image 20220412061821.png]]
+
+![[Pasted image 20220412203714.png]]
 
 
 
+7. ¿Qué entiende por redondeo y cifras significativas? ¿Existen reglas o costumbres para su utilización en operaciones o experiencias de laboratorios? ¿Cuál de ellas utiliza? ¿Cómo justifica su utilización?
+Cuando realizamos algún tipo de operación matemática puede ser interesante reducir el número de decimales que obtenemos para evitar trabajar con valores excesivamente grandes. El redondeo puede ayudar a esta tarea provocando que los resultados sean lo más precisos posibles.
 
+Se denomina redondeo al proceso de eliminar las cifras situadas a la derecha de la última cifra significativa. Por convención, el número de cifras significativas de un resultado deberá incluir todos los dígitos seguros y el primero afectado por error. Por ejemplo si se mide una longitud en metros con una incerteza de 0,001m la forma adecuada expresar el resultado sería.
+![[Pasted image 20220412204333.png]]
+
+
+8.  ¿Qué es el análisis dimensional? ¿Cuál es su importancia para la ciencia?
+El análisis dimensional es un método de análisis de las ecuaciones físicas que permite determinar las unidades en que se expresan las soluciones de dichas ecuaciones, utilizando únicamente las llamadas dimensiones fundamentales y las ecuaciones de dimensiones.
+Una ecuación de dimensiones de una magnitud es una relación escrita en una forma simbólica convencional, que indica en qué proporción se modifica la unidad ligada a esa magnitud cuando varían las unidades de las magnitudes fundamentales, llamadas unidades de base.
+Estas ecuaciones de dimensiones tienen su aplicación principal en la determinación de la homogeneidad de las igualdades físicas. Se entiende por homogeneidad la identidad entre las dimensiones de los miembros que forman la ecuación. Esta condición es necesaria, hasta el punto que si no se verifica se puede afirmar que existen errores de cálculo o de concepto.
+
+
+
+# Parte experimental 
+![[Pasted image 20220412204807.png]]
+
+La secuencia correcta para la aplicación del método experimental es la secuencia D.
+
+
+2. - El sistema de magnitudes y unidades de medidas del SI, está compuesto de:
+	1. Tres magnitudes y unidades fundamentales y dos complementarias.
+	2. Cinco magnitudes y unidades fundamentales y una complementaria
+	3. Siete magnitudes y unidades fundamentales y dos complementarias
+	4. Siete magnitudes derivadas con sus unidades y dos complementarias
+
+El sistema de magnitudes y unidades de medidas del SI, está compuesto de:
+c. Siete magnitudes y unidades fundamentales y dos complementarias.
+
+3. Las unidades de una magnitud expresada en el orden 6, por ejemplo, 7,35 x 106 y su unidad correspondiente la podemos simplificar como 7,35.
+a) micro + unidad; b) tera + unidad; c) mega + unidad; d) nano + unidad
+c) mega + unidad.
+
+
+4. Las unidades de una magnitud expresada en el orden de - 6, por ejemplo, 7,35 x 10-6 y su unidad correspondiente la podemos simplificar como 7,35.
+a) micro + unidad; b) tera + unidad; c) mega + unidad; d) nano + unidad
+
+a) micro + unidad. 
+
+
+
+5. 5.- Realice el análisis dimensional y justifique entonces cuál de las siguientes expresiones es incorrecta. x esta expresado en metros, v es la velocidad, m/s y a, la aceleración en m/s2. 
+
+![[Pasted image 20220412205833.png]]
+![[Pasted image 20220412210029.png]]
+![[Pasted image 20220412210037.png]]
+
+
+6. Deseamos saber cuál es el ancho de nuestra pieza medida con una cinta métrica. Exprese cual es la magnitud, la unidad, y la precisión de dicho fenómeno.
+El ancho de mi pieza medido con una cinta métrica es de  **con una precisión de** +- 0,01 cm **centimentros**
+**_Magnitud:_** Longitud (metros)
+
+**_Unidad:_**
+
+**_Precisión:_**
