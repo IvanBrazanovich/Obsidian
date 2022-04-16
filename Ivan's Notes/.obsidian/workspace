@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Night routine.md",
+            "file": "Pages/Remember.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Night routine.md",
+                "file": "Pages/Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "c7e0921410872319",
   "lastOpenFiles": [
+    "Pages/Remember.md",
+    "000 Home.md",
     "Pages/Night routine.md",
     "Planning.md",
     "Pages/Fresh.md",
-    "000 Home.md",
     "001 Mentality.md",
     "Health Tracker.md",
     "Pages/Review.md",
     "Pages/Comida.md",
-    "Pages/Ejercicio.md",
-    "Pages/Estudiar.md"
+    "Pages/Ejercicio.md"
   ]
 }
