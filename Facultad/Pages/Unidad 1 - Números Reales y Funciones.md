@@ -10,7 +10,7 @@ Números Reales. Intervalos. Entorno. Entorno Reducido. Conjuntos Acotados. Extr
 
 
 [[Clase 3 AM  teoría]]
-
+[[Esutdio]]
 
 
 
