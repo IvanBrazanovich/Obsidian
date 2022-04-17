@@ -7,6 +7,10 @@
 [[Unidad 7 - Cónicas]]
 
 
+
+# Clases FORMA :: clase dd/mm
+
+
 Cuando me piden encontrar el versor de un tridiimmensional. Se pone todo al cuadrado y sumarlo y tienne que dar 1.
 
 
