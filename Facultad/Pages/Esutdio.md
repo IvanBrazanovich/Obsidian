@@ -4,4 +4,4 @@
 + Definición de función 
 + f es la expresión y f(x) es la imágen
 + Definición de función de variable real 
-+ 
++ c
