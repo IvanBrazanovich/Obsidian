@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Matemática Discreta.md",
+            "file": "Pages/Cotas, extremos  y elementos de un conjunto.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Matemática Discreta.md",
+                "file": "Pages/Cotas, extremos  y elementos de un conjunto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Matemática Discreta.md",
+                "file": "Pages/Cotas, extremos  y elementos de un conjunto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +102,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Matemática Discreta.md",
+    "Pages/Cotas, extremos  y elementos de un conjunto.md",
+    "Pages/Clases viejas AM.md",
+    "Pages/Análisis Matemático 1.md",
+    "Pages/Unidad 1 - Números Reales y Funciones.md",
     "000 Home.md",
+    "Pages/Matemática Discreta.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Álgebra y Geometría Analítica.md",
-    "Pages/Análisis Matemático 1.md",
-    "Pages/Expresión en coordenadas.md",
-    "Pages/Unidad 4 - Vectores.md",
-    "Pages/Vectores.md",
-    "Pages/Unidad 1 - Números Reales y Funciones.md"
+    "Pages/Expresión en coordenadas.md"
   ]
 }
