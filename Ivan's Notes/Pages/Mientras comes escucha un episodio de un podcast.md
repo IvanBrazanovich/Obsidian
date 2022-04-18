@@ -1,0 +1,1 @@
+Si me pongo a mirar la tele pierdo una banda de tiempo, luego me siento mal y luego termino haciendo todas las cosas malas que no tengo que hacer. 

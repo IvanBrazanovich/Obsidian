@@ -1,0 +1,1 @@
+Estoy acostumbrado a responder siempre y a romper las bolas todo el tiempo en clases. A nadie le gusta eso, ni a mí. Yo sé por qué lo hago, muy por dentro quiero probar a todos y a mí mismo que soy inteligente. De ahora en más calladito tengo que estar, y las respuestas que quiero dar en clase me las guardo para mí. Solo voy a hablar cuando tengo que preguntar algo 

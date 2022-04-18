@@ -1,0 +1,2 @@
+Muchas veces me abrumo porque pienso que tengo que hacer mil cosas. 
+En realidad no tengo que hacer nada, yo decido hacer o no las cosas. Tengo que limpiar mi cabeza y decirme que no tengo nada que hacer, que yo quiero hacer tal y tal cosa. Pero tengo que limpiar mi cabeza primero

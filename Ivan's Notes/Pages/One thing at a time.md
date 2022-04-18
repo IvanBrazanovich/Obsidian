@@ -1,0 +1,1 @@
+Es increíble lo bien que me hizo dejar de pensar en todas las cosas que quiero hacer y concentrarme solo en la siguiente cosa. Tengo que dejar de pensar en conjuntos y comenzar a pensar en un problema a la vez. 
