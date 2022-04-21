@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Night routine.md",
+            "file": "Pages/How things go.md",
             "mode": "source",
             "source": false
           }
@@ -19,11 +19,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "51345f2d425d8e3e",
+    "id": "587f46b5d0588243",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b645c08803371217",
+        "id": "950fab5fd8e8b55e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -31,7 +31,7 @@
         }
       },
       {
-        "id": "b850da565c95dccf",
+        "id": "1b8df6f1cccc74c0",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -49,16 +49,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "575f232b511e4ee1",
+    "id": "7b228ad63fab86f6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d724b80a53874cf3",
+        "id": "92c20885369c850e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Pages/Night routine.md",
+            "file": "Pages/How things go.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,15 +74,15 @@
   },
   "active": "c7e0921410872319",
   "lastOpenFiles": [
-    "Pages/Night routine.md",
+    "Pages/How things go.md",
     "000 Home.md",
+    "Pages/Night routine.md",
     "Pages/Remember.md",
     "Pages/Enfoque en las cosas importantes.md",
     "Planning.md",
     "Pages/Fresh.md",
     "001 Mentality.md",
     "Health Tracker.md",
-    "Pages/Review.md",
-    "Pages/Comida.md"
+    "Pages/Review.md"
   ]
 }

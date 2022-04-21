@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "How things go",
+      "path": "Pages/How things go.md"
+    },
+    {
       "basename": "000 Home",
       "path": "000 Home.md"
+    },
+    {
+      "basename": "Night routine",
+      "path": "Pages/Night routine.md"
     },
     {
       "basename": "Remember",
@@ -59,10 +67,6 @@
     {
       "basename": "Insoportable en el salón",
       "path": "Pages/Insoportable en el salón.md"
-    },
-    {
-      "basename": "Night routine",
-      "path": "Pages/Night routine.md"
     },
     {
       "basename": "Planning",
