@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c4c6a2e5d74c1b9",
+    "id": "2bed4e2f3bb3ec49",
     "type": "split",
     "children": [
       {
-        "id": "7e0c6ff890a0298d",
+        "id": "fb554cdbc4e0755e",
         "type": "tabs",
         "children": [
           {
-            "id": "5e3375e16153451e",
+            "id": "c3786e600f48392a",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "6b4de61f532a4caf",
+            "id": "102a43cd32b56521",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "15c2ae36b947b9b0",
+            "id": "7f1515a1093b6222",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,22 +57,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "70e87eb19f3ad86e",
+    "id": "abd0663066c08046",
     "type": "split",
     "children": [
       {
-        "id": "f7d32c51281d4e2a",
+        "id": "7384202e1ec9ed07",
         "type": "tabs",
         "children": [
           {
-            "id": "3e64e382c98ae534",
+            "id": "22ec7e402a07e7a9",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,7 +82,7 @@
             }
           },
           {
-            "id": "e00df4a0b1a250ff",
+            "id": "51befa5003af7972",
             "type": "leaf",
             "state": {
               "type": "backlink",

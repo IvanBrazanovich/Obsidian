@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Clase AM 18/04/2022.md",
+            "file": "Pages/Ejercicios TP.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffc0c2417b01c928",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase AM 18/04/2022.md",
+                "file": "Pages/Ejercicios TP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase AM 18/04/2022.md",
+                "file": "Pages/Ejercicios TP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/Ejercicios TP.md",
+    "Pages/Algoritmos y Estructuras de Datos.md",
+    "000 Home.md",
     "Clase AM 18/04/2022.md",
     "Pages/Análisis Matemático 1.md",
-    "000 Home.md",
     "Pages/Matemática Discreta.md",
     "Pages/Unidad 1 - Números Reales y Funciones.md",
-    "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Álgebra y Geometría Analítica.md",
-    "Pages/Expresión en coordenadas.md",
-    "Pages/Unidad 4 - Vectores.md"
+    "Pages/Expresión en coordenadas.md"
   ]
 }
