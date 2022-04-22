@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "000 Home",
+      "path": "000 Home.md"
+    },
+    {
       "basename": "How things go",
       "path": "Pages/How things go.md"
     },
     {
-      "basename": "000 Home",
-      "path": "000 Home.md"
+      "basename": "Planning",
+      "path": "Planning.md"
+    },
+    {
+      "basename": "Health Tracker",
+      "path": "Health Tracker.md"
     },
     {
       "basename": "Night routine",
@@ -67,14 +75,6 @@
     {
       "basename": "Insoportable en el salón",
       "path": "Pages/Insoportable en el salón.md"
-    },
-    {
-      "basename": "Planning",
-      "path": "Planning.md"
-    },
-    {
-      "basename": "Health Tracker",
-      "path": "Health Tracker.md"
     },
     {
       "basename": "Review",

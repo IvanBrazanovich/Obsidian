@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/How things go.md",
+            "file": "000 Home.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/How things go.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
   },
   "active": "c7e0921410872319",
   "lastOpenFiles": [
-    "Pages/How things go.md",
     "000 Home.md",
+    "Pages/How things go.md",
+    "Planning.md",
+    "Health Tracker.md",
     "Pages/Night routine.md",
     "Pages/Remember.md",
     "Pages/Enfoque en las cosas importantes.md",
-    "Planning.md",
     "Pages/Fresh.md",
     "001 Mentality.md",
-    "Health Tracker.md",
     "Pages/Review.md"
   ]
 }
