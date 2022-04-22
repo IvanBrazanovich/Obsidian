@@ -45,3 +45,53 @@ No importa el orden, los resultados son los mismos.
 
 ## Ejercicios con estructuras secuenciales
 ### Diseñe un algoritmo que permita resolver cada uno de los ejercicios enunciados a continuación:
+![[Pasted image 20220422055704.png]]
+![[Pasted image 20220422055620.png]]
+
+![[Pasted image 20220422055718.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
