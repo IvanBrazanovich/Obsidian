@@ -39,3 +39,9 @@
 7. ![[Pasted image 20220423063631.png]]
 8. ![[Pasted image 20220423082140.png]]
 9. 
+
+
+
+# Tiro Parabólico
+1. ![[Pasted image 20220423093227.png]] ![[Pasted image 20220423093253.png]]
+2. 
