@@ -58,7 +58,7 @@ No importa el orden, los resultados son los mismos.
 ![[Pasted image 20220423172559.png]]
 
 
-
+![[Pasted image 20220423175303.png]]
 
 
 
