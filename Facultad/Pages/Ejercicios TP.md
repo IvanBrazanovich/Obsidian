@@ -49,10 +49,11 @@ No importa el orden, los resultados son los mismos.
 ![[Pasted image 20220422055620.png]]
 
 ![[Pasted image 20220422055718.png]]
+![[Pasted image 20220423170753.png]] ![[Pasted image 20220423170805.png]]
 
 
 
-
+![[Pasted image 20220423170836.png]]
 
 
 
