@@ -7,7 +7,5 @@
 
 
 # Clases FORMA :: clase dd/mm
-[[Clase 1 AyED]]
-
-
+[[Ejercicios TP]]
 
