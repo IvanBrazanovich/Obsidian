@@ -54,4 +54,6 @@
 
 # MCU
 1. ![[Pasted image 20220424123152.png]]
-2. 
+2. ![[Pasted image 20220424135642.png]] ![[Pasted image 20220424135650.png]]
+3. ![[Pasted image 20220424140352.png]] 
+4. ![[Pasted image 20220424140817.png]]
