@@ -51,3 +51,7 @@
 6. ![[Pasted image 20220424091546.png]] ![[Pasted image 20220424091557.png]]  
 7. ![[Pasted image 20220424114025.png]] ![[Pasted image 20220424114037.png]]
 8. ![[Pasted image 20220424115923.png]] ![[Pasted image 20220424115934.png]] 
+
+# MCU
+1. ![[Pasted image 20220424123152.png]]
+2. 
