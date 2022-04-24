@@ -56,4 +56,9 @@
 1. ![[Pasted image 20220424123152.png]]
 2. ![[Pasted image 20220424135642.png]] ![[Pasted image 20220424135650.png]]
 3. ![[Pasted image 20220424140352.png]] 
-4. ![[Pasted image 20220424140817.png]]
+4. ![[Pasted image 20220424140817.png]] 
+5. ![[Pasted image 20220424142300.png]] ![[Pasted image 20220424142311.png]]
+6. ![[Pasted image 20220424143219.png]]
+7. 
+
+
