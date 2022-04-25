@@ -62,3 +62,14 @@
 7. 
 
 
+
+
+
+# MRUV
+1. ![[Pasted image 20220425162208.png]] ![[Pasted image 20220425162220.png]]
+2. ![[Pasted image 20220425162643.png]]
+3. ![[Pasted image 20220425163156.png]]
+4. ![[Pasted image 20220425163542.png]]
+5. ![[Pasted image 20220425164712.png]]
+
+
