@@ -71,5 +71,7 @@
 3. ![[Pasted image 20220425163156.png]]
 4. ![[Pasted image 20220425163542.png]]
 5. ![[Pasted image 20220425164712.png]]
+6. ![[Pasted image 20220425165625.png]] ![[Pasted image 20220425165634.png]]
+ 
 
 
