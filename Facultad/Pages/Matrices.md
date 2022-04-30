@@ -144,7 +144,14 @@ Es básicamente donde el vector i queda, siendo 3 el vector que habla de las hor
 
 ### De matrices a vectores 
 ![[Pasted image 20220430194103.png]]
-Básicamente lo que te dice la ecuación es lo siguiente: ¿Qué vector de la columna del medio al pasarla por la matriz de la izquierda me ubicará un vector de la columna derecha?
+Básicamente lo que te dice la ecuación es lo siguiente: ¿Qué vector de la columna del medio al aplicarle la transformación lineal  de la matriz de la izquierda me ubicará un vector de la columna derecha?
+
+
+![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-19-23.mp4]]
+
+
+
+
 
 
 
@@ -167,7 +174,7 @@ Una determinante es el factor por el cual una transformación lineal aumenta o d
 
 
 #### ¿Cuándo una determinante es 0?
-Cuando las transformaciones lineales son dependientes o 0.
+Cuando las columnas de la transformación son linealmente dependientes.
 
 ![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-51-53.mp4]]
 
@@ -186,4 +193,35 @@ Cuando se invierte el espacio, o sea que en vez de que j esté a la izquierda de
 
 
 #### ¿Por qué es negativa una determinante?
-Porque mientras i se va acercando a j, se va acercando a 0 el área de la determinante, luego de que la pasa, es natural que se considere como negaiv
+Porque mientras i se va acercando a j, se va acercando a 0 el área de la determinante, luego de que la pasa, es natural que se considere como negativo.
+
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-56-39.mp4]]
+
+
+
+
+#### ¿Qué pasa con las determinantes en 3d?
+Lo único que cambia es que ahora busca el factor por el cual aumenta o decrece el volumen
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-58-01.mp4]]
+
+
+#### Determinante 0 en 3d 
+Es cuando el volumen termina siendo 0 porque las columnas de la transformación lineal son dependientes.
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-59-38.mp4]]
+
+
+
+#### Formula para el cálculo de la determinante de una matriz 2x2
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-02-48.mp4]]
+
+
+#### Gráficamente el cálculo
+![[Pasted image 20220430200420.png]]
+
+
+
+
+### ¿Qué es la inversa de una matriz?
+Es la inversa de la transformación lineal, o sea, te devuelve el vector con el que empezaste si le das un vector cualquiera.
+
+![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-24-16.mp4]]![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-19-23 1.mp4]]
