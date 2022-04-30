@@ -108,9 +108,30 @@ Dada la primera transformación, la primera columna nos dará donde quedó el ve
 ![[Matrix multiplication as composition _ Chapter 4, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-41-05.mp4]]
 
 
+#### ¿Qué pasa con las transformaciones lineales en 3 dimensiones?
+Es lo mismo que con 2 dimensiones, se pueden representar las transformaciones con solo 9 números. 
+
+![[Three-dimensional linear transformations _ Chapter 5, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-20-56.mp4]]
+
+
+#### Calcular nuevo vector a partir de las transformaciones de los versores
+![[Pasted image 20220430192220.png]]
+
+
+
+
+
 
 ### Vectores como matrices
 Dada dos ecuaciones lineales del tipo 
 ![[Pasted image 20220430174159.png]]
 Podemos decir que dados dos valores de x e y nos va a dar un valor x' e y' que se encuentra en el plano.
+
+
+
+
+
+### Vectores a partir de matrices 
+![[Pasted image 20220430191357.png]]
+Dada 2 ecuaciones lineales, se puede dividir en vectores las ecuaciones de manera que nos den dos vectores tal que sumados nos den el vector resultado, en este caso (8,-2)
 
