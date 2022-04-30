@@ -87,6 +87,25 @@ Dada la coordenada donde cayó  el versor i (a,c) y donde cayó versor j (b,c) v
 
 
 
+#### ¿Qué es la composición de transformaciones?
+Si primero le hacemos una transformación a un vector, y luego le hacemos otra transformación, es lo mismo que hacerle la multiplicación de las dos transformaciones por el vector. 
+
+![[Matrix multiplication as composition _ Chapter 4, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-31-53.mp4]]
+![[Pasted image 20220430183315.png]]
+Recordemos que primero se aplica lo que está a la derecha y luego lo que está a la izquierda.
+
+#### ¿Cómo podemos calcular la posición de los versores luego una composición de transformaciones?
+Dada la primera transformación, la primera columna nos dará donde quedó el versor i, por lo que debemos multiplicar la segunda transformación por i para saber donde queda i al final. Luego multiplicaremos j por los valores que nos había dado en un principio, al igual que i. 
+
+![[Matrix multiplication as composition _ Chapter 4, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-37-48.mp4]]
+
+#### Más generalmente
+
+![[Matrix multiplication as composition _ Chapter 4, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-39-18.mp4]]
+
+
+#### las multiplicaciones generalmente no son conmutativas
+![[Matrix multiplication as composition _ Chapter 4, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-41-05.mp4]]
 
 
 
