@@ -43,6 +43,52 @@ Las transformaciones lineales son lo que suenan, son transformaciones lineales q
 
 
 
+#### ¿Qué debe cumplir para ser una transformación lineal ?
++ Todas las líneas deben continuar siendo líneas
++ El origen no se puede mover
+
+
+
+
+#### ¿Cómo representar transformaciones lineales?
+Resulta que solo necesitas los versores i e j. Esto es debido a que las transformaciones lineales mantienen las proporcionalidades. 
+
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-00-16.mp4]]
+
+
+Básicamente lo que estás haciendo es multiplicar los números que tenías como coeficientes en un principio por las transformaciones de los versores. 
+
+Ejemplo:
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-03-22.mp4]]
+
+Esto significa que podemos saber donde cae cualquier punto en el plano solamente sabiendo donde quedaron los versores.
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-08-00.mp4]]
+
+
+
+#### Más generalmente 
+Dada la coordenada donde cayó  el versor i (a,c) y donde cayó versor j (b,c) vemos que la multiplicación de cualquier punto de x por la transformación de i y te dará la nueva ubicación de x de ese nuevo vector, lo mismo con el versor j. 
+
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-17-37.mp4]]
+
+
+
+#### ¿Qué pasa si roto 90 grados anti reloj? ¿Cómo puedo representarlo con matrices?
+
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-20-41.mp4]]
+
+
+
+#### ¿Qué pasa si los vectores donde caen los versores i y j son dependientes?
+
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-22-16.mp4]]
+
+
+
+
+
+
+
 
 ### Vectores como matrices
 Dada dos ecuaciones lineales del tipo 
