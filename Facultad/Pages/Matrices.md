@@ -224,4 +224,24 @@ Es cuando el volumen termina siendo 0 porque las columnas de la transformación 
 ### ¿Qué es la inversa de una matriz?
 Es la inversa de la transformación lineal, o sea, te devuelve el vector con el que empezaste si le das un vector cualquiera.
 
-![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-24-16.mp4]]![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-19-23 1.mp4]]
+![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-24-16.mp4]]![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-26-14.mp4]]![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-29-04.mp4]]
+
+
+
+### ¿Qué transformación lineal no hace nada?
+La identidad, debido a que deja a i en el lugar y a j en el lugar. Es por eso que multiplicar A por la inversa de A te da una matriz identidad.
+![[Pasted image 20220430202804.png]]
+
+
+
+
+
+### ¿Qué es el rango de una matriz?
+Es la cantidad de dimensiones que presenta la salida de una transformación lineal.
++ Si una transformación lineal (matriz) pasada por una entrada bidimensional tiene una salida bidimensional tiene un rango de 2.
++ Si una entrada tridimensional tiene una salida bidimensional tiene rango 2.
++ Si una entrada tridimensional tiene una salida unidimensional tiene un rango 1.
+
+Se podría decir que es el número de dimensiones en el espacio de las columnas
+![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-34-01.mp4]]
+
