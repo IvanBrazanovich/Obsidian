@@ -135,3 +135,55 @@ Podemos decir que dados dos valores de x e y nos va a dar un valor x' e y' que s
 ![[Pasted image 20220430191357.png]]
 Dada 2 ecuaciones lineales, se puede dividir en vectores las ecuaciones de manera que nos den dos vectores tal que sumados nos den el vector resultado, en este caso (8,-2)
 
+![[Pasted image 20220430193322.png]]
+De manera que la columna izquierda 
+![[Pasted image 20220430193844.png]]
+Es básicamente donde el vector i queda, siendo 3 el vector que habla de las horizontales y el -2 de las verticales. Lo mismo sucede con la columna derecha. 
+
+
+
+### De matrices a vectores 
+![[Pasted image 20220430194103.png]]
+Básicamente lo que te dice la ecuación es lo siguiente: ¿Qué vector de la columna del medio al pasarla por la matriz de la izquierda me ubicará un vector de la columna derecha?
+
+
+
+### Determinantes 
+Una determinante es el factor por el cual una transformación lineal aumenta o decrece el área de una determinada región. 
+
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-44-35.mp4]]
+
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-49-53.mp4]]
+
+#### Ejemplo de un determinante
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-46-35.mp4]]
+
+
+#### Aplicaciones generales 
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-47-54.mp4]]
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-48-51.mp4]]
+
+
+
+
+#### ¿Cuándo una determinante es 0?
+Cuando las transformaciones lineales son dependientes o 0.
+
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-51-53.mp4]]
+
+
+
+
+#### ¿Cuándo una determinante es negativa?
+Cuando se invierte el espacio, o sea que en vez de que j esté a la izquierda de i, será al revés.
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-54-18.mp4]]
+
+
+
+
+#### Ejemplo de una determinante negativa
+![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-55-05.mp4]]
+
+
+#### ¿Por qué es negativa una determinante?
+Porque mientras i se va acercando a j, se va acercando a 0 el área de la determinante, luego de que la pasa, es natural que se considere como negaiv
