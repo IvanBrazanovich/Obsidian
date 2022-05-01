@@ -245,3 +245,23 @@ Es la cantidad de dimensiones que presenta la salida de una transformación line
 Se podría decir que es el número de dimensiones en el espacio de las columnas
 ![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-34-01.mp4]]
 
+
+### ¿Qué pasa con las matrices rectangulares o las transformaciones lineales rectangulares?
+Es lo mismo, en el caso de:
+![[Pasted image 20220501073317.png]]
+Pasa lo mismo, i cambiaría de lugar y j también. Lo único que pasa es que siguen siendo 2d, el plano se mueve solamente. 
+![[Pasted image 20220501073450.png]]
+![[Pasted image 20220501073549.png]]
+En este caso podemos ver que es un plano que corta al origen del espacio. Sigue teniendo un rango total, debido a que sigue siendo solamente un plano. 
+La cantidad de columnas indica cuántos versores tiene, mientras que la cantidad de filas indica que la ubicación se indica con 3 distintas coordenadas.
+
+
+### Del espacio al plano 
+En el siguiente caso vemos que tiene 3 columnas, lo que significa que empieza con 3 versores, y luego vemos que tiene 2 filas, lo que significa que los versores se pueden indicar solamente con 2 coordenadas, de manera que quedaron en el plano, pasaron de ser 3d a 2d.
+![[Pasted image 20220501074015.png]]
+![[Pasted image 20220501074146.png]]
+
+
+### Del plano a una dimensión
+También puede haber una transformación de 2d a 1d. 
+![[Nonsquare matrices as transformations between dimensions _ Chapter 8, Essence of linear algebra - YouTube - Google Chrome 2022-05-01 07-44-25.mp4]]
