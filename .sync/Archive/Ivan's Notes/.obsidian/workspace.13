@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "39d2cbd2a501afea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7e0921410872319",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c4c6a2e5d74c1b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0c6ff890a0298d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e3375e16153451e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b4de61f532a4caf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15c2ae36b947b9b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70e87eb19f3ad86e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d32c51281d4e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e64e382c98ae534",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e00df4a0b1a250ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7e0921410872319",
+  "lastOpenFiles": [
+    "000 Home.md",
+    "Pages/How things go.md",
+    "Planning.md",
+    "Health Tracker.md",
+    "Pages/Night routine.md",
+    "Pages/Remember.md",
+    "Pages/Enfoque en las cosas importantes.md",
+    "Pages/Fresh.md",
+    "001 Mentality.md",
+    "Pages/Review.md"
+  ]
+}

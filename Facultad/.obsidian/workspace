@@ -20,86 +20,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6152d29c65f9c1b7",
-    "type": "split",
+    "id": "ea80818d7d4973b7",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "e27a285fe315bbfb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee4119280d59ea69",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e99dffeab22c65e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "globalismo",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "df3f8bc3e06b5234",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2116401a01d4df73",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "right": {
-    "id": "ffc0c2417b01c928",
-    "type": "split",
+    "id": "233fb7d1f2c92d25",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "00846205cbc0022c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9709ea1673974069",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Pages/Matrices.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1b22fcfbf73a4434",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Pages/Matrices.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "eaf532d9e20fdf4b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Pages/Matrices.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "07980d04c1b79a4d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Pages/Matrices.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
