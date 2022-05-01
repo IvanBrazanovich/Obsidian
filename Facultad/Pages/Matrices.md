@@ -265,3 +265,13 @@ En el siguiente caso vemos que tiene 3 columnas, lo que significa que empieza co
 ### Del plano a una dimensión
 También puede haber una transformación de 2d a 1d. 
 ![[Nonsquare matrices as transformations between dimensions _ Chapter 8, Essence of linear algebra - YouTube - Google Chrome 2022-05-01 07-44-25.mp4]]
+
+
+
+
+### Cálculo del producto punto 
+![[Pasted image 20220501101011.png]]
+
+
+
+O sea que te transforma vectores a números porque los pasa a una dimension
