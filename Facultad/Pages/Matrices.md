@@ -274,4 +274,5 @@ También puede haber una transformación de 2d a 1d.
 
 
 
-O sea que te transforma vectores a números porque los pasa a una dimension
+O sea que te transforma vectores a números porque los pasa a una dimensión
+Ok no hace la transformación hacia el coso, sino lo que hace es como poner una unidad ahí medio rara.
