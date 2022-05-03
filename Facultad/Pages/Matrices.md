@@ -311,3 +311,14 @@ Las proyecciones de los vectores 2d se pueden tomar como 1d bajo una transformac
 # Cross Product
 Es el área del paralelogramo formado por dos vectores. Se calcula con la determinante. 
 ![[Pasted image 20220503164235.png]]
+
+### Deep 
+Básicamente lo que se está buscando es un vector P tal que al hacerle el producto escalar con un vector que se comparte en ambas ecuaciones, nos va a dar igual.
+![[Pasted image 20220503165909.png]]
+Y como las componentes de la matriz derecha son:
+![[Pasted image 20220503165952.png]]
+Se da que las componentes de P son las mismas que las componentes del determinante. 
+### Gráficamente 
+
+![[Cross products in the light of linear transformations _ Chapter 11, Essence of linear algebra - YouTube - Google Chrome 2022-05-03 17-02-02.mp4]]
+
