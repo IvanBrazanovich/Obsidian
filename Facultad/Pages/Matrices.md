@@ -276,3 +276,38 @@ También puede haber una transformación de 2d a 1d.
 
 O sea que te transforma vectores a números porque los pasa a una dimensión
 Ok no hace la transformación hacia el coso, sino lo que hace es como poner una unidad ahí medio rara.
+
+
+### De punto a proyección a número 
+![[Pasted image 20220503162139.png]]
+Dada una línea de números, la proyección de cualquier punto en la línea de números te da un número. Esto significa que creaste una transformación linear que convierte puntos/vectores en unidades.
+
+### Encontrando esa transformación lineal 
+1. Primero debemos encontrar donde aterrizan i y j, debido a que serán las columnas de nuestra nueva transformación lineal.
+
+![[Pasted image 20220503162532.png]]
+2. Debido a que son vectores unitarios, la proyección de u en i es la misma que la de i en u. De la siguiente manera. 
+ ![[Pasted image 20220503162648.png]]
+3. Lo mismo para j
+![[Pasted image 20220503162728.png]]
+
+4. El resultado de la transformación será.
+![[Pasted image 20220503162751.png]]
+
+De esto resulta que para cualquier vector, la multiplicación de las proyecciones de u en i y j, resultan lo mismo que la multiplicación. ![[Pasted image 20220503162915.png]]
+![[Pasted image 20220503163032.png]]
+
+
+
+### Para vectores de u no unitarios. 
+![[Dot products and duality _ Chapter 9, Essence of linear algebra - YouTube - Google Chrome 2022-05-03 16-32-44.mp4]]
+
+### Conversión de vectores a 1d
+![[Pasted image 20220503163557.png]]
+Las proyecciones de los vectores 2d se pueden tomar como 1d bajo una transformación
+
+
+
+# Cross Product
+Es el área del paralelogramo formado por dos vectores. Se calcula con la determinante. 
+![[Pasted image 20220503164235.png]]
