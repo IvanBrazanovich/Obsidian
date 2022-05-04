@@ -130,3 +130,28 @@ Desarrollo por los elementos de una línea
 
 
 ### Cofactor o adjunto de un elemento 
+![[Pasted image 20220504194326.png]]
+
+
+
+### Matriz Regular 
+Cuando su determinante no es nulo
+
+
+### Matriz Singular 
+Cuando su determinante es nulo
+
+
+
+### Matriz Adjunta 
+
+Dada una matriz A cuadrada se llama adjunta de A a la matriz que se obtiene reemplazando cada elemento de la transpuesta de A por su adjunto. 
+
+![[Pasted image 20220504194732.png]]
+
+
+
+### Matriz Inversa 
+
+
+
