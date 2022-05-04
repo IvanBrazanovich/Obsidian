@@ -81,3 +81,52 @@ Son las operaciones que podemos realizar en una matriz sin que su rango varíe:
 
 
 
+### Cálculo del rango de una matriz por el método de Gauss
++ Aplicar op. elementales => triangular la matriz
++ Rango => Número de filas no nulas.
+
+![[Pasted image 20220504191610.png]]
+
+
+
+
+
+# Determinantes 
+
+
+### Determinantes de primer orden 
+Si la matriz es de 1x1, el determinante es igual al único elemento de dicha matriz. 
+
+
+
+
+### Determinantes de segundo orden 
+Dada una matriz de orden dos, se llama determinante de la matriz al número que se obtiene así: 
+![[Pasted image 20220504193135.png]]
+
+![[Pasted image 20220504193141.png]]
+
+Se representa Det(A) ó |A|
+
+
+
+### Determinantes de tercer Orden 
+Si A es una matriz cuadrada de orden 3, se llama determinante de A al número que se obtiene aplicando la regla de Sarrus. LA REGLA DE SARRUS ES VÁLIDA ÚNICAMENTE PARA DETERMINATNES DE ORDEN 3. 
+
+
+
+### Calcular determinante para cualquier orden 
+Desarrollo por los elementos de una línea 
+
+
+### Definición Axiomática de determinante
+
+![[Pasted image 20220504193359.png]]
+
+
+
+### Menor complementario del elemento aij.
+![[Pasted image 20220504194115.png]]
+
+
+### Cofactor o adjunto de un elemento 
