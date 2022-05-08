@@ -40,6 +40,13 @@
 
 
 
+### ¿Qué es una matriz?
+Una matriz de clase “mxn” es un conjunto  de números ordenado en “m” renglones (o filas) y “n” columnas.
+
+
+#### ¿Cuándo las matrices son iguales?
+Dos matrices A = (aij)m×n y B = (bij)p×q son iguales, sí y solo si, tienen en los mismo lugares elementos iguales, es decir :
+
 
 
 ### Dependencia lineal entre filas 
@@ -92,7 +99,7 @@ Son las operaciones que podemos realizar en una matriz sin que su rango varíe:
 
 
 # Determinantes 
-
+Es toda función que asigna a cada matriz cuadrada un escalar llamado determinante de la matriz.
 
 ### Determinantes de primer orden 
 Si la matriz es de 1x1, el determinante es igual al único elemento de dicha matriz. 
@@ -125,12 +132,30 @@ Desarrollo por los elementos de una línea
 
 
 
+### ¿Qué propiedades se deducen de los axiomas?
+
+![[Pasted image 20220508070639.png]]
+![[Pasted image 20220508070645.png]]
+
+
+
 ### Menor complementario del elemento aij.
 ![[Pasted image 20220504194115.png]]
-
+![[Pasted image 20220508070830.png]]
 
 ### Cofactor o adjunto de un elemento 
+![[Pasted image 20220508070907.png]]
 ![[Pasted image 20220504194326.png]]
+
+
+
+
+### Desarrollo de un determinante por los elementos de una línea 
+![[Pasted image 20220508071038.png]]
+![[Pasted image 20220508071056.png]]
+
+### Otras propiedades de los determinantes
+![[Pasted image 20220508071209.png]]
 
 
 
@@ -149,9 +174,66 @@ Dada una matriz A cuadrada se llama adjunta de A a la matriz que se obtiene reem
 
 ![[Pasted image 20220504194732.png]]
 
-
+### Propiedad de la matriz adjunta 
+![[Pasted image 20220508071323.png]]
 
 ### Matriz Inversa 
+![[Pasted image 20220508071458.png]]
+
+#### Demostración de que las inversas de las matrices son únicas
+![[Pasted image 20220508071645.png]]
+
+
+
+
+### Propiedades de la inversa
+1. La inversa de una matriz es única
+![[Pasted image 20220508071727.png]]
+
+
+
+### Cálculo de la matriz inversa utilizando matriz adjunta 
+![[Pasted image 20220508072028.png]]
+![[Pasted image 20220508071839.png]]
+![[Pasted image 20220508071846.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
