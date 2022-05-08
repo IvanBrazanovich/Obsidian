@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Primer  Parcial.md",
+            "file": "Pages/Matrices.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Primer  Parcial.md",
+                "file": "Pages/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Primer  Parcial.md",
+                "file": "Pages/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,12 +103,12 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Primer  Parcial.md",
-    "Pages/Unidad 1 - Matrices.md",
-    "Pages/Álgebra y Geometría Analítica.md",
-    "000 Home.md",
     "Pages/Matrices.md",
     "Pages/Unidad 2 - Matrices.md",
+    "Pages/Álgebra y Geometría Analítica.md",
+    "Pages/Unidad 1 - Matrices.md",
+    "Pages/Primer  Parcial.md",
+    "000 Home.md",
     "Pages/Ejercicios 1.md",
     "Pages/Unidad 2 - Cinemática de la partícula.md",
     "Pages/Física 1.md",

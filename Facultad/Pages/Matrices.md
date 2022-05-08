@@ -207,7 +207,7 @@ Lo único que cambia es que ahora busca el factor por el cual aumenta o decrece 
 
 #### Determinante 0 en 3d 
 Es cuando el volumen termina siendo 0 porque las columnas de la transformación lineal son dependientes.
-![[The determinant _ Chapter 6, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 19-59-38.mp4]]
+ 
 
 
 
