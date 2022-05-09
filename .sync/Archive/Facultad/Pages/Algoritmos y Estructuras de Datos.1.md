@@ -8,13 +8,6 @@
 
 # Clases FORMA :: clase dd/mm
 [[Clase 1 AyED]]
-[[Clase 2 AyED 27-04-2022]]
-[[Clase 3 AyED 29-04-2022]]
-[[Clase 4 AyED 4-05-2022]]
-
-
-
-
 
 
 

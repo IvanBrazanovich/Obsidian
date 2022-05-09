@@ -7,10 +7,6 @@
 
 
 # Clases FORMA :: clase dd/mm
-[[Clase 1 SyO 25-4-2022]]
-
-
-
 
 
 
