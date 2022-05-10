@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Primer  Parcial.md",
+            "file": "000 Home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Primer  Parcial.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Primer  Parcial.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Primer  Parcial.md",
-    "Pages/Unidad 1 - Matrices.md",
-    "Pages/Álgebra y Geometría Analítica.md",
     "000 Home.md",
+    "Pages/Álgebra y Geometría Analítica.md",
+    "Clase AyGA 19/04/2022.md",
+    "Pages/Unidad 2 - Matrices.md",
+    "Pages/Matrices.md",
+    "Pages/Unidad 1 - Matrices.md",
+    "Pages/Primer  Parcial.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Clase 1 SyO 25-4-2022.md",
-    "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md",
-    "Pages/Unidad 1 Los Sistemas.md",
-    "Pages/Clase 3 SyO.md",
-    "Pages/Unidad 2 - Matrices.md"
+    "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md"
   ]
 }

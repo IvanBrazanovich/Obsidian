@@ -202,12 +202,16 @@ Dada una matriz A cuadrada se llama adjunta de A a la matriz que se obtiene reem
 
 
 
+### Hallar vector unitario 
+![[Pasted image 20220509214934.png]]
 
 
 
+### Encontrar el vector que haga perpendicular al vector
+![[Pasted image 20220509215320.png]]
 
 
-
+![[Pasted image 20220509215852.png]]
 
 
 
