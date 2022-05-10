@@ -176,6 +176,8 @@ Dada una matriz A cuadrada se llama adjunta de A a la matriz que se obtiene reem
 
 ### Propiedad de la matriz adjunta 
 ![[Pasted image 20220508071323.png]]
+![[Pasted image 20220509221826.png]]
+
 
 ### Matriz Inversa 
 ![[Pasted image 20220508071458.png]]
@@ -213,9 +215,10 @@ Dada una matriz A cuadrada se llama adjunta de A a la matriz que se obtiene reem
 
 ![[Pasted image 20220509215852.png]]
 
+![[Pasted image 20220509221553.png]]
 
-
-
+# Adjunta
+![[Pasted image 20220509221720.png]]
 
 
 
