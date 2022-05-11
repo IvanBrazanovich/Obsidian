@@ -71,10 +71,13 @@ Si bien la condición de finitud siempre se debe tener en cuenta, para su proces
 ![[Pasted image 20220511064309.png]]
 ![[Pasted image 20220511064339.png]]
 ![[Pasted image 20220511064404.png]]
+Te ayuda a modificar una secuencia. 
 
 
 
 
+#### Fin e inicio de una subsecuencia enlazada
+La relación de enlace existe porque se identifica, salvo al inicio y final de la secuencia, que el inicio de una sub secuencia indica el fin de la anterior, por tal motivo también podemos decir que el fin de una sub secuencia enlazada indica el inicio de otra.
 
 
 
