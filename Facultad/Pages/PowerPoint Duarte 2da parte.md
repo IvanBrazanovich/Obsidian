@@ -33,3 +33,13 @@ De los datos que tengamos
 
 #### ¿PARA QUÉ SE UTILIZA EL SISTEMA DE REFERENCIA?
 Para analizar los distintos vectores que se presentan en el movimiento: desplazamiento, velocidad, posición, etc.
+
+
+
+#### ¿Cómo se trabaja la aceleración en un plano inclinado?
+![[Pasted image 20220511090208.png]]
+
+
+
+#### ¿Qué tenemos que hacer una vez que tenemos la trayectoria?
+Dividimos el plano en partes iguales 
