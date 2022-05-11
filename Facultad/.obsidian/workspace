@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Algoritmos y Estructuras de Datos.md",
+            "file": "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Algoritmos y Estructuras de Datos.md",
+                "file": "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Algoritmos y Estructuras de Datos.md",
+                "file": "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,8 +103,8 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
+    "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
     "Pages/Clase 2 AyED 27-04-2022.md",
     "Pages/Clase 4 AyED 4-05-2022.md",
