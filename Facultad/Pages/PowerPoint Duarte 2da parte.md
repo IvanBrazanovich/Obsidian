@@ -43,3 +43,8 @@ Para analizar los distintos vectores que se presentan en el movimiento: desplaza
 
 #### ¿Qué tenemos que hacer una vez que tenemos la trayectoria?
 Dividimos el plano en partes iguales 
+
+
+
+#### ¿Cómo introduzco el vector en el plano?
+Utilizando una escala un valor menos que las divisiones pasadas que hicimos sobre el sistema de referencia.
