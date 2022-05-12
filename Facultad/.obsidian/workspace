@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "69efa265c1a77c17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pages/Clase 3 Teoría  12-05-2022 MD.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -104,8 +117,8 @@
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
     "Pages/Unida d 3 - Digrafos y grafos.md",
-    "Pages/Matemática Discreta.md",
     "Pages/Clase 3 Teoría  12-05-2022 MD.md",
+    "Pages/Matemática Discreta.md",
     "000 Home.md",
     "Pages/PowerPoint Duarte 2da parte.md",
     "Pages/Física 1.md",

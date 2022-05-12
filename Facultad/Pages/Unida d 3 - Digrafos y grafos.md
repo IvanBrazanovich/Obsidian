@@ -298,23 +298,73 @@ Un subgrafo pertenece a otro grafo cuando:
 
 
 
-#### SUBGrafos particulares 
+### SUBGrafos particulares 
 + Subgrafo restante respecto del vértice es el subgrafo de G que se obtiene al suprimir únicamente el vértice Vi. 
-+ Subgrafo resta
++ Subgrafo restante respecto de la arista Ai. Se obtiene al suprimir únicamente la arista Ai. 
++ 
+#### Subgrafo minimal
+ Subgrafo minimal: Un subgrafo S de G que goce de una propiedad P se llama minimal respecto de P, sin ningún subgrafo estrictamente menor que S que puede gozar de la propiedad.
+Supongamos que P es la propiedad "tener un solo ciclo"
+![[Pasted image 20220512155203.png]]
+Serán esos subgrafos minimales: 
+![[Pasted image 20220512155224.png]]
+
+
+#### Subgrafo Maximal 
+Un subgrafo S de G que goce de una propiedad P se llama maximal respecto de P, si ningún subgrafo estrictamente mayor que S goza de la propiedad P. 
+
+
+
+#### Subgrafo cobertor 
+Se llama cobertor si contiene a todos los vértices de G. 
+
+
+#### ¿Qué es el grafo complementario?
+Si contiene al mismo conjunto de vértices de G y cuyas aristas son las que le faltan a G para ser completo. 
+![[Pasted image 20220512155707.png]]
+
+![[Pasted image 20220512155712.png]]
+
+
+ ### ¿Qué es la conexidad en los grafos? 
+ Un grafo g no orientado es conexo, para todos dos vértices cualquiera, existe una cadena de uno a otro.
+![[Pasted image 20220512103243.png]]
+![[Pasted image 20220512103355.png]]
 
 
 
 
 
+### ¿Qué es una componente conexa?
+Es el conjunto de vértices pertenecientes al conjunto de vértices, tal que existe una cadena que va de Vn a v.
+![[Pasted image 20220512103701.png]]
+O sea si entre 5 vértices, 2 serían componente conexa de un vértice y se ponen así Cv1={v1, v2} Y como se hace la unión Cv1={v1, v2, v1}
+
+El vértice aislado se considera que es una componente conexa.
 
 
 
 
 
+### ¿Cuándo se considera a un grafo no orientado conexo?
+Cuando solo tiene una componente conexa 
 
 
 
 
 
+### ¿Qué es un grafo orientado conexo?
+Cuando para todo par de vértices, distintos, del mismo existe un camino que los une por lo menos en un sentido. 
+
+![[Pasted image 20220512110204.png]]
+Es conexo 
+
+![[Pasted image 20220512110232.png]]
+No es conexo 
 
 
+
+
+
+### ¿Cuándo un grafo orientado es fuertemente conexo?
+Es fuertemente conexo cuando para todo par de vértices distintos por el mismo están unidos en ambos sentidos. 

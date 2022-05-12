@@ -39,7 +39,6 @@ Cuando para todo par de vértices, distintos, del mismo existe un camino que los
 ![[Pasted image 20220512110204.png]]
 Es conexo 
 
-[[Algoritmos y Estructuras de Datos]]
 
 ![[Pasted image 20220512110232.png]]
 No es conexo 
