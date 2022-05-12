@@ -367,4 +367,35 @@ No es conexo
 
 
 ### ¿Cuándo un grafo orientado es fuertemente conexo?
-Es fuertemente conexo cuando para todo par de vértices distintos por el mismo están unidos en ambos sentidos. 
+Es fuertemente conexo cuando para todo par de vértices se puede ir y volver entre sí. 
+![[Pasted image 20220512163051.png]]
+El conjunto de vértices A, B , E y F son fuertemente conexos. 
+
+
+
+#### ¿Qué es un componente conexo?
+Es todo subgrafo maximal conexo, o sea que es el máximo subgrafo que se puede obtener de que sea conexo. 
+
+
+#### ¿Qué es un fuertemente componente conexo?
+Es todo subgrafo maximal fuertemente conexo, o sea que es el máximo subgrafo que se puede obtener de que sea conexo. 
+
+
+
+#### ¿Qué es la matriz de conexión?
+Es una matriz en la que se representa a una posible trayectoria de V1 a V2 con un 1 
+![[Pasted image 20220512163420.png]]
+![[Pasted image 20220512163427.png]]
+
+
+
+
+
+#### ¿Cómo se puede comprobar que un grafo o subgrafo es fuertemente conexo?
+Utilizando la matriz de conexión, en caso de que sean todos 1, significa que es fuertemente conexo. 
+
+
+
+
+
+
