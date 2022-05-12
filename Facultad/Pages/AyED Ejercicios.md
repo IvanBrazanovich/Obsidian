@@ -17,8 +17,8 @@
 
 
 
-
-		
+![[Pasted image 20220512195026.png]]
+![[Pasted image 20220512195008.png]]
 
 
 
