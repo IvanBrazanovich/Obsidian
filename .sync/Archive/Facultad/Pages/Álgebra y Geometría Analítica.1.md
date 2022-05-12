@@ -16,5 +16,5 @@ Cuando me piden encontrar el versor de un tridiimmensional. Se pone todo al cuad
 
 La clase que viene empezaríamos con productos esccalares, productos vectoriales y productos mixtos.
 [[Clase AyGA 19/04/2022]]
-[[Clase 2 AyGA 12-05-2022]]
+
 

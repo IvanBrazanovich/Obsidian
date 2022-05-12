@@ -281,8 +281,26 @@ Es la cantidad de arcos que compone el camino.
 
 
 
+### ¿Qué es la matriz de incidencia de arcos?
+Es aquella en la que se representan las incidencias positivas y negativas.
+ ![[Pasted image 20220512153802.png]]
+![[Pasted image 20220512153804.png]]
+En el que: 
++ La suma de los elementos de cada fila es igual al grado neto del vértice correspondiente. 
++ La suma de los valores absolutos de los elementos es igual grado total. 
 
 
+
+
+#### ¿Qué es un subgrafo?
+Un subgrafo pertenece a otro grafo cuando: 
+![[Pasted image 20220512154112.png]]
+
+
+
+#### SUBGrafos particulares 
++ Subgrafo restante respecto del vértice es el subgrafo de G que se obtiene al suprimir únicamente el vértice Vi. 
++ Subgrafo resta
 
 
 
