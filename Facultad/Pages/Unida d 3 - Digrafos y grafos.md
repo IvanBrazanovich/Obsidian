@@ -84,14 +84,17 @@ Deben cumplir 3 condiciones.
 
 
 #### ¿Cómo se podría representar un grafo?
-Se puede realizar mediante una matriz adyacencia, 
+Se puede realizar mediante una matriz adyacencia, y una lista de adyacencia. 
 
 
+#### ¿Qué es una matriz adyacencia?
+Es una matriz en el que las filas y las columnas son los vértices y cada vez que exista una arista entre vértices se pone un 0. 
+![[Pasted image 20220512054914.png]]
 
 
-
-
-
+#### ¿Qué es una lista de adyacencia ?
+Es una lista en la que se toma cada vértice y se le hace una lista con sus vecinos.
+![[Pasted image 20220512055043.png]]
 
 
 
