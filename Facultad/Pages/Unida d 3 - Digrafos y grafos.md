@@ -30,7 +30,7 @@ La extensión o el largo de un camino se define por la cantidad de aristas que p
 #### ¿Qué es un ciclo en la teoría de grafos?
 Es un camino que comienza y termina en el mismo vértice.
 ![[Pasted image 20220512053344.png]]
-
+Es una cadena donde el vértice inicial es igual al vértice final.
 
 
 
@@ -44,6 +44,13 @@ Aplicado a grafos
 ![[Pasted image 20220512053716.png]]
 Este grafo no está conectado. 
 
+#### ¿Cuándo un vértice es accesible?
+Un vértice Vj se dice accesible desde un vértice Vi si existe una cadena entre ellos. Todo vértice es accesible desde sí mismo.
+
+
+
+
+
 
 
 
@@ -55,14 +62,17 @@ Un componente conectado es un subconjunto en el gráfico que está conectado.
 
 ### ¿Qué tipos de grafos existen?
 
-#### Grafos no direccionales 
+#### Grafos no orientados 
 Es no direccional cuando una arista significa que existe una conexión de v1 a v2 y lo contrario. 
 ![[Pasted image 20220512054051.png]]
 
+La definición técnica es 
+![[Pasted image 20220512062702.png]]
+Donde v son los vértices o nodos. A son las aristas y el símbolo es una función de incidencia, que asigna a cada arista un par no ordenado de vértices llamados sus extremos. 
 
 
 
-#### direccionales
+####  Grafos orientados
  Los grafos direccionales son unidireccionales, lo que significa que van hacia un solo lado nomás. 
 ![[Pasted image 20220512054139.png]]
 
@@ -98,6 +108,78 @@ Es una lista en la que se toma cada vértice y se le hace una lista con sus veci
 
 
 
+
+
+#### ¿Qué es una arista incidente?
+Si v1 es un extremo de a1 entonces a1 y v1 son incidentes.
+
+
+#### ¿Qué son los vértices adyacentes?
+Dos vértices son adyacentes si existe una arista que los une. 
+
+
+#### ¿Qué son las aristas adyacentes?
+Dos aristas son adyacentes si tienen un vértice en común
+
+
+#### ¿Qué es un vértice aislado?
+Es un vértice de grado 0.
+
+
+
+#### ¿Qué es un vértice pendiente?
+Si el grado del vértice es uno. 
+
+
+#### ¿Qué es un lazo?
+Es una arista cuyos extremos coinciden.
+
+
+#### ¿Qué son las aristas paralelas?
+Dos aristas son paralelas cuando tienen el mismo vértice inicial y final. 
+
+
+
+#### ¿Qué es una cadena?
+Es una sucesión finita de aristas
+
+
+
+#### ¿Qué es la longitud de una cadena?
+Es el número de aristas que la componen
+
+
+#### ¿Qué es una cadena sencilla?
+Es la cadena en la que no se repiten aristas. 
+
+
+
+#### ¿Qué es una cadena elemental?
+Es la cadena en la que no se repiten vértices
+
+#### ¿Qué es un grafo simple?
+Es un grafo sin lazos ni aristas paralelas. 
+
+
+#### ¿Qué es un grafo completo?
+Es un grafo en el que tiene exactamente una arista entre cada par de vértices distintos.
+![[Pasted image 20220512063907.png]]
+
+
+#### ¿Qué es el grafo K-Regular?
+Es el grafo en el que todos sus nodos tienen el mismo grado
+![[Pasted image 20220512063954.png]]
+
+
+#### ¿Qué es un grafo bipartito?
+Es un grafo en el que un subconjunto del grafo "se conectan o van" hacia el otro conjunto, y del otro conjunto van al primero.
+![[Pasted image 20220512064320.png]]
+
+
+#### ¿Qué es un grafo bipartito completo?
+Es un grafo en el que el subconjunto 1 se conecta en su totalidad con todos los vértices del subconjunto 2 y al revés. 
+![[Pasted image 20220512064645.png]]
+K3,1 significa que un subconjunto tiene  3 tiene y el otro 1 vértice.
 
 
 
