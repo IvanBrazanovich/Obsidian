@@ -75,6 +75,9 @@ Donde v son los vértices o nodos. A son las aristas y el símbolo es una funci�
 ####  Grafos orientados
  Los grafos direccionales son unidireccionales, lo que significa que van hacia un solo lado nomás. 
 ![[Pasted image 20220512054139.png]]
+![[Pasted image 20220512064836.png]]
+Donde V son los vértices o nodos. A son los arcos y el símbolo es una función llamada función de incidencia orientada que asigna a cada arco un par de vértices llamados sus extremos. 
+![[Pasted image 20220512064950.png]]
 
 
 
@@ -100,6 +103,10 @@ Se puede realizar mediante una matriz adyacencia, y una lista de adyacencia.
 #### ¿Qué es una matriz adyacencia?
 Es una matriz en el que las filas y las columnas son los vértices y cada vez que exista una arista entre vértices se pone un 0. 
 ![[Pasted image 20220512054914.png]]
+![[Pasted image 20220512070756.png]]
+![[Pasted image 20220512070801.png]]
+La suma de los elementos distintos de cero de la matriz es igual a dos veces el número de aristas (los elementos de la diagonal principal se cuentan dobles)
+
 
 
 #### ¿Qué es una lista de adyacencia ?
@@ -180,6 +187,115 @@ Es un grafo en el que un subconjunto del grafo "se conectan o van" hacia el otro
 Es un grafo en el que el subconjunto 1 se conecta en su totalidad con todos los vértices del subconjunto 2 y al revés. 
 ![[Pasted image 20220512064645.png]]
 K3,1 significa que un subconjunto tiene  3 tiene y el otro 1 vértice.
+
+
+
+
+#### ¿Qué es un rizo o bucle?
+Es un arco cuyo vértice final coincide con el vértice inicial. 
+
+
+#### ¿Qué son los arcos estrictamente paralelos?
+Dos arcos son estrictamente paralelos si tienen el mismo vértice final y el mismo vértice inicial. 
+
+
+#### ¿Qué son los arcos adyacentes?
+Dos arcos son adyacentes si tienen un vértice común. 
+
+
+#### ¿Qué son los vértices adyacentes?
+Dos vértices son adyacentes si existe un arco que los une. 
+
+
+#### ¿Qué es la incidencia positiva?
+Un arco es incidente positivo a un vértice si el arco se origina en el mismo vértice. 
+
+#### ¿Qué es la incidencia negativa?
+Un arco es incidente negativo a un vértice si el vértice es extremo del arco. 
+
+
+
+#### ¿Qué es el grado positivo de un vértice?
+Es la cantidad de arcos que inciden positivamente en el vértice
+
+
+#### ¿Qué es el grado negativo de un vértice?
+Es la cantidad de arcos que inciden negativamente en el vértice
+
+
+
+#### ¿Qué es el grado total?
+Es la suma de los grados positivos y los grados negativos del vértice
+![[Pasted image 20220512065559.png]]
+
+#### ¿Qué es el grado neto?
+Es la resta de los grados positivos y los grados negativos del vértice
+![[Pasted image 20220512065618.png]]
+
+
+#### ¿Cuáles son las propiedades de los grados de un vértice?
+![[Pasted image 20220512065936.png]]
+La suma de los grados positivos de los vértices es igual a la suma de los grados negativos de los vértices  y es igual a el número de arcos del grafo.
+
+
+![[Pasted image 20220512070034.png]]
+El grado total es la suma de ambos grados, es por eso que es 2 por el número de arcos del grafo. 
+
+![[Pasted image 20220512070122.png]] 
+Y el grado neto es igual a cero porque es la diferencia. 
+
+
+
+#### ¿Qué es un camino en grafos?
+Es una secuencia de arcos
+
+
+
+#### ¿Qué es un camino sencillo en grafos?
+Es el camino tal que no se repiten arcos- 
+
+
+ #### ¿Qué es un camino elemental en grafos?
+Es un camino donde no ser repiten vértices
+
+
+
+#### ¿Qué es un circuito en grafos?
+Es un camino donde el vértice final coincide con el vértice inicial
+
+
+
+#### ¿Qué es un circuito sencillo en grafos?
+Es el circuito donde no se repiten arcos
+
+
+
+#### ¿Qué es un circuito elemental en grafos?
+Es el circuito donde no se repiten vértices, con excepción del primero y el último.
+
+
+
+#### ¿Qué es la longitud de un camino en grafos?
+Es la cantidad de arcos que compone el camino. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
