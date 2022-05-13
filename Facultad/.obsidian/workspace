@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Unida d 3 - Digrafos y grafos.md",
+            "file": "Pages/AyED Ejercicios.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Unida d 3 - Digrafos y grafos.md",
+                "file": "Pages/AyED Ejercicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Unida d 3 - Digrafos y grafos.md",
+                "file": "Pages/AyED Ejercicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/AyED Ejercicios.md",
+    "Pages/Algoritmos y Estructuras de Datos.md",
+    "000 Home.md",
     "Pages/Unida d 3 - Digrafos y grafos.md",
     "Pages/Matemática Discreta.md",
     "Pages/Unidad  4 - Estructuras algebráicas finitas.md",
     "Pages/Clase 3 Teoría  12-05-2022 MD.md",
     "Pages/Clase 2 teoría 05-05-2022 MD.md",
     "Clase 1 teoria  21/04/2022 MD.md",
-    "000 Home.md",
-    "Pages/AyED Ejercicios.md",
-    "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/PowerPoint Duarte 2da parte.md"
   ]
 }
