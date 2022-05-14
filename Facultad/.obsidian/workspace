@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Home.md",
+            "file": "Pages/Matrices.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Home.md",
+                "file": "Pages/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Home.md",
+                "file": "Pages/Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/Matrices.md",
+    "Pages/Unidad 2 - Matrices.md",
+    "Pages/Álgebra y Geometría Analítica.md",
+    "Pages/Clase 2 AyGA 12-05-2022.md",
     "000 Home.md",
     "Pages/Clase 1 SyO 25-4-2022.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Clase 2 SyO 09-05-2022.md",
     "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md",
-    "Pages/Unidad 1 Los Sistemas.md",
-    "Pages/AyED Ejercicios.md",
-    "Pages/Algoritmos y Estructuras de Datos.md",
-    "Pages/Unida d 3 - Digrafos y grafos.md",
-    "Pages/Matemática Discreta.md"
+    "Pages/Unidad 1 Los Sistemas.md"
   ]
 }

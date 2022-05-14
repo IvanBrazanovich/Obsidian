@@ -59,10 +59,20 @@ Resulta que solo necesitas los versores i e j. Esto es debido a que las transfor
 Básicamente lo que estás haciendo es multiplicar los números que tenías como coeficientes en un principio por las transformaciones de los versores. 
 
 Ejemplo:
-![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-03-22.mp4]]
+ 
 
 Esto significa que podemos saber donde cae cualquier punto en el plano solamente sabiendo donde quedaron los versores.
 ![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-08-00.mp4]]
+
+
+#### ¿De dónde salen las transformaciones lineales?
+Supongamos que quiero que el versor i quede en (1 en x, -2 en y). Lo que tengo que hacer es multiplicar ese vector i  por el lugar en notación matricial de donde quiero que quede.
+![[Pasted image 20220514111755.png]]
+Por lo que quedará i = (1 representando a x, -2 representando a y).
+Lo mismo pasa con el versor j y a partir de ambos se pueden calcular donde quedan todos los otros puntos. 
+
+
+
 
 
 
