@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/AyED Ejercicios.md",
+            "file": "Pages/Clase 1 SyO 25-4-2022.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "estrate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/AyED Ejercicios.md",
+                "file": "Pages/Clase 1 SyO 25-4-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/AyED Ejercicios.md",
+                "file": "Pages/Clase 1 SyO 25-4-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +104,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/Clase 1 SyO 25-4-2022.md",
+    "Pages/Sistemas y Organizaciones.md",
+    "Pages/Clase 2 SyO 09-05-2022.md",
+    "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md",
+    "Pages/Unidad 1 Los Sistemas.md",
+    "000 Home.md",
     "Pages/AyED Ejercicios.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
-    "000 Home.md",
     "Pages/Unida d 3 - Digrafos y grafos.md",
-    "Pages/Matemática Discreta.md",
-    "Pages/Unidad  4 - Estructuras algebráicas finitas.md",
-    "Pages/Clase 3 Teoría  12-05-2022 MD.md",
-    "Pages/Clase 2 teoría 05-05-2022 MD.md",
-    "Clase 1 teoria  21/04/2022 MD.md",
-    "Pages/PowerPoint Duarte 2da parte.md"
+    "Pages/Matemática Discreta.md"
   ]
 }
