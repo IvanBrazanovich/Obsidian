@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Clase 1 SyO 25-4-2022.md",
+            "file": "000 Home.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41cc8bfca453f54f",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Clase 1 SyO 25-4-2022.md",
+                "file": "000 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Clase 1 SyO 25-4-2022.md",
+                "file": "000 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,10 +103,10 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "000 Home.md",
     "Pages/Clase 1 SyO 25-4-2022.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Clase 2 SyO 09-05-2022.md",
-    "000 Home.md",
     "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md",
     "Pages/Unidad 1 Los Sistemas.md",
     "Pages/AyED Ejercicios.md",
