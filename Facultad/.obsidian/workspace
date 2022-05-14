@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "estrate",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,13 +50,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41cc8bfca453f54f",
@@ -107,9 +105,9 @@
     "Pages/Clase 1 SyO 25-4-2022.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Clase 2 SyO 09-05-2022.md",
+    "000 Home.md",
     "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md",
     "Pages/Unidad 1 Los Sistemas.md",
-    "000 Home.md",
     "Pages/AyED Ejercicios.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Unida d 3 - Digrafos y grafos.md",
