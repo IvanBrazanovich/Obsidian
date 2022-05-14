@@ -84,7 +84,20 @@ Nosotros cuando estamos haciendo un sistema de ecuaciones lineales estamos trata
 
 
 # PIENSO 
-En el caso de que tengamos una ecuación 2x + 3y = 4. Esta ecuación me está preguntando "¿Qué vector (x, y) ?" 
+En el caso de que tengamos una ecuación 2x + 3y = 4. Esta ecuación me está preguntando "¿Qué vector (x, y) aplicada la transformación lineal me va a dar que la suma de sus catetos será igual al resultado?" Supongamos que los componentes del vector inicial valen 0.8, podemos decir que la suma de sus catetos vale 1,6. Pero si aplicamos la transformación lineal. ()
+
+![[Interactive Matrix Visualization - Google Chrome 2022-05-14 12-02-26.mp4]]
+
+
+
+Pero cuando tenemos dos sistemas de ecuaciones lineales:
+2x + 3y = 4
+6x + 2y = 8
+Estamos analizando dos situaciones, 
+
+
+
+
 
 
 
