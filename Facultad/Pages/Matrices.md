@@ -93,11 +93,16 @@ En el caso de que tengamos una ecuación 2x + 3y = 4. Esta ecuación me está pr
 Pero cuando tenemos dos sistemas de ecuaciones lineales:
 2x + 3y = 4
 6x + 2y = 8
-Estamos analizando dos situaciones, 
+Resulta que la forma de encontrar una matriz de la forma 
+![[Pasted image 20220514183916.png]]
+Es igual a pasar los sistemas de ecuaciones lineares a esa notación matricial, y resulta lo mismo. Resulta lo mismo también entender a esa forma matricial como una transformación lineal.
+![[Inverse matrices, column space and null space _ Chapter 7, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 20-19-23.mp4]]
 
-
-
-
+Y cada columna de la primera matriz A corresponde a dónde quedaron los versores. 
+![[Pasted image 20220430192220.png]]
+Donde las columnas son los versores i, j y k respectivamente.
+En resumen
+![[y2mate.com - Cramers rule explained geometrically  Chapter 12 Essence of linear algebra_1080pFHR.mp4 - Reproductor multimedia VLC 2022-05-14 18-47-23.mp4]]
 
 
 
@@ -372,3 +377,5 @@ Se da que las componentes de P son las mismas que las componentes del determinan
 
 ![[Cross products in the light of linear transformations _ Chapter 11, Essence of linear algebra - YouTube - Google Chrome 2022-05-03 17-02-02.mp4]]
 
+
+### La regla de Cramer
