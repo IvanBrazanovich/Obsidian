@@ -379,3 +379,18 @@ Se da que las componentes de P son las mismas que las componentes del determinan
 
 
 ### La regla de Cramer
+Te dice que como luego de una transformación lineal las áreas se escalan proporcionalmente, puedes decir que el área que forma el vector que quieres encontrar (x, y) con el eje X inicial, que comienza siendo 1, simplemente será el área igual a y, si consideras y, porque es la altura del paralelogramo que forman (y), por el largo del paralelogramo (1 porque es X inicial). Y ahora podemos repetir lo mismo para x, ya que sabemos que la altura será 1, debido a que Y inicial es igual a 1, y la x será la x del vector.
+![[y2mate.com - Cramers rule explained geometrically  Chapter 12 Essence of linear algebra_1080pFHR.mp4 - Reproductor multimedia VLC 2022-05-14 19-10-49.mp4]]
+![[y2mate.com - Cramers rule explained geometrically  Chapter 12 Essence of linear algebra_1080pFHR.mp4 - Reproductor multimedia VLC 2022-05-14 19-11-44.mp4]]
+
+
+Y como todas las áreas escalan de la misma forma, podemos realizar un cálculo con estas áreas. 
+Sabemos que el área de y va a ser igual al área inicial más lo que creció o se achicó (calculado con la determinante de la transformación lineal)
+![[y2mate.com - Cramers rule explained geometrically  Chapter 12 Essence of linear algebra_1080pFHR.mp4 - Reproductor multimedia VLC 2022-05-14 19-14-37.mp4]]
+Y como lo que queremos encontrar es el área que forman los dos vectores, debemos hacer el producto cruz, y para hacer el producto cruz debemos utilizar la determinante. La determinante nos da el área de un paralelogramo formado por el versor i transformado y el nuevo vector (que ya viene provisto por las ecuaciones)
+![[Pasted image 20220514192020.png]]
+
+Y también tenemos el determinante de la transformación, que en todos los casos nos dice el área o volumen (dependiendo de la cantidad de dimensiones), que se forma con los nuevos versores transformados, y este volumen o área cambia en todo el plano, porque antes era 1x1 y ahora es distinto, y como es todo proporcional, aplica a todo el plano.
+![[y2mate.com - Cramers rule explained geometrically  Chapter 12 Essence of linear algebra_1080pFHR.mp4 - Reproductor multimedia VLC 2022-05-14 19-17-13.mp4]]
+Lo mismo se aplica para x.
+![[y2mate.com - Cramers rule explained geometrically  Chapter 12 Essence of linear algebra_1080pFHR.mp4 - Reproductor multimedia VLC 2022-05-14 19-25-31.mp4]]
