@@ -59,13 +59,40 @@ Resulta que solo necesitas los versores i e j. Esto es debido a que las transfor
 Básicamente lo que estás haciendo es multiplicar los números que tenías como coeficientes en un principio por las transformaciones de los versores. 
 
 Ejemplo:
- 
+![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-03-22.mp4]]
 
 Esto significa que podemos saber donde cae cualquier punto en el plano solamente sabiendo donde quedaron los versores.
 ![[Linear transformations and matrices _ Chapter 3, Essence of linear algebra - YouTube - Google Chrome 2022-04-30 18-08-00.mp4]]
 
 
+
+
+
+
+
+
+
 #### ¿De dónde salen las transformaciones lineales?
+Nosotros cuando estamos haciendo un sistema de ecuaciones lineales estamos tratando de ver en qué punto satisface las ecuaciones que tenemos. En el caso de las transformaciones lineales, podemos encontrar donde quedaron los puntos que pueden resolver ecuaciones mediante la utilización de los versores i, j y  los lugares donde quedaron esos versores. O sea: 
++ Tenemos 1 vector cualquier (X1, Y1);
++ Se aplica al plano una transformación lineal.
++ Debido a que todo es proporcional y está todo bien repartido, se puede calcular a partir de un punto, otros puntos. 
++ Con ayuda de esta propiedad utilizamos donde quedaron los versores i y j para calcular donde quedó cualquier punto del sistema de referencia. 
+
+
+
+
+
+# PIENSO 
+En el caso de que tengamos una ecuación 2x + 3y = 4. Esta ecuación me está preguntando "¿Qué vector (x, y) ?" 
+
+
+
+
+
+
+
+
 Supongamos que quiero que el versor i quede en (1 en x, -2 en y). Lo que tengo que hacer es multiplicar ese vector i  por el lugar en notación matricial de donde quiero que quede.
 ![[Pasted image 20220514111755.png]]
 Por lo que quedará i = (1 representando a x, -2 representando a y).
