@@ -392,8 +392,11 @@ Es una matriz en la que se representa a una posible trayectoria de V1 a V2 con u
 
 
 #### ¿Cómo se puede comprobar que un grafo o subgrafo es fuertemente conexo?
-Utilizando la matriz de conexión, en caso de que sean todos 1, significa que es fuertemente conexo. 
+Utilizando la matriz de conexión, en caso de que sean todos 1, significa que es fuertemente conexo.  Esto se realiza debido a que si hacemos la traspuesta de C por C nos va a dar lo siguiente. Si se puede ir de E a D en la matriz C representada con un 1; mientras que si va de D a E se va a representar con un uno en la transpuesta. Entonces realizar esta multiplicación lo que nos dice es que si ambos son 1, existe un camino de ida y de vuelta, en el caso de que no exista no va a ser fuertemente conexo. 
 
+
+#### ¿Cómo se puede comprobar que un grafo es conexo orientado?
+Se debe hacer la suma booleana. Porque si se hace C más C traspuesta nos va a dar que existe al menos 1 camino de ida. En el caso de que exista al menos 1 camino de ida en todos, significa que puedes ir de cualquier vértice a cualquier vértice. 
 
 
 

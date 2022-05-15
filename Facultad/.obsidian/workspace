@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Matrices.md",
+            "file": "Pages/Unida d 3 - Digrafos y grafos.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Matrices.md",
+                "file": "Pages/Unida d 3 - Digrafos y grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Matrices.md",
+                "file": "Pages/Unida d 3 - Digrafos y grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Matrices.md",
-    "Pages/Unidad 2 - Matrices.md",
-    "Pages/Álgebra y Geometría Analítica.md",
-    "Pages/Clase 2 AyGA 12-05-2022.md",
+    "Pages/Unida d 3 - Digrafos y grafos.md",
+    "Pages/Matemática Discreta.md",
+    "Pages/Unidad 2 - Sistemas de numeración.md",
     "000 Home.md",
+    "Pages/Álgebra y Geometría Analítica.md",
+    "Pages/Unidad 2 - Matrices.md",
+    "Pages/Matrices.md",
+    "Pages/Clase 2 AyGA 12-05-2022.md",
     "Pages/Clase 1 SyO 25-4-2022.md",
-    "Pages/Sistemas y Organizaciones.md",
-    "Pages/Clase 2 SyO 09-05-2022.md",
-    "Pages/Unidad 2  Introducción a la Teoría General de la Administración.md",
-    "Pages/Unidad 1 Los Sistemas.md"
+    "Pages/Sistemas y Organizaciones.md"
   ]
 }
