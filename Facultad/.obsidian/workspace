@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Clase 2 SyO 09-05-2022.md",
+            "file": "Pages/Clase 1 SyO 25-4-2022.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Clase 2 SyO 09-05-2022.md",
+                "file": "Pages/Clase 1 SyO 25-4-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Clase 2 SyO 09-05-2022.md",
+                "file": "Pages/Clase 1 SyO 25-4-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +102,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Clase 2 SyO 09-05-2022.md",
+    "Pages/Clase 1 SyO 25-4-2022.md",
     "Pages/Sistemas y Organizaciones.md",
     "000 Home.md",
+    "Pages/Clase 2 SyO 09-05-2022.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
     "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
     "Pages/Unida d 3 - Digrafos y grafos.md",
     "Pages/Matemática Discreta.md",
-    "Pages/Unidad 2 - Sistemas de numeración.md",
-    "Pages/Álgebra y Geometría Analítica.md"
+    "Pages/Unidad 2 - Sistemas de numeración.md"
   ]
 }
