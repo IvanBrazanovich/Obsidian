@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Estructuras, campos y registros.md",
+            "file": "Pages/Dinámica.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41cc8bfca453f54f",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Estructuras, campos y registros.md",
+                "file": "Pages/Dinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Estructuras, campos y registros.md",
+                "file": "Pages/Dinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/Dinámica.md",
+    "Pages/Unidad 3 - Dinámica de la partícula.md",
+    "Pages/Física 1.md",
+    "000 Home.md",
     "Pages/Estructuras, campos y registros.md",
     "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
-    "000 Home.md",
     "Pages/Clase 1 AyED.md",
     "Pages/Clase 2 AyED 27-04-2022.md",
-    "Pages/Clase 4 AyED 4-05-2022.md",
-    "Pages/Procesos.md",
-    "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
-    "Pages/Unidad 1 - Introducción a la Algoritmia.md"
+    "Pages/Clase 4 AyED 4-05-2022.md"
   ]
 }
