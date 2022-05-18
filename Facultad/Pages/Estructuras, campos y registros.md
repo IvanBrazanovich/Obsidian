@@ -32,7 +32,7 @@ Un ejemplo puede ser la información de un determinado alumno universitario que 
 
 
 
-## Ventajas y desventajas: guardar información 
+	## Ventajas y desventajas: guardar información 
 ### Utilizando marcas
 ![[Pasted image 20220518063430.png]]
 #### Desventajas 
