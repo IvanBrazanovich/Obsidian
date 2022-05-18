@@ -6,3 +6,5 @@ Subunidad B: Estructuras de Datos: Arreglos Representación tabulada de una func
 
 Subunidad C : Estructuras de datos : Listas Lineales Clasificación. Listas Lineales. Organización y acceso. Clases: particularizadas y generalizadas. Concepto de restricción. Noción de puntero. Operaciones con listas: recorrido - inserción - eliminación.
 [[Estructuras, campos y registros]]
+[[Procesos]]
+

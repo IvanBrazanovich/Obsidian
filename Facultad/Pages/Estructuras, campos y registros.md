@@ -76,3 +76,57 @@ Cuando se debe ocupar varias veces, se lo guarda en una biblioteca de estructura
 
 
 #### Registro lógico 
+Son los registros organizados en campos. 
+
+
+
+#### Registro físico 
+Es un conjunto de registros lógicos que constituyen una unidad de transferencia en una sola operación de entrada/ salida. Para transferencias entre dispositivos de almacenamiento o memoria principal. 
+
+
+
+### Archivos 
+Es un conjunto de registros homogéneos referidos a objetos de la misma naturaleza o del mismo tipo, almacenados en un soporte externo, que presenta entre sí una relación lógica y que pueden ser consultados individualmente de forma iterativa o sistemática.  O sea, básicamente vas a tener un tema principal y luego vas a tener registros de la misma temática dentro del archivo. ¿Puede el archivo tener dos tipos de registros, por ejemplo de un alumno y de cantidad de comida en la facultad?
+![[Pasted image 20220518064917.png]]
+
+
+Un archivo en una computadora es una estructura diseñada para contener datos, estos están organizados de forma tal que pueden ser recuperados fácilmente, borrados, actualizados, etc. 
+Cabe recalcar que los archivos tienen nombres. 
+
+![[Pasted image 20220518065117.png]]
+
+
+
+### Base de datos 
+Es una colección de archivos relacionados lógicamente, que se estructura en diferentes formas para reducir duplicaciones y proporcionar un mejor acceso a los datos. Constituye el nivel más alto de la jerarquía de organización de los datos, siendo el nivel más bajo el carácter. 
+
+Así una base de datos de una universidad podría contener archivos de estudiantes, profesores, inventarios, libros, etc. 
+![[Pasted image 20220518065343.png]]
+
+
+
+### Campo clave
+Un campo clave (key) es aquel que identifica al registro y lo diferencia de los otros registros. 
+Debe ser ÚNICO, debe ser diferente para cada registro. Por ejemplo para un alumno puede ser la libreta universitaria.
+![[Pasted image 20220518070424.png]]
+
+
+
+### Campo clave secundaria 
+Es aquel que aún siendo un campo importante puede no identificar al registro en el archivo. 
+Considerando la definición que se utiliza para las bases de datos, es un valor que no necesariamente identifica totalmente a un registro(puede haber repeticiones), pero sirve para procesar la información en un orden adecuado, para algún proceso en particular.
+Por ejemplo, la Fecha de una factura es importante para listar los Libros de IVA o para filtrar facturas entre fechas, por ello se la establece como Clave Secundaria.
+
+### Campo clave simple 
+Es aquel que está formado por un campo contenido, es decir, no se encuentra subdividido. 
+
+
+### Clave foránea
+Es una clave secundaria, pero esta implica una relación con otro archivo. Es decir, permite la relación entre dos estructuras externas. 
+
+
+
+
+### Campo clave compleja 
+Es aquel que está formado por un campo continente, es decir, se encuentra subdividido en campos contenidos. 
+![[Pasted image 20220518070754.png]]
