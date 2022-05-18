@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Clase 1 AyED.md",
+            "file": "Pages/Estructuras, campos y registros.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Clase 1 AyED.md",
+                "file": "Pages/Estructuras, campos y registros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Clase 1 AyED.md",
+                "file": "Pages/Estructuras, campos y registros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,12 +102,12 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Clase 1 AyED.md",
-    "Pages/Algoritmos y Estructuras de Datos.md",
-    "Pages/Clase 2 AyED 27-04-2022.md",
-    "000 Home.md",
-    "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
     "Pages/Estructuras, campos y registros.md",
+    "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
+    "Pages/Algoritmos y Estructuras de Datos.md",
+    "000 Home.md",
+    "Pages/Clase 1 AyED.md",
+    "Pages/Clase 2 AyED 27-04-2022.md",
     "Pages/Clase 4 AyED 4-05-2022.md",
     "Pages/Procesos.md",
     "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
