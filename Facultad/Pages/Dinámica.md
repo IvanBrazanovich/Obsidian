@@ -53,6 +53,47 @@ Por ejemplo, si una fuerza conocida que actúa sobre un objeto de 3 kg produce u
 La masa siempre es la misma en un objeto y es una magnitud escalar, mientras que el peso depende de la aceleración que se le aplica (en el caso de la tierra es la gravedad), aparte de esto, el peso es una magnitud vectorial.
 
 
+Podemos decir que dada cualquier fuerza, si analizamos una en particular, la aceleración de un objeto es inversamente proporcional a la masa, debido a que mientras mayor sea la masa, es más difícil moverlo, y dada una fuerza x, la aceleración será menor mientras mayor sea la masa. 
+![[Pasted image 20220518200359.png]]
+
+
+Y también podemos decir que dada una masa, la aceleración del objeto es proporcional a la fuerza, debido a que si se mantiene constante la masa, a mayor fuerza que se le aplica, más acelera. 
 
 ### Segunda Ley de Newton 
+Cuando se ve desde un marco de referencia inercial, la aceleración de un objeto es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa. 
+![[Pasted image 20220518200510.png]]
+ó
+![[Pasted image 20220518200529.png]]
 
+
+#### Fuerza neta 
+Es la fuerza resultante de todas las fuerzas que actúan sobre algo en particular. Es básicamente la suma de las fuerzas. 
+
+
+#### Un newton 
+Podemos decir entonces que un newton es: Una fuerza de 1N es la fuerza que, cuando actúa sobre un objeto de 1kg de masa, produce una aceleración de 1m/s2. 
+![[Pasted image 20220518200820.png]]
+
+
+
+### Fuerza Gravitacional y peso 
+Derivado de la segunda ley de Newton. 
+
+![[Pasted image 20220518201044.png]]
+
+Podemos decir también que a más lejos estés del centro de la tierra, menor es la aceleración que se experimenta, por lo que el peso será menor. 
+
+
+
+
+### Tercera Ley de newton 
+Cuando se aplica presión o fuerza sobre un objeto, el objeto, si se queda quieto, reacciona o responde con la misma fuerza pero con dirección contraria. Por ejemplo, si le pegas a una pared, la pared se quedará quieta, pero respondió con la misma fuerza y lo sentirás en las manos. 
+
+
+Se deriva 
+![[Pasted image 20220518201725.png]]
+
+
+
+#### Fuerza normal
+Se llama fuerza normal a la fuerza que el objeto realiza cuando experimenta una fuerza. Básicamente es la respuesta de la fuerza del objeto, y es una fuerza normal. O sea, es una fuerza perpendicular.
