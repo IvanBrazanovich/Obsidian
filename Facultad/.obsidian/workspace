@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Estructuras, campos y registros.md",
+            "file": "Pages/Clase 1 AyED.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41cc8bfca453f54f",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Estructuras, campos y registros.md",
+                "file": "Pages/Clase 1 AyED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Estructuras, campos y registros.md",
+                "file": "Pages/Clase 1 AyED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,15 +102,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Estructuras, campos y registros.md",
-    "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
-    "Pages/Procesos.md",
+    "Pages/Clase 1 AyED.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
-    "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
-    "Pages/Unidad 1 - Introducción a la Algoritmia.md",
+    "Pages/Clase 2 AyED 27-04-2022.md",
     "000 Home.md",
-    "Pages/Clase 1 SyO 25-4-2022.md",
-    "Pages/Sistemas y Organizaciones.md",
-    "Pages/Clase 2 SyO 09-05-2022.md"
+    "Pages/Unidad 3 - Estructuras, Estructuras de Datos - Campo, registro, archivo. Estructuras de Datos - Arreglos. Estructuras de Datos - Listas y lineales.md",
+    "Pages/Estructuras, campos y registros.md",
+    "Pages/Clase 4 AyED 4-05-2022.md",
+    "Pages/Procesos.md",
+    "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
+    "Pages/Unidad 1 - Introducción a la Algoritmia.md"
   ]
 }

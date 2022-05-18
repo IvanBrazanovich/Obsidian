@@ -14,8 +14,3 @@
 [[Clase 4 AyED 4-05-2022]]
 
 
-
-	Hola como estas estoy probando algo. Quiero ver si funciona algo. Todo bien todo bien. 
-
-
-
