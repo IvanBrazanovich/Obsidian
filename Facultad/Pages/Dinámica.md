@@ -97,3 +97,21 @@ Se deriva
 
 #### Fuerza normal
 Se llama fuerza normal a la fuerza que el objeto realiza cuando experimenta una fuerza. Básicamente es la respuesta de la fuerza del objeto, y es una fuerza normal. O sea, es una fuerza perpendicular.
+
+
+### Fricción 
+
+
+Existen dos tipos de fricción, la estática y la cinética, siendo la estática normalmente mayor o igual a la cinética ¿Por qué?
+Por dos razones. 
+
+#### Al estar estático 
+Al hacer un zoom en los objetos, podemos ver que estos no son 100% perfectos, sino que tienen rugosidades, estas rugosidades pueden ser mayores o menores dependiendo del objeto. Cuando un objeto está estático a comparación de digamos, un piso, se puede decir que se "asentó". 
+![[Pasted image 20220518210913.png]]
+En el gráfico podemos ver que las moléculas de los objetos se han puesto de una manera que explica por qué existe una mayor fricción que si estuviera en movimiento, debido a que al estar en movimiento, las moléculas no tienen ese tiempo de "asentarse" de manera que quedaría así.
+![[Pasted image 20220518211022.png]]
+
+
+#### Debido al momento/Inercia 
+Ya sabemos que por las leyes de Newton que un objeto tiende a mantener su estado, esto significa que tiene inercia, por lo que podemos decir que si está en movimiento, tiene una resistencia a la rugosidad/fricción, por lo que tendrá una resistencia mayor a pararse. De esto podemos derivar que la fuerza cinemática será menor a la estática. 
+
