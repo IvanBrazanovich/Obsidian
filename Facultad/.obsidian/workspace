@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/AyED Ejercicios.md",
+            "file": "Pages/Clase 3 SyO 16-05-2022.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "niveles ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/AyED Ejercicios.md",
+                "file": "Pages/Clase 3 SyO 16-05-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/AyED Ejercicios.md",
+                "file": "Pages/Clase 3 SyO 16-05-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/Clase 3 SyO 16-05-2022.md",
+    "Pages/Clase 1 SyO 25-4-2022.md",
+    "Pages/Sistemas y Organizaciones.md",
+    "000 Home.md",
     "Pages/AyED Ejercicios.md",
     "Pages/Clase 3  AyGA 19-05-2022.md",
     "Pages/Álgebra y Geometría Analítica.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
     "Pages/Unidad 2 - Noción de Secuencia, Descomposición y Tratamiento de Secuencias.md",
-    "000 Home.md",
-    "Pages/Clase 3 SyO 16-05-2022.md",
-    "Pages/Sistemas y Organizaciones.md",
-    "Pages/Clase 3 SyO[[.md",
-    "Pages/Unida d 3 - Digrafos y grafos.md"
+    "Pages/Clase 3 SyO[[.md"
   ]
 }
