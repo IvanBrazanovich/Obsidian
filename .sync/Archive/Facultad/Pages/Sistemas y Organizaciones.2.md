@@ -9,7 +9,7 @@
 # Clases FORMA :: clase dd/mm
 [[Clase 1 SyO 25-4-2022]]
 [[Clase 2 SyO 09-05-2022]]
-[[Clase 3 SyO 16-05-2022]]
+
 
 
 
