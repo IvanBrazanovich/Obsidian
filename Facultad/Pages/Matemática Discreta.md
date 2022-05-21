@@ -7,7 +7,7 @@
 
 
 # Clases FORMA :: clase dd/mm
-[[Clase 1 teoria  21/04/2022 MD]]
+[[2022 MD]]
 [[Clase 2 teoría 05-05-2022 MD]]
 [[Clase 3 Teoría  12-05-2022 MD]]
 
