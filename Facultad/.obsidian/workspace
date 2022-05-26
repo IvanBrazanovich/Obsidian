@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Clase  4 SyO 23-05-2022.md",
+            "file": "Pages/Alvarez.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41cc8bfca453f54f",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Clase  4 SyO 23-05-2022.md",
+                "file": "Pages/Alvarez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Clase  4 SyO 23-05-2022.md",
+                "file": "Pages/Alvarez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,15 +103,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Clase  4 SyO 23-05-2022.md",
+    "Pages/Alvarez.md",
     "Pages/Sistemas y Organizaciones.md",
     "000 Home.md",
+    "Pages/Clase  4 SyO 23-05-2022.md",
     "Pages/Clase 3 SyO 16-05-2022.md",
     "Pages/Ponerme al día con AM.md",
     "Pages/Análisis Matemático 1.md",
     "Pages/Unidad 2 - Límites y Continuidad.md",
     "Pages/Unidad 1 - Números Reales y Funciones.md",
-    "Pages/Clase 1 SyO 25-4-2022.md",
-    "Pages/AyED Ejercicios.md"
+    "Pages/Clase 1 SyO 25-4-2022.md"
   ]
 }
