@@ -7,4 +7,4 @@ El análisis de diferencia es un análisis de la diferencia entre lo propuesto y
 ### ¿Cuál es la relación entre planes y objetivos en los distintos niveles administrativos?
 ![[Pasted image 20220526071358.png]]
 
-1.9 La de decisión de participar en la organizacióng
+	1.9 La de decisión de participar en la organizacióng
