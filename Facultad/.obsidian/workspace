@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Sistemas y Organizaciones.md",
+            "file": "Pages/Alvarez.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Sistemas y Organizaciones.md",
+                "file": "Pages/Alvarez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Sistemas y Organizaciones.md",
+                "file": "Pages/Alvarez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,9 +102,9 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
+    "Pages/Alvarez.md",
     "Pages/Sistemas y Organizaciones.md",
     "000 Home.md",
-    "Pages/Alvarez.md",
     "Pages/Clase  4 SyO 23-05-2022.md",
     "Pages/Clase 3 SyO 16-05-2022.md",
     "Pages/Ponerme al día con AM.md",
