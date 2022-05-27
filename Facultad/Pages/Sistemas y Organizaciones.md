@@ -17,9 +17,7 @@
 
 ![[Pasted image 20220526065306.png]]
 
-[[Alvarez]]
-
-
+El líder es el resultado de las necesidades del grupo. Se lo valora por sus habilidades.  Se busca que el líder sea la voz del grupo, y evitar que todos hablen a la vez. 
 
 
 
