@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "41cc8bfca453f54f",
@@ -103,11 +104,11 @@
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
     "Pages/Sistemas y Organizaciones.md",
+    "Pages/Clase 3 SyO 16-05-2022.md",
+    "Pages/Clase  4 SyO 23-05-2022.md",
     "000 Home.md",
     "Pages/Clase 5 AyED  practica 27-05-2022.md",
     "Pages/Algoritmos y Estructuras de Datos.md",
-    "Pages/Clase  4 SyO 23-05-2022.md",
-    "Pages/Clase 3 SyO 16-05-2022.md",
     "Pages/Ponerme al día con AM.md",
     "Pages/Análisis Matemático 1.md",
     "Pages/Unidad 2 - Límites y Continuidad.md",
