@@ -26,6 +26,10 @@ valores, recursos, agentes
 ### Subsistema administrativo 
 ####  Introducción
 #### Estructura formal 
++ Comunicación Formal 
++ Organización formal 
++ Principios de la organización formal 
++ 
 #### Procesos de administración
 
 
@@ -47,4 +51,35 @@ El entorno es el macrosistema
 
 
 
-# Introducci
+# Introducción a la administración 
++ Esto todo junto 
+ #### Definición DE ADMINISTRACIÓN 
+#### objeto DE LA ADMINISTRACIÓN
+
+
+
+
+
++ Acá defino cada uno por separado con todas las características de cada nivel 
+#### los NIVELES DE LA ADMINISTRACIÓN
+#### los NIVELES DE LA ADMINISTRACIÓN
+#### Tipos de planificación
+##### Según el nivel administrativo 
+##### Según el plazo 
+##### Según el grado de uso de los planes
+#### Tipos de control 
++ Por su ámbito 
++ Por el momento 
++ Por el nivel de administración que lo aplica
+
+
+
+
+
+
+
+
+
+
+
+

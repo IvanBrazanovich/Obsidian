@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8145c26fcd79962d",
+        "id": "b3b99aa84a310cfd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -17,7 +17,7 @@
         }
       },
       {
-        "id": "b3b99aa84a310cfd",
+        "id": "8747afa14173bfeb",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/SyO 2unity.md",
+                "file": "Pages/Summary de todo SyO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/SyO 2unity.md",
+                "file": "Pages/Summary de todo SyO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,8 +116,8 @@
   },
   "active": "b3b99aa84a310cfd",
   "lastOpenFiles": [
-    "Pages/SyO 2unity.md",
     "Pages/Summary de todo SyO.md",
+    "Pages/SyO 2unity.md",
     "Pages/Sistemas y Organizaciones.md",
     "000 Home.md",
     "Pages/Clase  4 SyO 23-05-2022.md",
