@@ -190,3 +190,11 @@ Identificar y clasificar actividades
 Agrupar en divisiones o departamentos
 Asignar a cada división una autoridad
 Coordinar la estructura para alcanzar los objetivos
+
+
+Conocer todos los antecedentes de la situación o del problema. 
+Identificar el o los problemas a resolver
+Identificar cuáles son las posibilidades alrededor del problema reconocido
+Qué cambio se puede producir y qué necesididades se pueden satisfacer 
+Establecer objetivo 
+Retroalimentación
