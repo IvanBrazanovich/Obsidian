@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Summary de todo SyO.md",
+            "file": "Pages/Clase  4 SyO 23-05-2022.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Summary de todo SyO.md",
+                "file": "Pages/Clase  4 SyO 23-05-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Summary de todo SyO.md",
+                "file": "Pages/Clase  4 SyO 23-05-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,15 +116,15 @@
   },
   "active": "b3b99aa84a310cfd",
   "lastOpenFiles": [
+    "Pages/Clase  4 SyO 23-05-2022.md",
+    "Pages/Sistemas y Organizaciones.md",
+    "Pages/Clase 3 SyO 16-05-2022.md",
+    "Pages/Clase 2 SyO 09-05-2022.md",
+    "Pages/Clase 1 SyO 25-4-2022.md",
+    "000 Home.md",
     "Pages/Summary de todo SyO.md",
     "Pages/SyO 2unity.md",
-    "Pages/Sistemas y Organizaciones.md",
-    "000 Home.md",
-    "Pages/Clase  4 SyO 23-05-2022.md",
-    "Pages/Clase 3 SyO 16-05-2022.md",
     "Pages/Clase 5 AyED  practica 27-05-2022.md",
-    "Pages/Algoritmos y Estructuras de Datos.md",
-    "Pages/Ponerme al día con AM.md",
-    "Pages/Análisis Matemático 1.md"
+    "Pages/Algoritmos y Estructuras de Datos.md"
   ]
 }
