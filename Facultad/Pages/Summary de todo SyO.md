@@ -184,3 +184,9 @@ Tipos de comunicación
 + Por el nivel de administración que lo aplica
 
 [[SyO 2unity]]
+
+
+Identificar y clasificar actividades
+Agrupar en divisiones o departamentos
+Asignar a cada división una autoridad
+Coordinar la estructura para alcanzar los objetivos
