@@ -90,6 +90,8 @@ Aquí encontramos el proceso administrativo: planificación, organización, dire
 Las funciones y niveles de jerarquía conforman la organización o estructura formal.
 La Organización Formal es aquella estructura planeada, diseñada intencionalmente, para la ejecución de las diferentes funciones
 
+### Organización formal
+
 Principios de la organización formal 
 La autoridad
 La delegación
@@ -111,7 +113,7 @@ Y bueno todo lo que le sigue
 
 
 #### Comunicación formal
-
+Y todo lo que va abajo
 
 
 
@@ -149,7 +151,11 @@ El entorno es el macrosistema
 ##### Según el plazo 
 
 ##### Según el grado de uso de los planes 
-
+Habilidades del administrador
+#### Tipos de control 
++ Por su ámbito 
++ Por el momento 
++ Por el nivel de administración que lo aplica
 
 ### La organización
 #### Definición de organización
