@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "niveles ",
+                "query": "patr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,12 +50,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "41cc8bfca453f54f",
