@@ -51,3 +51,34 @@
 
 
 # Límites 
+#### ¿Cómo se resuelve ?![[Pasted image 20220608105939.png]]
+Nos ayudamos de la definición de valor absoluto definida por tramo 
+![[Pasted image 20220608110042.png]]
+![[Pasted image 20220608110009.png]]
+analizamos por izquierda y por derecha
+![[Pasted image 20220608110141.png]]
+
+#### ¿Cómo se resuelve?
+![[Pasted image 20220608110319.png]]
+![[Pasted image 20220608112322.png]]
+
+
+
+
+#### ¿Cómo se resuelve?![[Pasted image 20220608112410.png]]
+![[Pasted image 20220608112403.png]]
+
+
+
+#### ¿Cómo se resuelve un límite indeterminado 0/0?
+Se factoriza
+
+
+
+
+#### ¿Cómo puedo resolver?
+
+
+
+
+
