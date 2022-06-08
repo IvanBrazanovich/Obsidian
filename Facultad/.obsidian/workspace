@@ -93,8 +93,19 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5d4a4a007f94ad03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pages/Practica 1er parcial.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
