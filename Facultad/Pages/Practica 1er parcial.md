@@ -51,6 +51,7 @@
 
 
 # Límites 
+## Indeterminaciones 0/0
 #### ¿Cómo se resuelve ?![[Pasted image 20220608105939.png]]
 Nos ayudamos de la definición de valor absoluto definida por tramo 
 ![[Pasted image 20220608110042.png]]
@@ -76,9 +77,41 @@ Se factoriza
 
 
 
-#### ¿Cómo puedo resolver?
+#### ¿Cómo puedo resolver?![[Pasted image 20220608112455.png]]
 
 
 
 
 
+
+## Trabajando con infinitos
+#### ¿Cómo resuelvo cuando es infinito menos infinito?
+Se trabaja con el de mayor orden, o sea toma el valor de mayor orden. 
++ Infinito cuadrado menos infinito es igual a infinito
+
+
+#### ¿Cómo resuelvo?![[Pasted image 20220608113213.png]]
+ ![[Pasted image 20220608113237.png]]![[Pasted image 20220608113253.png]]
+
+
+
+
+#### ¿Cómo resolvemos?![[Pasted image 20220608113529.png]]
+![[Pasted image 20220608113518.png]]
+![[Pasted image 20220608113605.png]]
+
+#### ¿Cómo se resuelve?![[Pasted image 20220608114056.png]]
+![[Pasted image 20220608114045.png]]
+![[Pasted image 20220608114129.png]]
+
+
+#### ¿Cómo se resuelve?![[Pasted image 20220608114208.png]]
+
+
+
+#### ¿Cómo se resuelve?![[Pasted image 20220608115024.png]]
+![[Pasted image 20220608115016.png]]![[Pasted image 20220608115047.png]]
+
+## Asíntota vertical
+#### ¿Cómo se resuelve?![[Pasted image 20220608115338.png]]
+![[Pasted image 20220608115329.png]]
