@@ -115,3 +115,17 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 ## Asíntota vertical
 #### ¿Cómo se resuelve?![[Pasted image 20220608115338.png]]
 ![[Pasted image 20220608115329.png]]
+
+
+
+### ¿Cuáles son las indeterminaciones capitales?
+![[Pasted image 20220609063646.png]]
+
+
+#### ¿Cómo se resuelven los que tienen el número e?
+![[Pasted image 20220609065326.png]]
+
+![[Pasted image 20220609065358.png]] 
+
+
+![[Pasted image 20220609065712.png]]
