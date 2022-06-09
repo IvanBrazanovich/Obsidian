@@ -129,3 +129,8 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 
 
 ![[Pasted image 20220609065712.png]]
+
+
+#### ¿Cómo resuelvo esto? ![[Pasted image 20220609072954.png]]
+con esto
+![[Pasted image 20220609065712.png]]
