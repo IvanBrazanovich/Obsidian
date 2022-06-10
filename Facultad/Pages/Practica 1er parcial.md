@@ -151,7 +151,7 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 ![[Pasted image 20220610154555.png]]
 ![[Pasted image 20220610154721.png]]
 ![[Pasted image 20220610155539.png]]
-
+![[Pasted image 20220610155732.png]]
 
 
 ### 0/0
@@ -161,7 +161,7 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 ![[Pasted image 20220610154632.png]]
 ![[Pasted image 20220610154921.png]]
 ![[Pasted image 20220610155459.png]]
-![[Pasted image 20220610155732.png]]
+
 
 ### 1 al infinito
 ![[Pasted image 20220610154708.png]]
