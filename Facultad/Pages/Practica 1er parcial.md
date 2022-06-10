@@ -133,3 +133,36 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 
 #### ¿Cómo resuelvo esto? ![[Pasted image 20220610124628.png]]
 ![[Pasted image 20220610124621.png]]
+
+
+
+
+
+
+### Tipos 
+### Infinito sobre infinito
+![[Pasted image 20220610154427.png]]
+
+
+
+
+
+### Infinito menos infinito 
+![[Pasted image 20220610154555.png]]
+
+
+
+
+
+### 0/0
+![[Pasted image 20220610154508.png]]
+![[Pasted image 20220610154541.png]]
+![[Pasted image 20220610154619.png]]
+![[Pasted image 20220610154632.png]]
+
+
+
+
+
+### 1 al infinito
+![[Pasted image 20220610154708.png]]
