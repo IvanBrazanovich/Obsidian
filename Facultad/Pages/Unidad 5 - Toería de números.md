@@ -4,3 +4,4 @@ Divisibilidad y divisores. Números primos: propiedades. Máximo común divisor 
 La relación módulo en los enteros. El algoritmo de la división. Números primos y el Teorema fundamental de la aritmética. Inducción matemática.
 
 
+
