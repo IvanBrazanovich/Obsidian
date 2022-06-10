@@ -138,7 +138,8 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 
 
 
-
+# Práctica
+## Límites
 ### Tipos 
 ### Infinito sobre infinito
 ![[Pasted image 20220610154427.png]]
@@ -172,3 +173,27 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 
 ### Con trigonometraia
 ![[Pasted image 20220610155406.png]]![[Pasted image 20220610155553.png]]
+
+## Inecuaciones
+![[Pasted image 20220610183349.png]]![[Pasted image 20220610183400.png]]
+![[Pasted image 20220610184152.png]]
+
+
+
+## Continuidad
+![[Pasted image 20220610183452.png]]
+
+
+## Graficar
+![[Pasted image 20220610184101.png]]![[Pasted image 20220610184112.png]]
+![[Pasted image 20220610184211.png]]
+![[Pasted image 20220610184227.png]]
+
+
+
+
+## Sucesiones
+![[Pasted image 20220610184133.png]]
+
+## Funciones 
+![[Pasted image 20220610184246.png]]![[Pasted image 20220610184252.png]]![[Pasted image 20220610184306.png]]![[Pasted image 20220610184314.png]]
