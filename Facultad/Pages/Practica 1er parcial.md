@@ -142,15 +142,15 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 ### Tipos 
 ### Infinito sobre infinito
 ![[Pasted image 20220610154427.png]]
-
-
-
-
+![[Pasted image 20220610154746.png]]
+![[Pasted image 20220610155344.png]]
+![[Pasted image 20220610155431.png]]
+![[Pasted image 20220610155523.png]]
 
 ### Infinito menos infinito 
 ![[Pasted image 20220610154555.png]]
-
-
+![[Pasted image 20220610154721.png]]
+![[Pasted image 20220610155539.png]]
 
 
 
@@ -159,10 +159,16 @@ Se trabaja con el de mayor orden, o sea toma el valor de mayor orden.
 ![[Pasted image 20220610154541.png]]
 ![[Pasted image 20220610154619.png]]
 ![[Pasted image 20220610154632.png]]
-
-
-
-
+![[Pasted image 20220610154921.png]]
+![[Pasted image 20220610155459.png]]
+![[Pasted image 20220610155732.png]]
 
 ### 1 al infinito
 ![[Pasted image 20220610154708.png]]
+![[Pasted image 20220610155742.png]]
+![[Pasted image 20220610155753.png]]
+![[Pasted image 20220610155821.png]]
+
+
+### Con trigonometraia
+![[Pasted image 20220610155406.png]]![[Pasted image 20220610155553.png]]
