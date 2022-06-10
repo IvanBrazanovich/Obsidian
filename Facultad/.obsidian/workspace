@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Unidad 5 - Toería de números.md",
+            "file": "Pages/Practica 1er parcial.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Unidad 5 - Toería de números.md",
+                "file": "Pages/Practica 1er parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Unidad 5 - Toería de números.md",
+                "file": "Pages/Practica 1er parcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/Unidad 5 - Toería de números.md"
+                "file": "Pages/Practica 1er parcial.md"
               }
             }
           }
@@ -114,11 +114,11 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Unidad 5 - Toería de números.md",
-    "Pages/Matemática Discreta.md",
-    "000 Home.md",
     "Pages/Practica 1er parcial.md",
     "Pages/Análisis Matemático 1.md",
+    "000 Home.md",
+    "Pages/Matemática Discreta.md",
+    "Pages/Unidad 5 - Toería de números.md",
     "Pages/Clase  4 SyO 23-05-2022.md",
     "Pages/Sistemas y Organizaciones.md",
     "Pages/Clase 3 SyO 16-05-2022.md",
