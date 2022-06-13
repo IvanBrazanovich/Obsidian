@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Clase 6 SyO Practica 13-06-2022.md",
+            "file": "Pages/Practica 1er parcial.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/Clase 6 SyO Practica 13-06-2022.md",
+                "file": "Pages/Practica 1er parcial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pages/Clase 6 SyO Practica 13-06-2022.md",
+                "file": "Pages/Practica 1er parcial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5d4a4a007f94ad03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pages/Practica 1er parcial.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -103,15 +114,15 @@
   },
   "active": "8145c26fcd79962d",
   "lastOpenFiles": [
-    "Pages/Clase 6 SyO Practica 13-06-2022.md",
-    "Pages/Sistemas y Organizaciones.md",
+    "Pages/Practica 1er parcial.md",
+    "Pages/Análisis Matemático 1.md",
     "000 Home.md",
-    "Pages/Clase 5 SyO 9-06-2022.md",
+    "Pages/Matemática Discreta.md",
+    "Pages/Unidad 5 - Toería de números.md",
     "Pages/Clase  4 SyO 23-05-2022.md",
+    "Pages/Sistemas y Organizaciones.md",
     "Pages/Clase 3 SyO 16-05-2022.md",
     "Pages/Correciones SyO.md",
-    "Pages/Clase 5 SyO 30-05-2022.md",
-    "Pages/Clase 5 AyED  practica 27-05-2022.md",
-    "Pages/Algoritmos y Estructuras de Datos.md"
+    "Pages/Clase 5 SyO 30-05-2022.md"
   ]
 }

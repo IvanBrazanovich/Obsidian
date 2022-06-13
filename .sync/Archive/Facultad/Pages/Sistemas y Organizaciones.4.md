@@ -11,8 +11,6 @@
 [[Clase 2 SyO 09-05-2022]]
 [[Clase 3 SyO 16-05-2022]]
 [[Clase  4 SyO 23-05-2022]]
-[[Clase 5 SyO 9-06-2022]]
-[[Clase 6 SyO Practica 13-06-2022]]
 
 
 
